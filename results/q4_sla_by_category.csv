@@ -1,0 +1,10 @@
+category,tickets,breach_pct,reopen_pct
+Business application error,90,20.0,18.9
+"Hardware fault (laptop, printer)",197,12.2,12.7
+New starter / leaver setup,116,6.9,6.0
+Wi-Fi / network,268,1.9,19.0
+VPN / remote access,147,1.4,14.3
+Teams / video meetings,185,0.5,6.5
+Software install / licence,221,0.0,6.3
+Password reset / account lockout,404,0.0,3.5
+Email / Outlook,237,0.0,9.7
