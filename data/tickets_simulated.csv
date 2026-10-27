@@ -1,0 +1,1866 @@
+ticket_id,created_at,category,priority,channel,agent,first_response_mins,resolution_hours,sla_target_hours,sla_breached,reopened,csat_score
+INC1000,2026-04-01 10:14,Password reset / account lockout,P2 High,Portal,Agent E,6.0,0.38,8,0,0,4
+INC1001,2026-04-01 13:34,Wi-Fi / network,P3 Medium,Phone,Agent A,8.9,4.55,24,0,0,4
+INC1002,2026-04-01 11:22,VPN / remote access,P3 Medium,Portal,Agent D,7.5,11.86,24,0,0,4
+INC1003,2026-04-01 13:55,Wi-Fi / network,P2 High,Phone,Agent B,9.0,3.25,8,0,0,4
+INC1004,2026-04-01 14:04,Software install / licence,P2 High,Portal,Agent B,3.9,2.86,8,0,0,3
+INC1005,2026-04-01 08:52,Password reset / account lockout,P3 Medium,Phone,Agent B,13.3,1.48,24,0,0,5
+INC1006,2026-04-01 09:08,Email / Outlook,P3 Medium,Phone,Agent E,4.8,2.66,24,0,0,4
+INC1007,2026-04-01 15:09,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,9.5,8.31,48,0,0,5
+INC1008,2026-04-01 09:56,Software install / licence,P3 Medium,Email,Agent A,17.2,2.02,24,0,0,4
+INC1009,2026-04-01 13:53,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,16.3,9.46,24,0,1,5
+INC1010,2026-04-01 09:31,VPN / remote access,P4 Low,Email,Agent B,10.7,2.87,48,0,0,3
+INC1011,2026-04-01 11:13,New starter / leaver setup,P4 Low,Portal,Agent C,2.7,7.9,48,0,0,4
+INC1012,2026-04-02 08:35,Email / Outlook,P3 Medium,Phone,Agent A,7.1,1.01,24,0,0,4
+INC1013,2026-04-02 15:51,Wi-Fi / network,P2 High,Portal,Agent C,12.3,3.84,8,0,0,4
+INC1014,2026-04-02 09:25,Teams / video meetings,P4 Low,Phone,Agent B,8.9,1.88,48,0,0,5
+INC1015,2026-04-02 15:35,Password reset / account lockout,P3 Medium,Email,Agent A,9.8,0.76,24,0,0,4
+INC1016,2026-04-02 08:24,Password reset / account lockout,P3 Medium,Walk-up,Agent D,29.8,0.29,24,0,0,4
+INC1017,2026-04-02 09:03,Software install / licence,P3 Medium,Portal,Agent A,25.0,1.13,24,0,1,4
+INC1018,2026-04-02 12:54,Password reset / account lockout,P3 Medium,Portal,Agent B,11.8,0.13,24,0,0,5
+INC1019,2026-04-02 13:20,New starter / leaver setup,P3 Medium,Portal,Agent B,13.1,4.65,24,0,0,5
+INC1020,2026-04-02 16:00,Wi-Fi / network,P4 Low,Walk-up,Agent A,5.6,5.85,48,0,1,4
+INC1021,2026-04-02 11:34,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent E,10.8,5.7,24,0,0,5
+INC1022,2026-04-02 14:13,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,21.5,7.22,48,0,0,4
+INC1023,2026-04-02 11:00,Password reset / account lockout,P4 Low,Portal,Agent B,11.0,1.25,48,0,0,4
+INC1024,2026-04-02 10:57,New starter / leaver setup,P4 Low,Phone,Agent C,19.4,7.33,48,0,0,5
+INC1025,2026-04-02 15:51,VPN / remote access,P4 Low,Phone,Agent C,19.3,9.69,48,0,0,5
+INC1026,2026-04-03 11:02,VPN / remote access,P3 Medium,Portal,Agent D,16.3,1.51,24,0,0,5
+INC1027,2026-04-03 11:17,VPN / remote access,P4 Low,Phone,Agent E,7.6,12.28,48,0,0,4
+INC1028,2026-04-03 13:32,Password reset / account lockout,P4 Low,Phone,Agent A,23.9,1.95,48,0,0,4
+INC1029,2026-04-03 10:04,New starter / leaver setup,P4 Low,Email,Agent A,7.2,10.97,48,0,0,4
+INC1030,2026-04-03 11:24,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,7.7,8.26,48,0,0,5
+INC1031,2026-04-03 13:20,Wi-Fi / network,P3 Medium,Phone,Agent D,5.1,7.3,24,0,0,5
+INC1032,2026-04-03 10:19,Email / Outlook,P2 High,Phone,Agent B,15.3,3.98,8,0,0,5
+INC1033,2026-04-03 11:25,Email / Outlook,P3 Medium,Phone,Agent A,27.9,2.97,24,0,0,3
+INC1034,2026-04-03 09:08,Teams / video meetings,P3 Medium,Walk-up,Agent E,7.2,1.24,24,0,0,4
+INC1035,2026-04-03 11:58,Software install / licence,P4 Low,Portal,Agent D,16.2,3.77,48,0,0,4
+INC1036,2026-04-03 11:45,Email / Outlook,P3 Medium,Email,Agent E,6.0,2.74,24,0,0,4
+INC1037,2026-04-03 11:03,Password reset / account lockout,P3 Medium,Walk-up,Agent E,6.6,1.75,24,0,0,3
+INC1038,2026-04-03 15:34,Teams / video meetings,P3 Medium,Email,Agent B,9.7,1.97,24,0,0,5
+INC1039,2026-04-03 15:46,Password reset / account lockout,P3 Medium,Phone,Agent E,13.2,1.06,24,0,0,3
+INC1040,2026-04-03 09:16,Wi-Fi / network,P3 Medium,Email,Agent D,8.8,2.43,24,0,1,4
+INC1041,2026-04-06 08:41,Password reset / account lockout,P1 Critical,Phone,Agent A,5.8,0.3,4,0,0,4
+INC1042,2026-04-06 11:16,Teams / video meetings,P2 High,Email,Agent A,3.8,2.33,8,0,0,3
+INC1043,2026-04-06 11:45,Password reset / account lockout,P3 Medium,Portal,Agent B,15.6,1.37,24,0,0,4
+INC1044,2026-04-06 11:32,"Hardware fault (laptop, printer)",P1 Critical,Email,Agent D,8.7,8.02,4,1,0,4
+INC1045,2026-04-06 15:34,Teams / video meetings,P3 Medium,Portal,Agent E,16.8,0.57,24,0,0,4
+INC1046,2026-04-06 13:24,Email / Outlook,P3 Medium,Email,Agent D,2.5,0.62,24,0,0,4
+INC1047,2026-04-06 16:05,Email / Outlook,P3 Medium,Email,Agent B,9.5,4.15,24,0,0,4
+INC1048,2026-04-06 09:44,Email / Outlook,P3 Medium,Email,Agent E,14.6,3.29,24,0,0,4
+INC1049,2026-04-06 09:12,Email / Outlook,P4 Low,Walk-up,Agent B,5.7,1.31,48,0,0,5
+INC1050,2026-04-06 13:06,VPN / remote access,P3 Medium,Email,Agent C,9.3,4.55,24,0,0,4
+INC1051,2026-04-06 09:03,Email / Outlook,P4 Low,Phone,Agent A,11.5,3.07,48,0,0,5
+INC1052,2026-04-06 13:19,Password reset / account lockout,P3 Medium,Email,Agent D,5.5,0.92,24,0,0,3
+INC1053,2026-04-06 17:19,Software install / licence,P2 High,Walk-up,Agent A,3.9,1.14,8,0,0,5
+INC1054,2026-04-06 08:28,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent C,8.6,16.98,24,0,0,5
+INC1055,2026-04-06 14:59,Password reset / account lockout,P2 High,Phone,Agent B,6.6,0.29,8,0,0,3
+INC1056,2026-04-06 14:44,Wi-Fi / network,P3 Medium,Email,Agent D,7.5,3.46,24,0,0,5
+INC1057,2026-04-06 16:48,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,16.8,7.39,24,0,0,4
+INC1058,2026-04-06 13:31,Business application error,P3 Medium,Email,Agent C,5.6,34.0,24,1,0,5
+INC1059,2026-04-06 12:29,Password reset / account lockout,P3 Medium,Phone,Agent D,10.5,0.55,24,0,0,4
+INC1060,2026-04-07 10:08,New starter / leaver setup,P3 Medium,Portal,Agent A,8.8,13.5,24,0,0,4
+INC1061,2026-04-07 09:07,"Hardware fault (laptop, printer)",P2 High,Walk-up,Agent C,3.3,8.9,8,1,0,4
+INC1062,2026-04-07 16:55,Password reset / account lockout,P4 Low,Portal,Agent C,15.8,2.43,48,0,0,4
+INC1063,2026-04-07 13:42,Wi-Fi / network,P2 High,Email,Agent C,0.9,2.26,8,0,0,5
+INC1064,2026-04-07 11:54,Teams / video meetings,P2 High,Portal,Agent D,6.0,1.38,8,0,0,4
+INC1065,2026-04-07 13:55,Password reset / account lockout,P4 Low,Phone,Agent D,8.9,0.51,48,0,0,4
+INC1066,2026-04-07 16:40,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent A,13.0,12.58,48,0,0,4
+INC1067,2026-04-07 09:06,Teams / video meetings,P4 Low,Phone,Agent B,4.6,2.34,48,0,0,5
+INC1068,2026-04-07 08:55,Wi-Fi / network,P3 Medium,Email,Agent E,7.1,2.68,24,0,1,3
+INC1069,2026-04-07 15:57,Email / Outlook,P3 Medium,Phone,Agent C,5.2,2.59,24,0,0,4
+INC1070,2026-04-07 08:53,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent A,14.8,9.53,24,0,0,5
+INC1071,2026-04-07 10:48,Teams / video meetings,P3 Medium,Portal,Agent A,7.0,4.99,24,0,0,4
+INC1072,2026-04-08 10:47,Wi-Fi / network,P3 Medium,Portal,Agent C,15.8,6.16,24,0,0,3
+INC1073,2026-04-08 14:21,Teams / video meetings,P3 Medium,Phone,Agent B,16.4,6.86,24,0,0,5
+INC1074,2026-04-08 08:34,Password reset / account lockout,P3 Medium,Portal,Agent C,24.6,1.03,24,0,0,4
+INC1075,2026-04-08 15:58,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,9.9,12.46,24,0,0,5
+INC1076,2026-04-08 09:29,Wi-Fi / network,P4 Low,Portal,Agent E,5.4,5.95,48,0,1,3
+INC1077,2026-04-08 16:02,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,21.5,11.75,24,0,0,4
+INC1078,2026-04-08 09:07,New starter / leaver setup,P4 Low,Phone,Agent B,7.4,13.38,48,0,0,5
+INC1079,2026-04-08 09:13,VPN / remote access,P3 Medium,Portal,Agent E,7.3,2.98,24,0,0,5
+INC1080,2026-04-08 08:00,Email / Outlook,P4 Low,Email,Agent A,16.2,5.5,48,0,0,4
+INC1081,2026-04-08 12:39,Password reset / account lockout,P4 Low,Portal,Agent E,18.6,0.71,48,0,0,4
+INC1082,2026-04-08 14:28,Password reset / account lockout,P2 High,Email,Agent A,8.1,0.2,8,0,0,4
+INC1083,2026-04-09 12:27,Password reset / account lockout,P4 Low,Portal,Agent E,9.3,1.56,48,0,0,4
+INC1084,2026-04-09 09:27,Email / Outlook,P3 Medium,Walk-up,Agent D,11.5,7.86,24,0,0,5
+INC1085,2026-04-09 10:07,Wi-Fi / network,P4 Low,Walk-up,Agent D,4.2,4.36,48,0,0,5
+INC1086,2026-04-09 11:48,Email / Outlook,P3 Medium,Email,Agent E,15.8,4.22,24,0,0,5
+INC1087,2026-04-09 14:19,New starter / leaver setup,P3 Medium,Phone,Agent B,3.7,6.66,24,0,1,4
+INC1088,2026-04-09 11:21,Password reset / account lockout,P3 Medium,Email,Agent E,9.0,1.63,24,0,0,4
+INC1089,2026-04-09 11:13,Teams / video meetings,P2 High,Email,Agent C,6.2,3.33,8,0,0,5
+INC1090,2026-04-09 09:13,Teams / video meetings,P4 Low,Phone,Agent A,15.2,1.66,48,0,0,4
+INC1091,2026-04-09 15:04,Wi-Fi / network,P4 Low,Email,Agent D,14.4,7.19,48,0,1,4
+INC1092,2026-04-09 15:39,Wi-Fi / network,P3 Medium,Email,Agent D,12.1,5.84,24,0,0,4
+INC1093,2026-04-09 10:21,Email / Outlook,P4 Low,Phone,Agent A,15.5,3.52,48,0,0,4
+INC1094,2026-04-10 09:16,Password reset / account lockout,P3 Medium,Portal,Agent A,16.2,0.5,24,0,0,3
+INC1095,2026-04-10 13:55,Business application error,P3 Medium,Email,Agent D,7.8,8.79,24,0,0,4
+INC1096,2026-04-10 10:28,Password reset / account lockout,P3 Medium,Phone,Agent A,9.2,0.64,24,0,0,5
+INC1097,2026-04-10 15:41,Password reset / account lockout,P3 Medium,Email,Agent A,3.0,0.4,24,0,0,4
+INC1098,2026-04-10 14:28,Software install / licence,P3 Medium,Email,Agent C,12.1,2.06,24,0,0,4
+INC1099,2026-04-10 12:24,Email / Outlook,P4 Low,Portal,Agent E,11.0,8.48,48,0,0,5
+INC1100,2026-04-10 17:44,"Hardware fault (laptop, printer)",P2 High,Portal,Agent A,16.7,5.1,8,0,0,4
+INC1101,2026-04-10 13:27,Software install / licence,P1 Critical,Email,Agent B,3.6,0.79,4,0,0,4
+INC1102,2026-04-10 12:34,VPN / remote access,P4 Low,Phone,Agent C,11.2,15.61,48,0,0,4
+INC1103,2026-04-10 16:46,Wi-Fi / network,P3 Medium,Portal,Agent B,7.0,12.03,24,0,0,3
+INC1104,2026-04-10 15:57,VPN / remote access,P3 Medium,Walk-up,Agent D,7.7,3.16,24,0,0,5
+INC1105,2026-04-13 09:16,Password reset / account lockout,P3 Medium,Email,Agent A,5.3,0.77,24,0,0,5
+INC1106,2026-04-13 16:52,Wi-Fi / network,P3 Medium,Phone,Agent A,8.8,2.91,24,0,0,4
+INC1107,2026-04-13 10:06,VPN / remote access,P3 Medium,Portal,Agent B,16.5,3.0,24,0,0,5
+INC1108,2026-04-13 09:09,Software install / licence,P4 Low,Email,Agent A,6.0,5.74,48,0,0,4
+INC1109,2026-04-13 13:04,Password reset / account lockout,P4 Low,Email,Agent A,13.7,1.09,48,0,1,3
+INC1110,2026-04-13 09:42,Password reset / account lockout,P4 Low,Phone,Agent E,10.1,1.46,48,0,0,5
+INC1111,2026-04-13 08:24,Business application error,P3 Medium,Phone,Agent A,17.8,4.91,24,0,0,4
+INC1112,2026-04-13 12:52,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent D,9.4,23.51,48,0,1,4
+INC1113,2026-04-13 09:02,Email / Outlook,P3 Medium,Email,Agent E,12.3,3.04,24,0,0,5
+INC1114,2026-04-13 10:51,Wi-Fi / network,P4 Low,Portal,Agent D,13.6,5.04,48,0,0,5
+INC1115,2026-04-14 11:27,Software install / licence,P4 Low,Email,Agent C,6.8,3.02,48,0,0,5
+INC1116,2026-04-14 09:28,Email / Outlook,P2 High,Portal,Agent C,11.9,3.33,8,0,1,3
+INC1117,2026-04-14 12:47,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent E,6.0,21.58,48,0,0,4
+INC1118,2026-04-14 10:36,Password reset / account lockout,P2 High,Email,Agent C,7.0,0.4,8,0,0,4
+INC1119,2026-04-14 09:47,Password reset / account lockout,P3 Medium,Walk-up,Agent A,9.9,0.38,24,0,0,4
+INC1120,2026-04-14 11:57,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent C,10.7,24.29,48,0,0,5
+INC1121,2026-04-14 14:11,Teams / video meetings,P3 Medium,Phone,Agent B,9.9,2.87,24,0,0,5
+INC1122,2026-04-14 11:35,Password reset / account lockout,P4 Low,Phone,Agent D,8.5,1.01,48,0,0,5
+INC1123,2026-04-14 13:11,Teams / video meetings,P2 High,Email,Agent A,4.7,3.25,8,0,0,4
+INC1124,2026-04-14 09:33,New starter / leaver setup,P4 Low,Phone,Agent E,11.4,6.8,48,0,0,4
+INC1125,2026-04-14 09:39,Teams / video meetings,P3 Medium,Portal,Agent E,5.0,3.54,24,0,0,4
+INC1126,2026-04-14 08:56,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent D,8.4,2.18,24,0,0,5
+INC1127,2026-04-15 11:21,Software install / licence,P3 Medium,Portal,Agent C,7.0,2.5,24,0,0,4
+INC1128,2026-04-15 10:24,VPN / remote access,P3 Medium,Walk-up,Agent B,7.5,4.53,24,0,0,5
+INC1129,2026-04-15 09:25,Software install / licence,P4 Low,Phone,Agent C,18.9,2.92,48,0,0,4
+INC1130,2026-04-15 09:08,VPN / remote access,P4 Low,Portal,Agent C,7.0,6.75,48,0,0,4
+INC1131,2026-04-15 12:52,Business application error,P3 Medium,Phone,Agent A,13.8,5.22,24,0,0,4
+INC1132,2026-04-15 09:21,Teams / video meetings,P3 Medium,Phone,Agent E,21.4,1.89,24,0,0,4
+INC1133,2026-04-15 12:32,Software install / licence,P4 Low,Phone,Agent A,30.3,2.79,48,0,0,5
+INC1134,2026-04-15 17:50,Business application error,P3 Medium,Phone,Agent A,14.1,9.35,24,0,0,5
+INC1135,2026-04-15 09:43,Email / Outlook,P3 Medium,Portal,Agent B,3.1,1.29,24,0,0,5
+INC1136,2026-04-15 15:47,Teams / video meetings,P4 Low,Email,Agent E,10.4,2.45,48,0,0,3
+INC1137,2026-04-15 16:21,Software install / licence,P3 Medium,Portal,Agent C,5.5,3.75,24,0,0,5
+INC1138,2026-04-15 10:13,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,13.4,7.84,24,0,0,4
+INC1139,2026-04-15 15:49,Teams / video meetings,P3 Medium,Phone,Agent A,6.2,1.31,24,0,0,3
+INC1140,2026-04-15 14:08,Password reset / account lockout,P4 Low,Phone,Agent A,11.6,1.15,48,0,0,4
+INC1141,2026-04-15 14:06,"Hardware fault (laptop, printer)",P2 High,Walk-up,Agent B,12.6,2.07,8,0,0,5
+INC1142,2026-04-16 13:58,Teams / video meetings,P3 Medium,Phone,Agent A,16.1,2.73,24,0,0,5
+INC1143,2026-04-16 12:59,Teams / video meetings,P4 Low,Phone,Agent A,9.6,2.95,48,0,0,4
+INC1144,2026-04-16 09:29,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent C,13.8,26.56,48,0,0,5
+INC1145,2026-04-16 12:05,Wi-Fi / network,P2 High,Walk-up,Agent D,4.3,3.05,8,0,0,4
+INC1146,2026-04-16 16:19,Software install / licence,P3 Medium,Phone,Agent C,5.7,4.01,24,0,0,3
+INC1147,2026-04-16 14:19,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent C,6.4,10.11,24,0,0,4
+INC1148,2026-04-16 13:26,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent B,15.9,27.73,48,0,0,4
+INC1149,2026-04-16 16:07,Password reset / account lockout,P3 Medium,Email,Agent E,19.2,0.78,24,0,0,4
+INC1150,2026-04-16 14:31,Password reset / account lockout,P3 Medium,Portal,Agent D,11.6,0.31,24,0,0,4
+INC1151,2026-04-16 10:00,Teams / video meetings,P3 Medium,Phone,Agent C,25.7,3.32,24,0,0,5
+INC1152,2026-04-16 09:08,Teams / video meetings,P4 Low,Email,Agent D,5.3,1.02,48,0,0,5
+INC1153,2026-04-16 15:08,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent E,8.7,8.91,24,0,0,5
+INC1154,2026-04-17 11:09,Email / Outlook,P4 Low,Portal,Agent A,16.9,18.62,48,0,1,4
+INC1155,2026-04-17 13:28,Software install / licence,P4 Low,Phone,Agent A,4.0,3.62,48,0,0,5
+INC1156,2026-04-17 10:38,Teams / video meetings,P4 Low,Phone,Agent B,11.5,2.86,48,0,0,3
+INC1157,2026-04-17 09:43,Wi-Fi / network,P3 Medium,Walk-up,Agent D,9.0,5.65,24,0,0,4
+INC1158,2026-04-17 15:19,VPN / remote access,P2 High,Email,Agent A,6.4,18.5,8,1,0,3
+INC1159,2026-04-17 09:41,Password reset / account lockout,P3 Medium,Email,Agent E,4.8,0.97,24,0,0,5
+INC1160,2026-04-17 14:46,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent C,26.6,6.29,24,0,0,4
+INC1161,2026-04-17 16:44,Software install / licence,P3 Medium,Walk-up,Agent E,9.0,2.97,24,0,0,3
+INC1162,2026-04-17 11:51,Business application error,P3 Medium,Portal,Agent B,10.8,8.12,24,0,1,5
+INC1163,2026-04-17 10:59,Software install / licence,P4 Low,Phone,Agent B,19.8,3.71,48,0,0,4
+INC1164,2026-04-17 15:46,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent C,8.6,2.88,24,0,0,4
+INC1165,2026-04-20 08:54,Password reset / account lockout,P4 Low,Phone,Agent A,3.9,0.48,48,0,1,4
+INC1166,2026-04-20 12:23,Password reset / account lockout,P3 Medium,Walk-up,Agent D,10.5,0.6,24,0,0,4
+INC1167,2026-04-20 16:11,Password reset / account lockout,P2 High,Phone,Agent B,2.9,0.7,8,0,0,4
+INC1168,2026-04-20 17:29,Software install / licence,P4 Low,Phone,Agent A,13.4,11.35,48,0,0,4
+INC1169,2026-04-20 08:10,Password reset / account lockout,P4 Low,Email,Agent C,4.1,1.64,48,0,0,4
+INC1170,2026-04-20 09:55,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,11.4,8.66,24,0,0,4
+INC1171,2026-04-20 09:09,Teams / video meetings,P4 Low,Email,Agent A,15.7,1.76,48,0,0,4
+INC1172,2026-04-20 12:24,Teams / video meetings,P2 High,Walk-up,Agent A,2.6,1.75,8,0,0,4
+INC1173,2026-04-20 16:25,Business application error,P3 Medium,Email,Agent D,22.2,9.37,24,0,0,5
+INC1174,2026-04-20 14:05,Teams / video meetings,P3 Medium,Phone,Agent A,14.3,2.93,24,0,0,5
+INC1175,2026-04-20 10:17,Password reset / account lockout,P2 High,Email,Agent E,2.8,0.82,8,0,0,4
+INC1176,2026-04-20 13:20,VPN / remote access,P1 Critical,Email,Agent A,6.4,2.41,4,0,0,4
+INC1177,2026-04-20 09:10,Wi-Fi / network,P3 Medium,Email,Agent A,12.4,5.14,24,0,1,4
+INC1178,2026-04-20 08:25,Email / Outlook,P3 Medium,Portal,Agent C,25.9,2.49,24,0,0,4
+INC1179,2026-04-20 14:30,Email / Outlook,P4 Low,Walk-up,Agent C,7.8,8.05,48,0,0,5
+INC1180,2026-04-20 11:59,Software install / licence,P3 Medium,Email,Agent E,25.2,6.36,24,0,0,4
+INC1181,2026-04-21 09:27,Teams / video meetings,P2 High,Walk-up,Agent D,5.5,2.24,8,0,0,4
+INC1182,2026-04-21 13:58,Password reset / account lockout,P4 Low,Portal,Agent C,12.0,0.47,48,0,0,3
+INC1183,2026-04-21 17:21,Business application error,P3 Medium,Phone,Agent C,12.1,3.9,24,0,0,4
+INC1184,2026-04-21 14:44,Software install / licence,P3 Medium,Phone,Agent A,4.7,3.56,24,0,0,5
+INC1185,2026-04-21 10:06,Wi-Fi / network,P3 Medium,Email,Agent C,10.3,2.22,24,0,0,4
+INC1186,2026-04-21 15:40,Password reset / account lockout,P3 Medium,Email,Agent A,4.6,0.47,24,0,0,5
+INC1187,2026-04-21 13:51,VPN / remote access,P2 High,Email,Agent D,4.4,1.1,8,0,0,4
+INC1188,2026-04-21 09:22,VPN / remote access,P3 Medium,Portal,Agent C,12.9,10.09,24,0,0,5
+INC1189,2026-04-21 09:23,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,9.7,9.04,24,0,0,5
+INC1190,2026-04-21 09:18,Password reset / account lockout,P3 Medium,Email,Agent A,7.6,0.5,24,0,0,4
+INC1191,2026-04-21 11:31,Wi-Fi / network,P4 Low,Email,Agent A,6.7,7.36,48,0,0,3
+INC1192,2026-04-21 12:32,Password reset / account lockout,P2 High,Portal,Agent C,9.7,0.78,8,0,0,4
+INC1193,2026-04-21 11:47,VPN / remote access,P4 Low,Phone,Agent A,17.8,4.43,48,0,0,4
+INC1194,2026-04-21 15:37,"Hardware fault (laptop, printer)",P4 Low,Email,Agent D,6.8,8.43,48,0,1,3
+INC1195,2026-04-21 10:17,Software install / licence,P2 High,Walk-up,Agent C,7.3,2.52,8,0,0,5
+INC1196,2026-04-22 17:55,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent B,22.9,40.95,48,0,0,4
+INC1197,2026-04-22 11:28,Password reset / account lockout,P4 Low,Portal,Agent D,20.3,0.93,48,0,0,4
+INC1198,2026-04-22 10:00,VPN / remote access,P4 Low,Phone,Agent D,19.3,8.1,48,0,0,4
+INC1199,2026-04-22 09:54,Wi-Fi / network,P3 Medium,Portal,Agent A,8.5,0.77,24,0,0,5
+INC1200,2026-04-22 13:03,Wi-Fi / network,P3 Medium,Portal,Agent B,5.9,3.72,24,0,1,3
+INC1201,2026-04-22 11:00,"Hardware fault (laptop, printer)",P4 Low,Walk-up,Agent D,7.3,17.26,48,0,0,4
+INC1202,2026-04-23 10:24,Teams / video meetings,P4 Low,Phone,Agent B,11.4,1.26,48,0,0,5
+INC1203,2026-04-23 09:47,Password reset / account lockout,P3 Medium,Portal,Agent B,8.0,1.07,24,0,0,5
+INC1204,2026-04-23 13:38,Email / Outlook,P4 Low,Phone,Agent C,5.9,2.17,48,0,0,5
+INC1205,2026-04-23 15:50,Business application error,P3 Medium,Phone,Agent D,8.1,10.93,24,0,0,5
+INC1206,2026-04-23 12:11,Teams / video meetings,P4 Low,Portal,Agent A,21.5,2.96,48,0,0,4
+INC1207,2026-04-23 14:49,Wi-Fi / network,P4 Low,Phone,Agent E,5.9,8.34,48,0,0,4
+INC1208,2026-04-23 13:19,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent A,12.2,4.27,48,0,1,3
+INC1209,2026-04-23 09:00,Password reset / account lockout,P4 Low,Email,Agent C,14.8,0.74,48,0,0,4
+INC1210,2026-04-23 15:17,Software install / licence,P3 Medium,Walk-up,Agent A,6.6,2.53,24,0,0,4
+INC1211,2026-04-23 16:43,Teams / video meetings,P3 Medium,Email,Agent A,16.9,0.87,24,0,0,5
+INC1212,2026-04-23 14:41,Wi-Fi / network,P3 Medium,Email,Agent C,7.7,3.48,24,0,0,5
+INC1213,2026-04-23 09:51,Software install / licence,P2 High,Email,Agent D,5.6,2.34,8,0,0,5
+INC1214,2026-04-23 10:23,Software install / licence,P3 Medium,Portal,Agent B,14.3,4.87,24,0,0,3
+INC1215,2026-04-23 08:34,Email / Outlook,P4 Low,Portal,Agent C,4.2,14.71,48,0,0,4
+INC1216,2026-04-23 17:45,Email / Outlook,P2 High,Phone,Agent E,5.1,1.42,8,0,0,4
+INC1217,2026-04-24 11:37,Software install / licence,P3 Medium,Walk-up,Agent B,20.5,0.8,24,0,0,4
+INC1218,2026-04-24 10:28,Email / Outlook,P2 High,Phone,Agent E,3.3,2.92,8,0,0,4
+INC1219,2026-04-24 15:05,Password reset / account lockout,P3 Medium,Portal,Agent E,6.7,0.63,24,0,0,5
+INC1220,2026-04-24 14:16,VPN / remote access,P2 High,Walk-up,Agent D,8.4,3.74,8,0,1,4
+INC1221,2026-04-24 09:25,Wi-Fi / network,P3 Medium,Email,Agent E,4.1,13.38,24,0,0,4
+INC1222,2026-04-24 09:54,VPN / remote access,P3 Medium,Phone,Agent D,9.9,2.64,24,0,0,3
+INC1223,2026-04-24 10:28,VPN / remote access,P1 Critical,Email,Agent B,12.7,2.31,4,0,1,5
+INC1224,2026-04-24 11:26,Password reset / account lockout,P4 Low,Email,Agent E,10.9,1.82,48,0,0,4
+INC1225,2026-04-27 09:20,Software install / licence,P1 Critical,Portal,Agent C,1.8,1.86,4,0,0,5
+INC1226,2026-04-27 08:14,Software install / licence,P4 Low,Email,Agent B,28.3,2.27,48,0,0,3
+INC1227,2026-04-27 08:44,Email / Outlook,P3 Medium,Phone,Agent B,3.2,6.59,24,0,1,3
+INC1228,2026-04-27 13:51,Password reset / account lockout,P4 Low,Walk-up,Agent C,4.3,1.32,48,0,0,4
+INC1229,2026-04-27 08:45,New starter / leaver setup,P3 Medium,Phone,Agent C,13.2,9.74,24,0,0,4
+INC1230,2026-04-27 16:39,Teams / video meetings,P3 Medium,Email,Agent B,7.7,1.3,24,0,1,3
+INC1231,2026-04-27 14:36,Wi-Fi / network,P4 Low,Walk-up,Agent A,22.6,3.5,48,0,0,5
+INC1232,2026-04-27 10:04,Email / Outlook,P4 Low,Phone,Agent A,14.2,8.53,48,0,1,4
+INC1233,2026-04-27 09:44,Password reset / account lockout,P3 Medium,Phone,Agent A,9.0,0.24,24,0,0,5
+INC1234,2026-04-27 11:53,Wi-Fi / network,P4 Low,Portal,Agent B,6.2,10.17,48,0,0,4
+INC1235,2026-04-27 16:05,Email / Outlook,P4 Low,Portal,Agent A,12.1,2.82,48,0,1,3
+INC1236,2026-04-27 11:35,Teams / video meetings,P4 Low,Phone,Agent C,7.8,2.85,48,0,0,5
+INC1237,2026-04-27 08:00,Wi-Fi / network,P3 Medium,Portal,Agent E,4.3,4.9,24,0,0,4
+INC1238,2026-04-27 15:30,Wi-Fi / network,P3 Medium,Phone,Agent E,8.6,4.22,24,0,1,4
+INC1239,2026-04-27 11:16,Email / Outlook,P3 Medium,Phone,Agent A,42.8,1.17,24,0,0,3
+INC1240,2026-04-27 15:26,Business application error,P3 Medium,Walk-up,Agent E,15.5,24.86,24,1,0,3
+INC1241,2026-04-28 13:07,New starter / leaver setup,P3 Medium,Walk-up,Agent B,24.3,3.25,24,0,0,3
+INC1242,2026-04-28 13:53,Software install / licence,P3 Medium,Portal,Agent A,14.5,1.06,24,0,0,4
+INC1243,2026-04-28 14:37,Software install / licence,P3 Medium,Email,Agent B,4.9,3.49,24,0,0,4
+INC1244,2026-04-28 11:11,Email / Outlook,P2 High,Email,Agent D,9.6,1.93,8,0,0,3
+INC1245,2026-04-28 09:55,Email / Outlook,P3 Medium,Portal,Agent C,12.0,1.89,24,0,0,4
+INC1246,2026-04-28 15:47,Wi-Fi / network,P3 Medium,Email,Agent A,6.7,3.46,24,0,1,5
+INC1247,2026-04-28 08:12,VPN / remote access,P3 Medium,Phone,Agent A,13.3,1.8,24,0,0,3
+INC1248,2026-04-28 12:40,New starter / leaver setup,P3 Medium,Phone,Agent D,25.1,6.35,24,0,0,5
+INC1249,2026-04-28 14:44,Password reset / account lockout,P1 Critical,Phone,Agent E,4.1,0.52,4,0,0,5
+INC1250,2026-04-28 13:32,Password reset / account lockout,P4 Low,Portal,Agent A,4.8,0.79,48,0,0,4
+INC1251,2026-04-28 10:57,Wi-Fi / network,P3 Medium,Phone,Agent D,13.5,2.57,24,0,1,3
+INC1252,2026-04-28 17:53,VPN / remote access,P3 Medium,Email,Agent C,28.4,3.11,24,0,0,4
+INC1253,2026-04-28 10:09,Software install / licence,P3 Medium,Phone,Agent E,9.9,3.28,24,0,0,3
+INC1254,2026-04-28 11:47,Password reset / account lockout,P4 Low,Email,Agent B,16.9,0.57,48,0,0,5
+INC1255,2026-04-29 10:10,VPN / remote access,P4 Low,Phone,Agent A,16.9,4.28,48,0,0,5
+INC1256,2026-04-29 13:14,Email / Outlook,P4 Low,Email,Agent C,9.6,3.29,48,0,1,3
+INC1257,2026-04-29 13:37,New starter / leaver setup,P2 High,Portal,Agent E,6.3,2.44,8,0,0,5
+INC1258,2026-04-29 10:36,New starter / leaver setup,P4 Low,Phone,Agent B,11.7,16.04,48,0,0,5
+INC1259,2026-04-29 08:17,Password reset / account lockout,P4 Low,Email,Agent B,3.3,0.92,48,0,0,3
+INC1260,2026-04-29 11:02,Software install / licence,P4 Low,Walk-up,Agent C,13.6,8.85,48,0,0,5
+INC1261,2026-04-29 10:06,Wi-Fi / network,P3 Medium,Phone,Agent A,17.8,2.6,24,0,0,5
+INC1262,2026-04-29 10:57,Software install / licence,P4 Low,Phone,Agent D,16.1,1.83,48,0,0,3
+INC1263,2026-04-29 15:39,Password reset / account lockout,P4 Low,Portal,Agent A,4.2,0.77,48,0,0,4
+INC1264,2026-04-29 11:06,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,10.3,3.76,24,0,0,4
+INC1265,2026-04-29 15:31,Password reset / account lockout,P2 High,Phone,Agent E,5.4,1.5,8,0,0,5
+INC1266,2026-04-30 12:15,Password reset / account lockout,P3 Medium,Walk-up,Agent E,4.2,0.9,24,0,0,5
+INC1267,2026-04-30 10:18,Email / Outlook,P2 High,Portal,Agent A,8.2,3.57,8,0,0,5
+INC1268,2026-04-30 15:56,Password reset / account lockout,P4 Low,Portal,Agent B,18.9,0.21,48,0,0,4
+INC1269,2026-04-30 09:25,Business application error,P3 Medium,Email,Agent D,14.1,21.27,24,0,0,5
+INC1270,2026-04-30 08:54,Password reset / account lockout,P3 Medium,Email,Agent E,8.2,0.92,24,0,1,3
+INC1271,2026-04-30 17:08,Wi-Fi / network,P3 Medium,Portal,Agent D,5.2,2.13,24,0,0,3
+INC1272,2026-04-30 14:36,Teams / video meetings,P3 Medium,Walk-up,Agent C,12.4,2.33,24,0,0,3
+INC1273,2026-04-30 13:09,VPN / remote access,P3 Medium,Walk-up,Agent A,9.9,3.0,24,0,0,5
+INC1274,2026-04-30 10:21,Business application error,P2 High,Phone,Agent D,4.8,8.43,8,1,0,4
+INC1275,2026-04-30 09:31,Teams / video meetings,P1 Critical,Email,Agent A,7.1,0.32,4,0,0,4
+INC1276,2026-05-01 16:23,VPN / remote access,P4 Low,Portal,Agent C,9.2,7.15,48,0,0,5
+INC1277,2026-05-01 09:48,"Hardware fault (laptop, printer)",P1 Critical,Email,Agent C,5.7,4.73,4,1,0,3
+INC1278,2026-05-01 09:07,New starter / leaver setup,P3 Medium,Email,Agent B,3.0,7.55,24,0,0,5
+INC1279,2026-05-01 13:49,New starter / leaver setup,P3 Medium,Email,Agent E,10.3,3.77,24,0,0,5
+INC1280,2026-05-01 12:58,New starter / leaver setup,P3 Medium,Phone,Agent B,11.7,2.01,24,0,0,4
+INC1281,2026-05-01 11:38,New starter / leaver setup,P4 Low,Phone,Agent C,5.2,23.77,48,0,0,4
+INC1282,2026-05-01 14:55,Email / Outlook,P4 Low,Email,Agent B,7.2,1.89,48,0,0,4
+INC1283,2026-05-01 17:41,Business application error,P2 High,Email,Agent C,7.0,25.22,8,1,0,3
+INC1284,2026-05-01 16:34,Email / Outlook,P4 Low,Portal,Agent E,3.3,2.74,48,0,0,3
+INC1285,2026-05-01 14:09,VPN / remote access,P3 Medium,Phone,Agent E,2.9,7.37,24,0,0,4
+INC1286,2026-05-01 16:24,Wi-Fi / network,P4 Low,Portal,Agent E,4.6,14.73,48,0,0,5
+INC1287,2026-05-01 11:37,Software install / licence,P3 Medium,Portal,Agent B,12.6,2.37,24,0,0,4
+INC1288,2026-05-01 11:35,Email / Outlook,P2 High,Portal,Agent A,3.9,1.23,8,0,0,4
+INC1289,2026-05-01 08:59,"Hardware fault (laptop, printer)",P4 Low,Email,Agent E,15.6,16.84,48,0,0,3
+INC1290,2026-05-04 09:34,Software install / licence,P2 High,Phone,Agent B,7.5,3.78,8,0,0,4
+INC1291,2026-05-04 09:22,Wi-Fi / network,P4 Low,Email,Agent E,14.1,14.41,48,0,0,3
+INC1292,2026-05-04 14:01,New starter / leaver setup,P4 Low,Email,Agent E,16.6,11.37,48,0,0,5
+INC1293,2026-05-04 16:34,Software install / licence,P3 Medium,Phone,Agent B,4.1,5.46,24,0,0,4
+INC1294,2026-05-04 17:49,Wi-Fi / network,P4 Low,Phone,Agent B,20.4,4.26,48,0,0,4
+INC1295,2026-05-04 11:07,Software install / licence,P3 Medium,Email,Agent E,5.0,2.86,24,0,0,5
+INC1296,2026-05-04 10:59,Wi-Fi / network,P3 Medium,Portal,Agent D,34.8,2.51,24,0,0,4
+INC1297,2026-05-04 10:56,New starter / leaver setup,P4 Low,Portal,Agent C,3.3,15.94,48,0,0,5
+INC1298,2026-05-04 12:05,Email / Outlook,P4 Low,Walk-up,Agent C,4.3,6.48,48,0,0,5
+INC1299,2026-05-04 13:03,VPN / remote access,P4 Low,Walk-up,Agent D,12.6,6.16,48,0,0,5
+INC1300,2026-05-04 13:21,Email / Outlook,P3 Medium,Phone,Agent C,7.1,8.5,24,0,0,4
+INC1301,2026-05-04 13:23,Teams / video meetings,P4 Low,Phone,Agent C,15.5,2.59,48,0,0,5
+INC1302,2026-05-04 09:46,Email / Outlook,P3 Medium,Email,Agent C,11.7,2.71,24,0,0,5
+INC1303,2026-05-04 09:46,VPN / remote access,P2 High,Phone,Agent A,12.9,7.28,8,0,0,3
+INC1304,2026-05-04 09:02,Software install / licence,P3 Medium,Walk-up,Agent D,3.6,3.38,24,0,0,5
+INC1305,2026-05-04 12:05,Wi-Fi / network,P3 Medium,Portal,Agent E,6.4,10.23,24,0,0,4
+INC1306,2026-05-05 09:46,Wi-Fi / network,P3 Medium,Phone,Agent D,4.4,2.69,24,0,0,4
+INC1307,2026-05-05 15:24,Wi-Fi / network,P3 Medium,Phone,Agent C,18.0,5.23,24,0,0,4
+INC1308,2026-05-05 13:57,VPN / remote access,P3 Medium,Email,Agent B,20.9,3.58,24,0,0,5
+INC1309,2026-05-05 13:32,VPN / remote access,P3 Medium,Phone,Agent E,6.0,5.19,24,0,0,5
+INC1310,2026-05-05 15:46,Password reset / account lockout,P3 Medium,Email,Agent E,11.5,0.81,24,0,0,5
+INC1311,2026-05-05 08:16,New starter / leaver setup,P3 Medium,Email,Agent E,37.1,21.84,24,0,0,5
+INC1312,2026-05-05 11:30,Password reset / account lockout,P4 Low,Email,Agent E,12.5,1.74,48,0,0,5
+INC1313,2026-05-06 13:14,Wi-Fi / network,P2 High,Phone,Agent E,5.4,9.91,8,1,1,4
+INC1314,2026-05-06 11:39,Software install / licence,P4 Low,Email,Agent A,24.5,1.32,48,0,1,5
+INC1315,2026-05-06 11:26,Wi-Fi / network,P2 High,Email,Agent B,9.2,8.89,8,1,0,3
+INC1316,2026-05-06 16:53,"Hardware fault (laptop, printer)",P2 High,Phone,Agent D,6.4,2.86,8,0,1,4
+INC1317,2026-05-06 12:33,Password reset / account lockout,P3 Medium,Portal,Agent C,8.3,0.6,24,0,0,4
+INC1318,2026-05-06 12:36,Wi-Fi / network,P3 Medium,Portal,Agent B,9.7,2.74,24,0,0,4
+INC1319,2026-05-06 10:45,Wi-Fi / network,P2 High,Portal,Agent A,7.6,5.19,8,0,0,5
+INC1320,2026-05-06 11:21,Teams / video meetings,P3 Medium,Portal,Agent A,7.3,1.59,24,0,1,2
+INC1321,2026-05-06 13:33,Email / Outlook,P4 Low,Phone,Agent B,4.1,5.06,48,0,0,5
+INC1322,2026-05-06 10:02,Teams / video meetings,P3 Medium,Portal,Agent E,7.7,3.76,24,0,0,4
+INC1323,2026-05-06 09:18,Teams / video meetings,P3 Medium,Email,Agent C,11.4,4.03,24,0,0,4
+INC1324,2026-05-07 11:06,Software install / licence,P3 Medium,Email,Agent A,31.4,3.21,24,0,0,4
+INC1325,2026-05-07 11:29,New starter / leaver setup,P4 Low,Email,Agent C,26.3,7.28,48,0,1,4
+INC1326,2026-05-07 09:43,Teams / video meetings,P3 Medium,Email,Agent B,17.4,1.93,24,0,0,4
+INC1327,2026-05-07 14:58,Password reset / account lockout,P4 Low,Phone,Agent B,6.6,1.5,48,0,0,5
+INC1328,2026-05-07 16:43,Business application error,P3 Medium,Phone,Agent E,11.1,10.47,24,0,0,5
+INC1329,2026-05-07 14:32,Email / Outlook,P3 Medium,Email,Agent A,3.2,2.22,24,0,0,4
+INC1330,2026-05-07 12:20,"Hardware fault (laptop, printer)",P1 Critical,Phone,Agent E,9.5,2.77,4,0,0,4
+INC1331,2026-05-07 10:39,Email / Outlook,P2 High,Email,Agent D,9.9,3.21,8,0,0,5
+INC1332,2026-05-07 09:06,Teams / video meetings,P4 Low,Email,Agent D,4.2,4.66,48,0,0,5
+INC1333,2026-05-07 16:40,Software install / licence,P4 Low,Portal,Agent C,2.1,3.52,48,0,0,4
+INC1334,2026-05-08 10:35,New starter / leaver setup,P3 Medium,Phone,Agent A,12.9,3.29,24,0,0,3
+INC1335,2026-05-08 10:20,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent A,11.7,5.81,24,0,0,4
+INC1336,2026-05-08 15:21,Wi-Fi / network,P3 Medium,Email,Agent A,5.7,1.86,24,0,0,4
+INC1337,2026-05-08 16:49,VPN / remote access,P3 Medium,Email,Agent D,12.5,3.01,24,0,0,4
+INC1338,2026-05-08 09:04,New starter / leaver setup,P3 Medium,Phone,Agent D,8.6,2.14,24,0,0,4
+INC1339,2026-05-08 12:10,Password reset / account lockout,P3 Medium,Portal,Agent C,10.6,1.26,24,0,0,5
+INC1340,2026-05-08 12:37,Software install / licence,P3 Medium,Email,Agent E,14.6,3.16,24,0,0,4
+INC1341,2026-05-08 10:26,Email / Outlook,P3 Medium,Phone,Agent B,24.0,1.89,24,0,1,4
+INC1342,2026-05-08 11:18,Software install / licence,P4 Low,Email,Agent B,8.8,3.97,48,0,0,4
+INC1343,2026-05-08 10:27,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent E,4.2,25.1,24,1,0,4
+INC1344,2026-05-11 09:18,Password reset / account lockout,P3 Medium,Email,Agent E,7.7,0.74,24,0,0,5
+INC1345,2026-05-11 08:05,Password reset / account lockout,P3 Medium,Email,Agent C,6.4,1.13,24,0,0,5
+INC1346,2026-05-11 09:17,Teams / video meetings,P2 High,Email,Agent B,5.3,3.29,8,0,0,5
+INC1347,2026-05-11 14:24,Teams / video meetings,P3 Medium,Portal,Agent A,2.9,0.58,24,0,0,3
+INC1348,2026-05-11 16:10,"Hardware fault (laptop, printer)",P2 High,Walk-up,Agent E,4.3,5.03,8,0,1,5
+INC1349,2026-05-11 14:07,Email / Outlook,P3 Medium,Phone,Agent C,13.1,3.14,24,0,0,5
+INC1350,2026-05-11 10:31,Password reset / account lockout,P3 Medium,Walk-up,Agent A,6.0,1.27,24,0,0,5
+INC1351,2026-05-11 15:48,Email / Outlook,P4 Low,Portal,Agent A,9.7,4.49,48,0,0,4
+INC1352,2026-05-11 09:22,Email / Outlook,P3 Medium,Portal,Agent E,7.5,7.52,24,0,0,4
+INC1353,2026-05-11 08:40,Software install / licence,P4 Low,Portal,Agent E,14.2,2.48,48,0,0,4
+INC1354,2026-05-12 12:39,Email / Outlook,P3 Medium,Email,Agent A,14.8,2.18,24,0,0,5
+INC1355,2026-05-12 09:36,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,7.0,12.91,24,0,1,5
+INC1356,2026-05-12 16:13,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent D,8.7,29.51,48,0,0,5
+INC1357,2026-05-12 08:04,VPN / remote access,P2 High,Phone,Agent E,6.2,4.54,8,0,0,4
+INC1358,2026-05-12 09:47,Software install / licence,P4 Low,Portal,Agent E,42.6,4.68,48,0,0,5
+INC1359,2026-05-12 10:10,Software install / licence,P3 Medium,Walk-up,Agent C,22.0,5.74,24,0,0,5
+INC1360,2026-05-12 10:34,Password reset / account lockout,P4 Low,Walk-up,Agent C,5.1,0.83,48,0,1,5
+INC1361,2026-05-12 08:14,Password reset / account lockout,P3 Medium,Portal,Agent C,11.8,1.48,24,0,0,5
+INC1362,2026-05-12 11:09,Password reset / account lockout,P3 Medium,Email,Agent B,11.8,0.43,24,0,0,5
+INC1363,2026-05-12 12:31,VPN / remote access,P3 Medium,Email,Agent A,17.5,3.38,24,0,1,4
+INC1364,2026-05-12 08:49,Email / Outlook,P4 Low,Email,Agent A,14.8,5.34,48,0,1,4
+INC1365,2026-05-12 10:02,Email / Outlook,P3 Medium,Email,Agent B,18.4,0.92,24,0,0,4
+INC1366,2026-05-13 09:21,Password reset / account lockout,P3 Medium,Phone,Agent D,8.0,0.39,24,0,0,5
+INC1367,2026-05-13 12:12,Wi-Fi / network,P3 Medium,Phone,Agent E,7.9,3.59,24,0,0,5
+INC1368,2026-05-13 11:12,Email / Outlook,P3 Medium,Phone,Agent C,12.5,1.7,24,0,0,5
+INC1369,2026-05-13 10:43,Wi-Fi / network,P4 Low,Portal,Agent A,11.5,7.33,48,0,0,4
+INC1370,2026-05-13 15:19,Wi-Fi / network,P1 Critical,Phone,Agent E,10.6,1.37,4,0,0,5
+INC1371,2026-05-13 17:44,"Hardware fault (laptop, printer)",P1 Critical,Email,Agent E,6.8,1.9,4,0,0,5
+INC1372,2026-05-13 10:54,New starter / leaver setup,P3 Medium,Phone,Agent C,6.4,17.74,24,0,0,4
+INC1373,2026-05-13 09:20,Wi-Fi / network,P3 Medium,Phone,Agent B,5.7,4.0,24,0,0,4
+INC1374,2026-05-14 10:22,Email / Outlook,P3 Medium,Walk-up,Agent E,6.6,2.49,24,0,0,5
+INC1375,2026-05-14 16:14,Password reset / account lockout,P4 Low,Portal,Agent A,42.1,1.28,48,0,0,4
+INC1376,2026-05-14 11:36,Password reset / account lockout,P4 Low,Walk-up,Agent C,14.5,1.0,48,0,0,5
+INC1377,2026-05-14 14:57,Software install / licence,P2 High,Walk-up,Agent B,6.8,4.21,8,0,0,5
+INC1378,2026-05-14 15:09,Teams / video meetings,P4 Low,Portal,Agent D,41.2,5.68,48,0,0,4
+INC1379,2026-05-14 09:08,Password reset / account lockout,P4 Low,Email,Agent C,11.3,1.37,48,0,1,3
+INC1380,2026-05-14 08:49,Wi-Fi / network,P3 Medium,Email,Agent C,9.7,2.7,24,0,0,3
+INC1381,2026-05-14 16:26,Email / Outlook,P3 Medium,Phone,Agent B,9.4,2.47,24,0,0,5
+INC1382,2026-05-14 08:47,VPN / remote access,P4 Low,Email,Agent E,10.4,8.43,48,0,0,5
+INC1383,2026-05-14 12:25,Business application error,P1 Critical,Email,Agent A,4.6,2.52,4,0,0,5
+INC1384,2026-05-14 16:44,Software install / licence,P2 High,Portal,Agent D,2.7,1.31,8,0,0,4
+INC1385,2026-05-14 10:01,Password reset / account lockout,P3 Medium,Portal,Agent B,12.9,0.37,24,0,0,4
+INC1386,2026-05-14 09:45,Wi-Fi / network,P3 Medium,Email,Agent D,10.5,4.31,24,0,0,4
+INC1387,2026-05-14 15:10,VPN / remote access,P2 High,Portal,Agent D,11.7,1.7,8,0,0,5
+INC1388,2026-05-15 08:48,Email / Outlook,P3 Medium,Portal,Agent E,9.9,6.55,24,0,0,3
+INC1389,2026-05-15 11:28,Password reset / account lockout,P3 Medium,Phone,Agent E,15.1,0.43,24,0,0,5
+INC1390,2026-05-15 09:02,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent A,3.6,5.24,48,0,0,5
+INC1391,2026-05-15 14:38,Software install / licence,P3 Medium,Walk-up,Agent E,15.0,3.27,24,0,0,5
+INC1392,2026-05-15 15:04,Email / Outlook,P2 High,Portal,Agent C,4.1,2.09,8,0,1,3
+INC1393,2026-05-15 13:40,Software install / licence,P2 High,Portal,Agent E,4.0,2.24,8,0,0,4
+INC1394,2026-05-15 13:33,Teams / video meetings,P3 Medium,Portal,Agent E,7.0,1.75,24,0,0,5
+INC1395,2026-05-15 15:47,VPN / remote access,P4 Low,Walk-up,Agent D,14.9,2.75,48,0,0,4
+INC1396,2026-05-15 08:19,Software install / licence,P3 Medium,Phone,Agent C,11.3,1.92,24,0,0,4
+INC1397,2026-05-15 10:21,New starter / leaver setup,P3 Medium,Email,Agent A,33.5,6.65,24,0,0,4
+INC1398,2026-05-15 11:47,Password reset / account lockout,P3 Medium,Email,Agent C,11.2,0.7,24,0,0,5
+INC1399,2026-05-15 15:04,Business application error,P3 Medium,Phone,Agent D,11.2,20.26,24,0,0,5
+INC1400,2026-05-15 14:20,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,6.5,3.93,24,0,0,4
+INC1401,2026-05-15 11:02,Teams / video meetings,P4 Low,Email,Agent A,8.7,1.66,48,0,0,4
+INC1402,2026-05-15 09:33,"Hardware fault (laptop, printer)",P2 High,Portal,Agent D,3.4,3.47,8,0,1,5
+INC1403,2026-05-15 15:55,Password reset / account lockout,P3 Medium,Phone,Agent E,12.0,2.01,24,0,0,4
+INC1404,2026-05-15 15:42,Password reset / account lockout,P2 High,Phone,Agent A,2.4,1.36,8,0,0,5
+INC1405,2026-05-15 10:45,Teams / video meetings,P3 Medium,Phone,Agent C,9.3,2.59,24,0,0,4
+INC1406,2026-05-15 08:27,Wi-Fi / network,P4 Low,Portal,Agent D,31.1,7.13,48,0,0,4
+INC1407,2026-05-18 14:29,Software install / licence,P2 High,Portal,Agent D,11.3,1.64,8,0,0,4
+INC1408,2026-05-18 16:09,VPN / remote access,P3 Medium,Walk-up,Agent D,7.0,1.05,24,0,1,4
+INC1409,2026-05-18 15:18,Teams / video meetings,P3 Medium,Phone,Agent A,4.0,1.25,24,0,0,5
+INC1410,2026-05-18 10:29,Wi-Fi / network,P3 Medium,Email,Agent E,5.7,2.69,24,0,0,3
+INC1411,2026-05-18 13:21,Software install / licence,P3 Medium,Portal,Agent A,14.8,5.58,24,0,0,5
+INC1412,2026-05-18 10:06,VPN / remote access,P2 High,Walk-up,Agent A,10.4,3.99,8,0,0,4
+INC1413,2026-05-19 09:08,VPN / remote access,P4 Low,Email,Agent A,9.3,9.73,48,0,0,4
+INC1414,2026-05-19 16:19,Software install / licence,P4 Low,Email,Agent D,5.7,5.65,48,0,1,4
+INC1415,2026-05-19 11:37,Wi-Fi / network,P3 Medium,Email,Agent D,6.7,3.52,24,0,0,5
+INC1416,2026-05-19 11:18,Business application error,P3 Medium,Phone,Agent A,31.8,10.01,24,0,0,4
+INC1417,2026-05-19 09:08,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,9.2,29.38,24,1,0,3
+INC1418,2026-05-19 11:00,Software install / licence,P4 Low,Phone,Agent E,4.0,6.46,48,0,0,5
+INC1419,2026-05-19 13:44,Password reset / account lockout,P4 Low,Email,Agent C,8.9,1.02,48,0,0,5
+INC1420,2026-05-19 15:19,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,8.9,10.24,48,0,0,5
+INC1421,2026-05-19 17:51,Email / Outlook,P2 High,Portal,Agent E,6.4,7.4,8,0,0,5
+INC1422,2026-05-19 17:51,Teams / video meetings,P1 Critical,Email,Agent B,4.6,1.04,4,0,0,5
+INC1423,2026-05-19 15:00,Teams / video meetings,P3 Medium,Walk-up,Agent B,7.2,2.54,24,0,0,5
+INC1424,2026-05-19 17:38,New starter / leaver setup,P2 High,Email,Agent D,5.0,7.97,8,0,0,5
+INC1425,2026-05-20 13:48,VPN / remote access,P2 High,Email,Agent D,10.4,1.59,8,0,0,4
+INC1426,2026-05-20 14:30,Email / Outlook,P3 Medium,Email,Agent C,12.1,5.71,24,0,0,3
+INC1427,2026-05-20 11:58,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,8.8,3.9,24,0,0,3
+INC1428,2026-05-20 14:49,Password reset / account lockout,P3 Medium,Portal,Agent B,13.4,0.5,24,0,0,4
+INC1429,2026-05-20 13:03,New starter / leaver setup,P3 Medium,Portal,Agent E,3.3,11.72,24,0,0,5
+INC1430,2026-05-20 13:11,New starter / leaver setup,P3 Medium,Phone,Agent D,24.6,6.71,24,0,0,4
+INC1431,2026-05-20 15:17,Teams / video meetings,P3 Medium,Email,Agent A,7.3,0.5,24,0,0,4
+INC1432,2026-05-20 12:27,Password reset / account lockout,P3 Medium,Walk-up,Agent C,5.8,0.72,24,0,0,3
+INC1433,2026-05-20 14:17,Password reset / account lockout,P3 Medium,Email,Agent A,9.8,0.65,24,0,0,3
+INC1434,2026-05-20 15:50,Password reset / account lockout,P3 Medium,Email,Agent D,21.3,0.26,24,0,0,5
+INC1435,2026-05-20 13:23,Software install / licence,P4 Low,Phone,Agent D,5.0,6.45,48,0,0,5
+INC1436,2026-05-20 14:19,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,9.2,12.6,48,0,1,5
+INC1437,2026-05-21 10:24,Password reset / account lockout,P3 Medium,Email,Agent E,14.6,0.6,24,0,0,4
+INC1438,2026-05-21 16:55,VPN / remote access,P2 High,Email,Agent A,7.6,3.91,8,0,0,4
+INC1439,2026-05-21 08:19,VPN / remote access,P2 High,Email,Agent E,6.8,1.78,8,0,0,4
+INC1440,2026-05-21 14:25,Email / Outlook,P4 Low,Email,Agent B,5.8,1.66,48,0,0,5
+INC1441,2026-05-21 10:37,Password reset / account lockout,P2 High,Portal,Agent E,10.1,0.65,8,0,0,4
+INC1442,2026-05-21 11:08,Password reset / account lockout,P3 Medium,Email,Agent D,16.3,0.42,24,0,0,3
+INC1443,2026-05-21 13:05,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,24.3,11.64,48,0,0,4
+INC1444,2026-05-21 13:13,Email / Outlook,P2 High,Portal,Agent D,5.0,2.37,8,0,0,4
+INC1445,2026-05-21 13:56,Teams / video meetings,P2 High,Portal,Agent E,6.9,2.46,8,0,0,4
+INC1446,2026-05-21 15:20,Email / Outlook,P3 Medium,Email,Agent B,9.4,2.15,24,0,0,4
+INC1447,2026-05-21 09:59,Software install / licence,P2 High,Email,Agent D,1.7,5.01,8,0,1,5
+INC1448,2026-05-21 11:10,Teams / video meetings,P3 Medium,Phone,Agent B,11.5,4.25,24,0,0,5
+INC1449,2026-05-21 15:05,Wi-Fi / network,P3 Medium,Portal,Agent B,4.3,6.8,24,0,0,4
+INC1450,2026-05-21 13:57,New starter / leaver setup,P4 Low,Walk-up,Agent A,10.0,7.52,48,0,0,5
+INC1451,2026-05-22 09:31,Email / Outlook,P3 Medium,Phone,Agent D,4.4,1.37,24,0,0,3
+INC1452,2026-05-22 14:54,Software install / licence,P3 Medium,Walk-up,Agent D,7.8,1.86,24,0,0,5
+INC1453,2026-05-22 16:21,Software install / licence,P3 Medium,Portal,Agent E,13.8,4.56,24,0,0,4
+INC1454,2026-05-22 14:03,Software install / licence,P4 Low,Email,Agent A,12.1,2.29,48,0,0,4
+INC1455,2026-05-22 14:13,Password reset / account lockout,P3 Medium,Email,Agent D,36.1,1.41,24,0,0,4
+INC1456,2026-05-22 14:20,Email / Outlook,P3 Medium,Portal,Agent C,9.0,1.41,24,0,0,4
+INC1457,2026-05-22 15:57,Email / Outlook,P3 Medium,Portal,Agent A,6.2,1.12,24,0,0,5
+INC1458,2026-05-22 09:40,Password reset / account lockout,P3 Medium,Portal,Agent B,10.3,0.58,24,0,0,4
+INC1459,2026-05-22 12:42,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,3.9,26.27,48,0,0,3
+INC1460,2026-05-22 11:18,Teams / video meetings,P2 High,Email,Agent D,4.0,0.95,8,0,0,5
+INC1461,2026-05-22 09:07,Password reset / account lockout,P3 Medium,Phone,Agent C,18.9,0.57,24,0,0,4
+INC1462,2026-05-22 09:28,Software install / licence,P2 High,Email,Agent A,3.1,2.13,8,0,0,5
+INC1463,2026-05-22 17:21,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent E,8.3,21.94,24,0,0,4
+INC1464,2026-05-22 08:43,Software install / licence,P3 Medium,Email,Agent B,11.1,2.84,24,0,0,4
+INC1465,2026-05-25 12:28,"Hardware fault (laptop, printer)",P4 Low,Walk-up,Agent D,67.4,7.97,48,0,0,4
+INC1466,2026-05-25 15:23,Wi-Fi / network,P1 Critical,Email,Agent C,2.8,3.29,4,0,1,4
+INC1467,2026-05-25 13:05,Password reset / account lockout,P3 Medium,Walk-up,Agent E,20.7,0.39,24,0,0,4
+INC1468,2026-05-25 09:11,VPN / remote access,P3 Medium,Email,Agent C,11.2,6.06,24,0,1,3
+INC1469,2026-05-25 08:16,Email / Outlook,P3 Medium,Email,Agent A,8.4,8.22,24,0,0,4
+INC1470,2026-05-25 10:04,Software install / licence,P3 Medium,Email,Agent D,9.2,7.25,24,0,0,5
+INC1471,2026-05-25 12:36,Password reset / account lockout,P3 Medium,Email,Agent B,6.4,0.15,24,0,0,3
+INC1472,2026-05-25 10:18,Email / Outlook,P3 Medium,Phone,Agent B,14.2,3.4,24,0,0,5
+INC1473,2026-05-25 14:19,Email / Outlook,P3 Medium,Email,Agent E,7.7,4.79,24,0,0,5
+INC1474,2026-05-25 09:14,VPN / remote access,P4 Low,Email,Agent E,28.6,21.8,48,0,0,4
+INC1475,2026-05-25 16:07,VPN / remote access,P4 Low,Email,Agent C,22.1,7.59,48,0,0,4
+INC1476,2026-05-25 09:08,VPN / remote access,P2 High,Phone,Agent B,5.8,2.59,8,0,0,5
+INC1477,2026-05-25 08:42,Software install / licence,P2 High,Phone,Agent C,2.3,1.78,8,0,0,5
+INC1478,2026-05-25 08:09,VPN / remote access,P4 Low,Walk-up,Agent C,21.0,2.35,48,0,0,5
+INC1479,2026-05-25 08:52,Software install / licence,P1 Critical,Phone,Agent B,2.2,1.39,4,0,0,5
+INC1480,2026-05-25 11:32,Email / Outlook,P2 High,Walk-up,Agent A,5.9,1.99,8,0,0,3
+INC1481,2026-05-25 14:05,Email / Outlook,P2 High,Phone,Agent E,9.4,6.37,8,0,0,5
+INC1482,2026-05-26 15:57,VPN / remote access,P3 Medium,Portal,Agent B,10.7,4.58,24,0,1,3
+INC1483,2026-05-26 17:47,New starter / leaver setup,P4 Low,Phone,Agent B,35.4,6.59,48,0,0,5
+INC1484,2026-05-26 14:37,Software install / licence,P4 Low,Portal,Agent D,10.1,3.03,48,0,0,5
+INC1485,2026-05-26 10:08,Password reset / account lockout,P4 Low,Portal,Agent D,3.9,0.65,48,0,0,5
+INC1486,2026-05-26 08:48,Software install / licence,P3 Medium,Email,Agent C,6.9,4.45,24,0,0,3
+INC1487,2026-05-26 08:27,VPN / remote access,P2 High,Email,Agent D,2.3,3.14,8,0,0,4
+INC1488,2026-05-26 16:10,Software install / licence,P2 High,Portal,Agent D,5.9,5.08,8,0,0,4
+INC1489,2026-05-26 09:03,Wi-Fi / network,P3 Medium,Walk-up,Agent E,7.9,10.2,24,0,0,5
+INC1490,2026-05-26 09:23,Email / Outlook,P4 Low,Phone,Agent C,23.6,3.61,48,0,1,4
+INC1491,2026-05-26 10:05,New starter / leaver setup,P2 High,Email,Agent C,5.1,3.36,8,0,0,5
+INC1492,2026-05-26 08:30,Software install / licence,P4 Low,Email,Agent D,9.6,3.79,48,0,0,3
+INC1493,2026-05-26 14:10,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent D,6.1,5.26,24,0,0,4
+INC1494,2026-05-27 14:37,Password reset / account lockout,P3 Medium,Phone,Agent E,23.9,0.73,24,0,0,3
+INC1495,2026-05-27 15:27,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,13.9,10.92,24,0,1,3
+INC1496,2026-05-27 13:13,"Hardware fault (laptop, printer)",P4 Low,Walk-up,Agent C,16.6,34.04,48,0,0,3
+INC1497,2026-05-27 13:40,Password reset / account lockout,P3 Medium,Email,Agent B,6.9,0.21,24,0,0,5
+INC1498,2026-05-27 09:26,Email / Outlook,P3 Medium,Phone,Agent E,15.5,2.25,24,0,0,4
+INC1499,2026-05-27 17:27,"Hardware fault (laptop, printer)",P1 Critical,Phone,Agent B,7.0,2.51,4,0,0,4
+INC1500,2026-05-27 16:20,Software install / licence,P4 Low,Walk-up,Agent D,19.3,14.26,48,0,0,4
+INC1501,2026-05-28 13:32,New starter / leaver setup,P3 Medium,Portal,Agent E,16.0,5.66,24,0,0,4
+INC1502,2026-05-28 11:47,Teams / video meetings,P4 Low,Phone,Agent A,11.9,2.52,48,0,0,5
+INC1503,2026-05-28 11:43,Email / Outlook,P3 Medium,Portal,Agent B,28.2,1.59,24,0,0,4
+INC1504,2026-05-28 14:50,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,9.4,9.19,24,0,0,5
+INC1505,2026-05-28 10:59,VPN / remote access,P3 Medium,Phone,Agent B,9.0,10.15,24,0,0,4
+INC1506,2026-05-28 15:31,Wi-Fi / network,P3 Medium,Portal,Agent D,10.1,10.49,24,0,0,5
+INC1507,2026-05-28 11:01,Teams / video meetings,P3 Medium,Phone,Agent D,7.6,2.61,24,0,0,3
+INC1508,2026-05-28 08:10,Email / Outlook,P4 Low,Portal,Agent B,15.5,11.34,48,0,0,4
+INC1509,2026-05-28 14:52,Email / Outlook,P3 Medium,Phone,Agent C,12.8,9.92,24,0,0,4
+INC1510,2026-05-28 11:16,Password reset / account lockout,P4 Low,Phone,Agent E,8.6,0.56,48,0,0,4
+INC1511,2026-05-28 15:50,Email / Outlook,P4 Low,Email,Agent D,13.6,8.81,48,0,0,4
+INC1512,2026-05-28 09:18,Business application error,P3 Medium,Email,Agent B,9.5,6.77,24,0,1,3
+INC1513,2026-05-28 14:45,Wi-Fi / network,P3 Medium,Email,Agent A,14.9,2.77,24,0,1,5
+INC1514,2026-05-28 10:39,Wi-Fi / network,P4 Low,Portal,Agent B,10.5,7.09,48,0,0,5
+INC1515,2026-05-29 12:09,Email / Outlook,P3 Medium,Walk-up,Agent D,7.0,3.71,24,0,0,3
+INC1516,2026-05-29 14:09,Software install / licence,P4 Low,Email,Agent D,6.0,2.11,48,0,0,5
+INC1517,2026-05-29 12:54,"Hardware fault (laptop, printer)",P2 High,Email,Agent B,3.0,12.22,8,1,0,4
+INC1518,2026-05-29 13:00,Software install / licence,P3 Medium,Email,Agent A,5.4,1.58,24,0,0,4
+INC1519,2026-05-29 17:07,Wi-Fi / network,P3 Medium,Walk-up,Agent C,3.5,11.0,24,0,0,5
+INC1520,2026-05-29 13:28,Email / Outlook,P4 Low,Portal,Agent E,33.0,7.44,48,0,0,4
+INC1521,2026-05-29 13:05,Wi-Fi / network,P2 High,Walk-up,Agent D,7.2,1.67,8,0,0,3
+INC1522,2026-05-29 10:43,Software install / licence,P3 Medium,Phone,Agent C,21.3,3.38,24,0,0,5
+INC1523,2026-05-29 11:48,Wi-Fi / network,P3 Medium,Phone,Agent D,17.0,1.73,24,0,0,3
+INC1524,2026-05-29 09:29,Wi-Fi / network,P4 Low,Email,Agent B,8.4,4.98,48,0,0,4
+INC1525,2026-05-29 16:32,Password reset / account lockout,P3 Medium,Phone,Agent E,14.6,1.19,24,0,1,4
+INC1526,2026-05-29 15:53,Wi-Fi / network,P2 High,Portal,Agent C,9.7,2.33,8,0,0,4
+INC1527,2026-05-29 10:58,VPN / remote access,P2 High,Phone,Agent E,5.6,2.18,8,0,0,5
+INC1528,2026-05-29 11:25,VPN / remote access,P4 Low,Email,Agent D,14.7,1.97,48,0,0,4
+INC1529,2026-06-01 09:08,Password reset / account lockout,P2 High,Phone,Agent B,9.3,0.92,8,0,0,3
+INC1530,2026-06-01 13:50,Software install / licence,P2 High,Portal,Agent B,4.0,2.93,8,0,0,5
+INC1531,2026-06-01 15:37,Email / Outlook,P3 Medium,Portal,Agent D,18.2,3.65,24,0,0,4
+INC1532,2026-06-01 10:31,Wi-Fi / network,P3 Medium,Portal,Agent D,10.7,2.9,24,0,0,5
+INC1533,2026-06-01 13:41,Email / Outlook,P3 Medium,Phone,Agent C,8.8,4.11,24,0,0,4
+INC1534,2026-06-01 14:58,Software install / licence,P4 Low,Portal,Agent B,7.6,4.02,48,0,0,5
+INC1535,2026-06-01 14:05,"Hardware fault (laptop, printer)",P2 High,Phone,Agent E,14.7,9.65,8,1,0,4
+INC1536,2026-06-01 12:01,Email / Outlook,P3 Medium,Portal,Agent B,6.0,2.11,24,0,0,4
+INC1537,2026-06-01 08:56,Software install / licence,P4 Low,Portal,Agent E,21.0,6.7,48,0,0,5
+INC1538,2026-06-01 09:35,Password reset / account lockout,P2 High,Email,Agent B,6.1,0.42,8,0,0,4
+INC1539,2026-06-01 09:54,Password reset / account lockout,P4 Low,Portal,Agent A,7.2,0.23,48,0,0,4
+INC1540,2026-06-01 11:48,Wi-Fi / network,P3 Medium,Phone,Agent E,16.9,4.54,24,0,0,3
+INC1541,2026-06-01 15:23,New starter / leaver setup,P3 Medium,Portal,Agent E,44.4,15.4,24,0,0,5
+INC1542,2026-06-01 13:45,Teams / video meetings,P4 Low,Walk-up,Agent D,10.8,2.28,48,0,0,4
+INC1543,2026-06-01 10:33,"Hardware fault (laptop, printer)",P2 High,Email,Agent B,7.4,21.18,8,1,0,3
+INC1544,2026-06-01 15:41,Wi-Fi / network,P2 High,Email,Agent A,6.3,3.6,8,0,0,4
+INC1545,2026-06-01 10:40,Password reset / account lockout,P1 Critical,Portal,Agent E,4.2,0.1,4,0,0,4
+INC1546,2026-06-02 10:32,Email / Outlook,P2 High,Portal,Agent A,2.8,1.9,8,0,0,3
+INC1547,2026-06-02 14:37,Software install / licence,P4 Low,Email,Agent E,5.4,9.17,48,0,0,4
+INC1548,2026-06-02 11:47,Email / Outlook,P3 Medium,Email,Agent C,8.8,2.61,24,0,0,4
+INC1549,2026-06-02 11:08,Wi-Fi / network,P3 Medium,Email,Agent E,12.7,4.06,24,0,0,4
+INC1550,2026-06-02 14:26,VPN / remote access,P2 High,Phone,Agent D,9.1,1.02,8,0,0,3
+INC1551,2026-06-02 11:47,Password reset / account lockout,P3 Medium,Walk-up,Agent A,4.0,0.6,24,0,0,5
+INC1552,2026-06-02 17:19,Email / Outlook,P1 Critical,Phone,Agent E,4.5,0.49,4,0,0,5
+INC1553,2026-06-02 14:00,Password reset / account lockout,P3 Medium,Portal,Agent D,9.3,0.56,24,0,0,5
+INC1554,2026-06-02 09:08,Software install / licence,P3 Medium,Email,Agent D,3.2,0.84,24,0,0,3
+INC1555,2026-06-02 11:57,Wi-Fi / network,P3 Medium,Walk-up,Agent D,36.1,7.13,24,0,0,5
+INC1556,2026-06-02 12:07,"Hardware fault (laptop, printer)",P2 High,Walk-up,Agent E,6.5,10.8,8,1,0,2
+INC1557,2026-06-02 16:07,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent C,7.4,12.59,24,0,0,4
+INC1558,2026-06-02 15:01,Email / Outlook,P2 High,Phone,Agent E,4.0,2.48,8,0,0,5
+INC1559,2026-06-02 09:19,Business application error,P3 Medium,Phone,Agent C,7.9,3.86,24,0,1,4
+INC1560,2026-06-02 16:57,Password reset / account lockout,P3 Medium,Portal,Agent E,10.9,0.45,24,0,0,4
+INC1561,2026-06-03 08:01,Wi-Fi / network,P3 Medium,Portal,Agent C,11.9,4.98,24,0,0,5
+INC1562,2026-06-03 11:54,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent C,29.0,9.21,24,0,1,4
+INC1563,2026-06-03 13:41,Business application error,P1 Critical,Walk-up,Agent D,9.4,3.57,4,0,0,3
+INC1564,2026-06-03 10:10,Teams / video meetings,P3 Medium,Email,Agent D,16.3,5.73,24,0,0,5
+INC1565,2026-06-03 16:40,Email / Outlook,P4 Low,Email,Agent B,12.1,5.01,48,0,0,3
+INC1566,2026-06-03 11:05,Teams / video meetings,P3 Medium,Phone,Agent A,21.7,1.6,24,0,0,3
+INC1567,2026-06-03 15:00,Password reset / account lockout,P3 Medium,Phone,Agent A,11.8,0.44,24,0,0,5
+INC1568,2026-06-03 10:31,Business application error,P1 Critical,Email,Agent E,10.3,4.44,4,1,0,3
+INC1569,2026-06-03 12:42,Teams / video meetings,P3 Medium,Email,Agent B,10.9,1.15,24,0,0,4
+INC1570,2026-06-03 15:12,VPN / remote access,P1 Critical,Walk-up,Agent E,4.8,3.07,4,0,0,5
+INC1571,2026-06-03 15:26,Email / Outlook,P3 Medium,Email,Agent C,12.7,2.8,24,0,0,4
+INC1572,2026-06-03 12:20,Password reset / account lockout,P2 High,Phone,Agent E,3.8,0.33,8,0,0,4
+INC1573,2026-06-03 11:01,Software install / licence,P3 Medium,Email,Agent C,19.9,2.1,24,0,0,4
+INC1574,2026-06-03 08:38,"Hardware fault (laptop, printer)",P4 Low,Email,Agent E,12.2,30.09,48,0,1,4
+INC1575,2026-06-04 15:25,Password reset / account lockout,P4 Low,Phone,Agent E,9.1,2.47,48,0,0,4
+INC1576,2026-06-04 13:43,Teams / video meetings,P3 Medium,Email,Agent B,4.6,3.28,24,0,0,4
+INC1577,2026-06-04 12:39,Wi-Fi / network,P3 Medium,Portal,Agent A,10.4,1.46,24,0,0,4
+INC1578,2026-06-04 09:30,Email / Outlook,P3 Medium,Email,Agent A,6.2,2.23,24,0,0,4
+INC1579,2026-06-04 12:03,Wi-Fi / network,P2 High,Phone,Agent B,10.5,6.02,8,0,0,4
+INC1580,2026-06-04 13:21,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent D,15.9,7.24,24,0,0,4
+INC1581,2026-06-04 09:30,Teams / video meetings,P4 Low,Email,Agent D,22.0,2.16,48,0,0,5
+INC1582,2026-06-04 10:12,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,6.7,7.32,48,0,0,4
+INC1583,2026-06-04 15:15,Password reset / account lockout,P1 Critical,Portal,Agent A,4.6,0.15,4,0,0,4
+INC1584,2026-06-04 17:39,VPN / remote access,P4 Low,Phone,Agent B,13.4,2.99,48,0,0,3
+INC1585,2026-06-04 13:58,Password reset / account lockout,P3 Medium,Phone,Agent E,4.9,0.6,24,0,0,5
+INC1586,2026-06-04 13:31,Password reset / account lockout,P2 High,Email,Agent E,12.4,0.33,8,0,0,5
+INC1587,2026-06-04 12:29,Password reset / account lockout,P4 Low,Email,Agent D,6.7,1.36,48,0,0,4
+INC1588,2026-06-04 09:12,Wi-Fi / network,P3 Medium,Phone,Agent D,20.4,8.94,24,0,0,4
+INC1589,2026-06-04 09:05,Email / Outlook,P3 Medium,Phone,Agent A,8.6,1.95,24,0,0,5
+INC1590,2026-06-04 11:11,Wi-Fi / network,P3 Medium,Phone,Agent A,10.5,2.3,24,0,0,4
+INC1591,2026-06-05 10:34,Password reset / account lockout,P2 High,Email,Agent C,9.3,1.79,8,0,0,5
+INC1592,2026-06-05 09:54,Teams / video meetings,P4 Low,Walk-up,Agent A,3.6,3.88,48,0,0,4
+INC1593,2026-06-05 12:29,Teams / video meetings,P3 Medium,Portal,Agent C,21.8,3.89,24,0,0,5
+INC1594,2026-06-05 15:01,Wi-Fi / network,P3 Medium,Phone,Agent A,8.2,3.4,24,0,0,4
+INC1595,2026-06-05 14:19,Email / Outlook,P1 Critical,Portal,Agent B,7.8,0.81,4,0,0,3
+INC1596,2026-06-05 17:13,New starter / leaver setup,P2 High,Email,Agent D,3.7,2.42,8,0,0,5
+INC1597,2026-06-05 08:44,Software install / licence,P1 Critical,Phone,Agent D,7.1,1.09,4,0,1,4
+INC1598,2026-06-05 12:10,Email / Outlook,P4 Low,Email,Agent A,15.0,1.86,48,0,0,5
+INC1599,2026-06-05 10:52,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,13.0,10.39,24,0,1,5
+INC1600,2026-06-05 09:04,VPN / remote access,P3 Medium,Phone,Agent C,14.1,3.52,24,0,0,3
+INC1601,2026-06-05 14:19,Wi-Fi / network,P4 Low,Portal,Agent D,16.7,9.12,48,0,0,5
+INC1602,2026-06-05 11:02,Email / Outlook,P4 Low,Phone,Agent E,5.6,9.8,48,0,0,2
+INC1603,2026-06-05 08:06,Software install / licence,P4 Low,Email,Agent B,9.6,2.99,48,0,0,4
+INC1604,2026-06-05 14:24,Email / Outlook,P3 Medium,Phone,Agent A,16.4,3.81,24,0,1,3
+INC1605,2026-06-05 16:08,Wi-Fi / network,P3 Medium,Phone,Agent A,3.5,3.84,24,0,1,4
+INC1606,2026-06-05 10:28,Email / Outlook,P3 Medium,Phone,Agent E,16.6,1.29,24,0,0,4
+INC1607,2026-06-08 08:00,Password reset / account lockout,P3 Medium,Phone,Agent B,4.8,0.51,24,0,0,4
+INC1608,2026-06-08 14:14,Business application error,P2 High,Portal,Agent B,6.4,12.47,8,1,0,4
+INC1609,2026-06-08 13:39,Password reset / account lockout,P3 Medium,Walk-up,Agent A,6.8,0.38,24,0,0,4
+INC1610,2026-06-08 08:56,Password reset / account lockout,P3 Medium,Email,Agent A,27.4,1.33,24,0,0,5
+INC1611,2026-06-08 09:20,Business application error,P3 Medium,Portal,Agent B,17.8,6.48,24,0,0,4
+INC1612,2026-06-08 13:37,Wi-Fi / network,P3 Medium,Portal,Agent E,18.0,2.59,24,0,0,4
+INC1613,2026-06-08 14:39,Password reset / account lockout,P2 High,Email,Agent B,38.6,0.4,8,0,0,4
+INC1614,2026-06-08 13:48,Password reset / account lockout,P4 Low,Email,Agent C,14.4,1.43,48,0,0,5
+INC1615,2026-06-08 08:58,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent B,7.2,9.43,24,0,1,4
+INC1616,2026-06-08 09:40,Business application error,P4 Low,Phone,Agent B,17.9,26.85,48,0,1,4
+INC1617,2026-06-08 14:19,Password reset / account lockout,P2 High,Email,Agent E,5.2,0.54,8,0,0,4
+INC1618,2026-06-08 17:25,Wi-Fi / network,P3 Medium,Email,Agent E,4.5,12.61,24,0,0,4
+INC1619,2026-06-08 14:58,Email / Outlook,P3 Medium,Email,Agent B,9.2,1.63,24,0,0,5
+INC1620,2026-06-08 11:09,New starter / leaver setup,P1 Critical,Portal,Agent C,4.6,2.96,4,0,0,5
+INC1621,2026-06-08 13:26,VPN / remote access,P4 Low,Phone,Agent E,18.0,10.08,48,0,0,5
+INC1622,2026-06-08 11:15,Email / Outlook,P1 Critical,Portal,Agent A,3.8,1.8,4,0,0,5
+INC1623,2026-06-08 10:38,Software install / licence,P3 Medium,Phone,Agent A,20.3,5.23,24,0,0,5
+INC1624,2026-06-08 09:27,Password reset / account lockout,P3 Medium,Portal,Agent E,4.8,0.64,24,0,0,4
+INC1625,2026-06-08 09:40,Software install / licence,P4 Low,Portal,Agent C,15.3,4.59,48,0,0,4
+INC1626,2026-06-08 11:45,Password reset / account lockout,P3 Medium,Email,Agent A,2.6,0.4,24,0,0,4
+INC1627,2026-06-08 16:26,Wi-Fi / network,P4 Low,Phone,Agent B,2.4,6.04,48,0,0,3
+INC1628,2026-06-08 10:31,Wi-Fi / network,P3 Medium,Email,Agent C,7.8,5.71,24,0,0,4
+INC1629,2026-06-08 11:39,Password reset / account lockout,P3 Medium,Email,Agent A,4.4,0.29,24,0,0,4
+INC1630,2026-06-09 11:43,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,29.6,14.8,24,0,0,4
+INC1631,2026-06-09 10:31,Wi-Fi / network,P3 Medium,Phone,Agent D,12.5,3.56,24,0,0,3
+INC1632,2026-06-09 13:45,Password reset / account lockout,P3 Medium,Email,Agent E,7.2,0.31,24,0,0,4
+INC1633,2026-06-09 10:10,Teams / video meetings,P3 Medium,Phone,Agent D,8.4,3.47,24,0,0,4
+INC1634,2026-06-09 14:57,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent D,12.7,14.26,24,0,0,4
+INC1635,2026-06-09 13:35,Business application error,P3 Medium,Phone,Agent C,3.8,6.2,24,0,0,4
+INC1636,2026-06-09 17:20,Teams / video meetings,P4 Low,Walk-up,Agent B,6.2,3.35,48,0,0,4
+INC1637,2026-06-09 16:53,Password reset / account lockout,P3 Medium,Phone,Agent C,28.3,0.24,24,0,0,4
+INC1638,2026-06-09 10:44,Password reset / account lockout,P4 Low,Portal,Agent D,2.8,1.07,48,0,0,5
+INC1639,2026-06-09 14:59,VPN / remote access,P2 High,Email,Agent D,2.7,1.19,8,0,0,4
+INC1640,2026-06-09 11:22,Teams / video meetings,P3 Medium,Email,Agent C,5.4,3.35,24,0,0,5
+INC1641,2026-06-09 16:19,Wi-Fi / network,P2 High,Phone,Agent D,1.9,3.02,8,0,0,4
+INC1642,2026-06-09 08:46,VPN / remote access,P2 High,Portal,Agent B,2.9,4.29,8,0,0,5
+INC1643,2026-06-10 12:21,Software install / licence,P4 Low,Email,Agent D,8.6,3.47,48,0,0,5
+INC1644,2026-06-10 15:50,"Hardware fault (laptop, printer)",P2 High,Email,Agent D,5.1,4.12,8,0,1,5
+INC1645,2026-06-10 12:42,New starter / leaver setup,P3 Medium,Email,Agent E,3.6,7.04,24,0,0,5
+INC1646,2026-06-10 10:08,Password reset / account lockout,P2 High,Walk-up,Agent E,5.8,0.9,8,0,0,4
+INC1647,2026-06-10 14:50,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent A,4.8,5.13,48,0,0,5
+INC1648,2026-06-10 09:10,Password reset / account lockout,P3 Medium,Portal,Agent A,7.3,1.28,24,0,0,5
+INC1649,2026-06-10 16:00,Email / Outlook,P2 High,Walk-up,Agent C,7.8,3.6,8,0,0,5
+INC1650,2026-06-10 12:13,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,11.4,4.47,24,0,0,4
+INC1651,2026-06-10 09:39,Wi-Fi / network,P3 Medium,Phone,Agent B,6.4,3.61,24,0,0,4
+INC1652,2026-06-10 14:40,"Hardware fault (laptop, printer)",P2 High,Email,Agent E,5.6,11.86,8,1,0,3
+INC1653,2026-06-10 08:07,Software install / licence,P3 Medium,Email,Agent C,7.9,4.06,24,0,0,4
+INC1654,2026-06-10 11:14,Wi-Fi / network,P2 High,Walk-up,Agent B,9.6,4.89,8,0,1,4
+INC1655,2026-06-10 10:36,VPN / remote access,P3 Medium,Email,Agent A,10.8,2.54,24,0,0,4
+INC1656,2026-06-10 08:32,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent E,13.3,12.64,24,0,0,4
+INC1657,2026-06-10 14:11,Wi-Fi / network,P3 Medium,Email,Agent C,15.9,3.04,24,0,0,5
+INC1658,2026-06-11 10:05,"Hardware fault (laptop, printer)",P2 High,Phone,Agent A,5.6,11.38,8,1,0,3
+INC1659,2026-06-11 14:30,Software install / licence,P3 Medium,Portal,Agent E,38.2,5.13,24,0,0,5
+INC1660,2026-06-11 14:44,Software install / licence,P3 Medium,Walk-up,Agent E,9.4,4.5,24,0,0,5
+INC1661,2026-06-11 09:23,VPN / remote access,P3 Medium,Walk-up,Agent D,20.7,3.31,24,0,0,3
+INC1662,2026-06-11 15:54,Teams / video meetings,P2 High,Phone,Agent C,15.9,2.7,8,0,0,5
+INC1663,2026-06-11 15:03,Email / Outlook,P3 Medium,Email,Agent C,14.6,1.56,24,0,1,3
+INC1664,2026-06-11 11:12,Password reset / account lockout,P3 Medium,Phone,Agent A,9.5,0.72,24,0,0,5
+INC1665,2026-06-11 10:28,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent D,7.7,9.49,24,0,0,4
+INC1666,2026-06-11 10:02,Password reset / account lockout,P2 High,Email,Agent C,5.9,0.33,8,0,0,4
+INC1667,2026-06-11 11:46,New starter / leaver setup,P4 Low,Email,Agent A,8.3,4.77,48,0,1,3
+INC1668,2026-06-11 12:18,Wi-Fi / network,P4 Low,Phone,Agent B,7.7,8.35,48,0,0,4
+INC1669,2026-06-11 11:30,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent E,26.7,18.21,48,0,0,3
+INC1670,2026-06-11 09:25,Password reset / account lockout,P4 Low,Walk-up,Agent D,10.9,1.59,48,0,0,5
+INC1671,2026-06-11 08:27,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent C,7.3,11.0,24,0,0,5
+INC1672,2026-06-11 11:16,New starter / leaver setup,P3 Medium,Email,Agent A,13.7,8.43,24,0,0,5
+INC1673,2026-06-12 13:38,Wi-Fi / network,P3 Medium,Phone,Agent D,5.6,5.17,24,0,1,5
+INC1674,2026-06-12 10:30,Business application error,P3 Medium,Portal,Agent A,11.0,4.65,24,0,0,4
+INC1675,2026-06-12 13:07,New starter / leaver setup,P2 High,Email,Agent E,5.9,10.43,8,1,0,4
+INC1676,2026-06-12 12:35,Teams / video meetings,P3 Medium,Phone,Agent B,24.7,2.18,24,0,0,5
+INC1677,2026-06-12 14:16,Email / Outlook,P3 Medium,Portal,Agent E,10.5,1.97,24,0,0,5
+INC1678,2026-06-12 09:55,Teams / video meetings,P3 Medium,Phone,Agent B,6.7,2.07,24,0,0,4
+INC1679,2026-06-12 08:45,VPN / remote access,P3 Medium,Phone,Agent E,7.4,2.64,24,0,1,3
+INC1680,2026-06-12 16:37,Password reset / account lockout,P4 Low,Email,Agent C,13.3,2.74,48,0,0,3
+INC1681,2026-06-12 10:37,"Hardware fault (laptop, printer)",P4 Low,Email,Agent D,2.5,4.82,48,0,1,4
+INC1682,2026-06-12 15:12,Software install / licence,P4 Low,Phone,Agent C,11.2,3.2,48,0,0,5
+INC1683,2026-06-15 17:06,Teams / video meetings,P2 High,Portal,Agent A,12.8,1.99,8,0,1,5
+INC1684,2026-06-15 10:05,Email / Outlook,P4 Low,Email,Agent A,13.0,4.76,48,0,0,4
+INC1685,2026-06-15 09:21,Wi-Fi / network,P3 Medium,Email,Agent C,14.5,5.05,24,0,0,4
+INC1686,2026-06-15 12:53,Wi-Fi / network,P1 Critical,Phone,Agent B,7.4,1.85,4,0,0,3
+INC1687,2026-06-15 15:07,Software install / licence,P4 Low,Phone,Agent C,11.4,3.72,48,0,0,5
+INC1688,2026-06-15 13:43,Wi-Fi / network,P4 Low,Portal,Agent E,30.2,12.67,48,0,1,5
+INC1689,2026-06-15 09:41,Password reset / account lockout,P2 High,Email,Agent D,4.6,0.8,8,0,0,4
+INC1690,2026-06-15 10:08,Password reset / account lockout,P3 Medium,Email,Agent D,13.3,0.3,24,0,0,5
+INC1691,2026-06-15 11:35,Software install / licence,P3 Medium,Email,Agent B,8.2,2.31,24,0,0,4
+INC1692,2026-06-15 14:44,Password reset / account lockout,P3 Medium,Phone,Agent A,19.3,0.4,24,0,0,4
+INC1693,2026-06-15 11:53,VPN / remote access,P4 Low,Walk-up,Agent B,13.3,3.94,48,0,0,4
+INC1694,2026-06-15 09:46,Password reset / account lockout,P4 Low,Email,Agent A,4.7,0.96,48,0,0,5
+INC1695,2026-06-15 15:09,Teams / video meetings,P3 Medium,Phone,Agent E,8.7,3.27,24,0,0,5
+INC1696,2026-06-15 14:18,Password reset / account lockout,P2 High,Email,Agent E,26.6,1.21,8,0,0,5
+INC1697,2026-06-15 12:45,Email / Outlook,P4 Low,Phone,Agent A,6.1,8.52,48,0,0,3
+INC1698,2026-06-15 09:11,VPN / remote access,P4 Low,Email,Agent A,5.8,8.35,48,0,0,5
+INC1699,2026-06-15 13:12,Email / Outlook,P2 High,Email,Agent C,6.3,1.48,8,0,0,5
+INC1700,2026-06-15 14:19,Password reset / account lockout,P3 Medium,Walk-up,Agent B,4.5,0.69,24,0,0,4
+INC1701,2026-06-15 14:46,Email / Outlook,P2 High,Portal,Agent C,2.5,1.96,8,0,0,5
+INC1702,2026-06-15 13:54,Password reset / account lockout,P2 High,Portal,Agent A,8.3,1.18,8,0,0,3
+INC1703,2026-06-15 13:59,Teams / video meetings,P3 Medium,Phone,Agent C,5.2,0.88,24,0,0,4
+INC1704,2026-06-16 13:04,Business application error,P3 Medium,Walk-up,Agent A,23.2,11.89,24,0,0,5
+INC1705,2026-06-16 15:05,Software install / licence,P3 Medium,Phone,Agent C,8.5,2.12,24,0,0,4
+INC1706,2026-06-16 11:16,Teams / video meetings,P3 Medium,Walk-up,Agent A,8.2,4.06,24,0,0,4
+INC1707,2026-06-16 13:43,Password reset / account lockout,P3 Medium,Portal,Agent C,10.1,0.45,24,0,0,4
+INC1708,2026-06-16 13:47,Teams / video meetings,P3 Medium,Email,Agent B,5.6,3.2,24,0,0,4
+INC1709,2026-06-16 11:29,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,14.1,20.25,24,0,0,3
+INC1710,2026-06-16 12:44,Teams / video meetings,P2 High,Email,Agent E,7.4,1.35,8,0,1,5
+INC1711,2026-06-16 13:24,Password reset / account lockout,P4 Low,Portal,Agent D,9.0,0.65,48,0,0,5
+INC1712,2026-06-16 08:55,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,19.7,27.03,48,0,0,5
+INC1713,2026-06-16 16:30,Wi-Fi / network,P3 Medium,Phone,Agent D,8.9,2.43,24,0,0,4
+INC1714,2026-06-16 14:39,Password reset / account lockout,P3 Medium,Portal,Agent C,4.0,1.5,24,0,0,4
+INC1715,2026-06-16 10:46,Password reset / account lockout,P3 Medium,Portal,Agent B,10.8,0.85,24,0,0,5
+INC1716,2026-06-16 15:38,Wi-Fi / network,P3 Medium,Walk-up,Agent E,8.2,9.89,24,0,0,5
+INC1717,2026-06-16 15:07,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent D,9.3,3.37,24,0,0,5
+INC1718,2026-06-17 10:42,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent E,13.2,12.93,24,0,0,4
+INC1719,2026-06-17 09:49,Wi-Fi / network,P3 Medium,Phone,Agent D,17.5,7.31,24,0,0,3
+INC1720,2026-06-17 13:50,Teams / video meetings,P1 Critical,Email,Agent B,7.6,1.01,4,0,0,5
+INC1721,2026-06-17 08:58,Wi-Fi / network,P1 Critical,Phone,Agent C,8.6,4.29,4,1,0,3
+INC1722,2026-06-17 13:27,Email / Outlook,P4 Low,Phone,Agent D,10.3,4.13,48,0,0,5
+INC1723,2026-06-17 13:50,Wi-Fi / network,P4 Low,Walk-up,Agent E,3.9,4.98,48,0,0,4
+INC1724,2026-06-17 17:36,Wi-Fi / network,P4 Low,Phone,Agent D,3.9,10.76,48,0,0,5
+INC1725,2026-06-17 14:51,Teams / video meetings,P4 Low,Portal,Agent C,7.1,2.23,48,0,0,5
+INC1726,2026-06-17 11:31,Business application error,P2 High,Portal,Agent D,5.6,25.91,8,1,0,4
+INC1727,2026-06-17 13:54,Password reset / account lockout,P4 Low,Walk-up,Agent D,12.6,0.7,48,0,0,4
+INC1728,2026-06-17 14:13,VPN / remote access,P2 High,Phone,Agent C,4.5,4.74,8,0,1,4
+INC1729,2026-06-17 11:51,Software install / licence,P3 Medium,Email,Agent B,35.2,2.24,24,0,0,3
+INC1730,2026-06-17 09:50,Teams / video meetings,P3 Medium,Portal,Agent D,11.4,1.7,24,0,0,5
+INC1731,2026-06-17 09:22,Wi-Fi / network,P3 Medium,Phone,Agent B,23.8,2.7,24,0,0,5
+INC1732,2026-06-17 12:25,Password reset / account lockout,P2 High,Email,Agent B,7.7,0.52,8,0,0,5
+INC1733,2026-06-17 08:21,Password reset / account lockout,P3 Medium,Email,Agent B,12.4,0.66,24,0,0,5
+INC1734,2026-06-17 10:38,New starter / leaver setup,P4 Low,Portal,Agent E,14.7,22.77,48,0,0,5
+INC1735,2026-06-17 12:17,Wi-Fi / network,P2 High,Phone,Agent C,11.9,4.92,8,0,1,5
+INC1736,2026-06-17 11:08,VPN / remote access,P3 Medium,Portal,Agent E,3.9,12.27,24,0,0,4
+INC1737,2026-06-18 13:25,Email / Outlook,P4 Low,Email,Agent A,14.7,2.1,48,0,0,5
+INC1738,2026-06-18 09:05,Password reset / account lockout,P4 Low,Email,Agent E,13.9,1.92,48,0,0,4
+INC1739,2026-06-18 08:21,"Hardware fault (laptop, printer)",P4 Low,Email,Agent B,5.6,33.51,48,0,0,3
+INC1740,2026-06-18 16:40,Wi-Fi / network,P2 High,Email,Agent E,2.2,4.8,8,0,0,4
+INC1741,2026-06-18 09:49,Email / Outlook,P2 High,Email,Agent B,4.3,4.41,8,0,0,5
+INC1742,2026-06-18 09:52,Wi-Fi / network,P3 Medium,Email,Agent E,18.6,8.31,24,0,0,4
+INC1743,2026-06-18 09:08,Password reset / account lockout,P3 Medium,Walk-up,Agent E,6.4,0.79,24,0,0,4
+INC1744,2026-06-18 13:09,Wi-Fi / network,P2 High,Phone,Agent A,5.6,5.37,8,0,0,5
+INC1745,2026-06-18 09:27,Password reset / account lockout,P3 Medium,Email,Agent C,3.1,0.37,24,0,0,4
+INC1746,2026-06-18 11:38,Email / Outlook,P3 Medium,Email,Agent A,7.7,3.45,24,0,0,5
+INC1747,2026-06-18 09:39,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,15.7,6.07,24,0,0,3
+INC1748,2026-06-18 09:32,New starter / leaver setup,P3 Medium,Portal,Agent B,6.0,2.26,24,0,0,4
+INC1749,2026-06-18 17:42,Wi-Fi / network,P3 Medium,Phone,Agent C,7.5,6.79,24,0,1,4
+INC1750,2026-06-18 08:01,Software install / licence,P4 Low,Portal,Agent E,13.7,6.07,48,0,0,4
+INC1751,2026-06-18 10:31,Teams / video meetings,P4 Low,Phone,Agent D,16.2,1.98,48,0,0,3
+INC1752,2026-06-19 15:53,Software install / licence,P2 High,Portal,Agent A,5.1,1.45,8,0,0,4
+INC1753,2026-06-19 09:05,Password reset / account lockout,P4 Low,Email,Agent C,21.0,3.2,48,0,0,4
+INC1754,2026-06-19 12:16,New starter / leaver setup,P3 Medium,Email,Agent E,10.3,6.22,24,0,0,4
+INC1755,2026-06-19 17:50,Email / Outlook,P2 High,Phone,Agent B,7.6,2.41,8,0,0,5
+INC1756,2026-06-19 15:00,Wi-Fi / network,P3 Medium,Portal,Agent A,8.1,1.85,24,0,1,4
+INC1757,2026-06-19 10:54,Software install / licence,P4 Low,Email,Agent A,15.2,5.16,48,0,0,5
+INC1758,2026-06-19 10:02,Wi-Fi / network,P3 Medium,Portal,Agent D,7.4,2.27,24,0,0,4
+INC1759,2026-06-19 13:43,Teams / video meetings,P3 Medium,Email,Agent B,12.0,1.63,24,0,0,4
+INC1760,2026-06-19 11:56,VPN / remote access,P2 High,Email,Agent C,4.8,3.89,8,0,0,5
+INC1761,2026-06-19 16:01,Business application error,P3 Medium,Portal,Agent E,34.6,14.11,24,0,0,4
+INC1762,2026-06-19 08:54,Wi-Fi / network,P3 Medium,Phone,Agent E,12.6,4.81,24,0,1,4
+INC1763,2026-06-19 10:03,Password reset / account lockout,P3 Medium,Email,Agent A,70.2,0.76,24,0,0,5
+INC1764,2026-06-19 16:40,VPN / remote access,P3 Medium,Email,Agent A,10.2,6.4,24,0,1,5
+INC1765,2026-06-19 11:59,Password reset / account lockout,P3 Medium,Walk-up,Agent B,28.2,1.22,24,0,0,5
+INC1766,2026-06-19 13:27,Password reset / account lockout,P1 Critical,Phone,Agent B,6.6,0.1,4,0,0,4
+INC1767,2026-06-22 12:42,Email / Outlook,P3 Medium,Portal,Agent D,4.1,2.07,24,0,0,5
+INC1768,2026-06-22 13:57,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent C,13.7,19.99,24,0,0,4
+INC1769,2026-06-22 10:54,VPN / remote access,P3 Medium,Walk-up,Agent E,12.8,3.92,24,0,0,4
+INC1770,2026-06-22 15:17,Teams / video meetings,P3 Medium,Walk-up,Agent A,7.8,5.14,24,0,0,5
+INC1771,2026-06-22 13:59,Software install / licence,P3 Medium,Phone,Agent C,16.6,4.03,24,0,0,5
+INC1772,2026-06-22 10:42,Password reset / account lockout,P4 Low,Email,Agent B,16.4,1.28,48,0,0,5
+INC1773,2026-06-22 14:26,New starter / leaver setup,P2 High,Phone,Agent A,3.2,9.59,8,1,0,4
+INC1774,2026-06-22 09:16,Software install / licence,P3 Medium,Phone,Agent B,13.8,2.63,24,0,1,4
+INC1775,2026-06-22 17:06,Password reset / account lockout,P4 Low,Portal,Agent C,17.6,1.92,48,0,0,5
+INC1776,2026-06-22 12:12,VPN / remote access,P3 Medium,Email,Agent C,8.4,1.0,24,0,0,4
+INC1777,2026-06-23 12:06,Password reset / account lockout,P3 Medium,Email,Agent C,8.4,0.21,24,0,0,4
+INC1778,2026-06-23 09:18,Password reset / account lockout,P3 Medium,Portal,Agent E,4.7,0.75,24,0,0,4
+INC1779,2026-06-23 10:16,Password reset / account lockout,P4 Low,Phone,Agent B,16.6,1.13,48,0,0,5
+INC1780,2026-06-23 16:57,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent C,3.8,17.88,48,0,0,4
+INC1781,2026-06-23 08:32,Email / Outlook,P3 Medium,Email,Agent B,12.8,9.82,24,0,0,5
+INC1782,2026-06-23 14:35,Wi-Fi / network,P3 Medium,Email,Agent B,5.1,3.56,24,0,0,5
+INC1783,2026-06-23 09:27,New starter / leaver setup,P3 Medium,Phone,Agent A,6.2,1.84,24,0,0,4
+INC1784,2026-06-23 10:41,New starter / leaver setup,P4 Low,Phone,Agent D,5.6,8.91,48,0,0,3
+INC1785,2026-06-23 10:58,VPN / remote access,P3 Medium,Email,Agent C,13.9,5.59,24,0,0,4
+INC1786,2026-06-23 14:32,Password reset / account lockout,P3 Medium,Email,Agent E,10.3,0.74,24,0,0,5
+INC1787,2026-06-23 15:02,Business application error,P3 Medium,Email,Agent D,11.4,14.68,24,0,0,5
+INC1788,2026-06-23 08:54,Software install / licence,P3 Medium,Portal,Agent D,6.9,2.66,24,0,0,4
+INC1789,2026-06-23 14:59,Password reset / account lockout,P3 Medium,Portal,Agent C,14.9,1.35,24,0,0,4
+INC1790,2026-06-23 11:27,Teams / video meetings,P4 Low,Portal,Agent A,18.6,7.84,48,0,0,4
+INC1791,2026-06-24 14:49,Software install / licence,P2 High,Email,Agent B,6.4,1.78,8,0,0,4
+INC1792,2026-06-24 14:50,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent C,7.4,15.48,48,0,0,4
+INC1793,2026-06-24 11:29,Password reset / account lockout,P3 Medium,Email,Agent E,11.8,1.33,24,0,0,5
+INC1794,2026-06-24 10:55,Software install / licence,P3 Medium,Phone,Agent E,12.1,4.54,24,0,0,5
+INC1795,2026-06-24 11:20,Password reset / account lockout,P4 Low,Phone,Agent C,7.3,1.1,48,0,0,5
+INC1796,2026-06-24 09:36,Wi-Fi / network,P4 Low,Email,Agent D,4.3,9.2,48,0,0,5
+INC1797,2026-06-24 11:41,Wi-Fi / network,P4 Low,Phone,Agent A,18.0,9.85,48,0,0,4
+INC1798,2026-06-24 15:02,"Hardware fault (laptop, printer)",P2 High,Portal,Agent A,13.1,10.98,8,1,0,4
+INC1799,2026-06-24 12:20,Email / Outlook,P4 Low,Phone,Agent B,14.3,1.79,48,0,0,4
+INC1800,2026-06-24 12:04,New starter / leaver setup,P3 Medium,Email,Agent D,17.8,8.09,24,0,0,5
+INC1801,2026-06-24 14:42,Password reset / account lockout,P3 Medium,Phone,Agent C,10.0,0.36,24,0,0,5
+INC1802,2026-06-24 09:29,Password reset / account lockout,P2 High,Phone,Agent E,6.2,1.09,8,0,0,4
+INC1803,2026-06-24 11:08,Wi-Fi / network,P3 Medium,Portal,Agent A,6.5,1.41,24,0,1,4
+INC1804,2026-06-24 16:28,New starter / leaver setup,P3 Medium,Portal,Agent D,6.3,3.9,24,0,0,4
+INC1805,2026-06-24 16:59,Software install / licence,P2 High,Phone,Agent E,4.8,2.64,8,0,0,3
+INC1806,2026-06-25 09:19,Software install / licence,P2 High,Email,Agent E,5.4,6.08,8,0,0,5
+INC1807,2026-06-25 15:47,VPN / remote access,P4 Low,Email,Agent C,5.6,7.41,48,0,1,4
+INC1808,2026-06-25 10:28,Email / Outlook,P2 High,Walk-up,Agent C,24.8,1.79,8,0,1,5
+INC1809,2026-06-25 12:51,Password reset / account lockout,P3 Medium,Portal,Agent C,11.3,0.85,24,0,0,3
+INC1810,2026-06-25 09:45,New starter / leaver setup,P2 High,Portal,Agent D,8.5,3.26,8,0,0,4
+INC1811,2026-06-25 12:49,Password reset / account lockout,P3 Medium,Portal,Agent A,15.5,0.2,24,0,0,5
+INC1812,2026-06-25 14:56,"Hardware fault (laptop, printer)",P4 Low,Email,Agent B,7.5,7.39,48,0,0,4
+INC1813,2026-06-25 09:56,Password reset / account lockout,P3 Medium,Portal,Agent B,5.6,0.64,24,0,0,4
+INC1814,2026-06-25 11:37,Email / Outlook,P3 Medium,Email,Agent B,9.7,7.26,24,0,0,4
+INC1815,2026-06-25 09:56,New starter / leaver setup,P4 Low,Email,Agent D,4.8,5.6,48,0,0,4
+INC1816,2026-06-25 09:44,Wi-Fi / network,P2 High,Portal,Agent D,3.1,5.15,8,0,0,5
+INC1817,2026-06-26 12:20,Email / Outlook,P3 Medium,Email,Agent D,4.1,2.16,24,0,0,4
+INC1818,2026-06-26 11:14,Software install / licence,P2 High,Phone,Agent A,8.4,1.7,8,0,0,4
+INC1819,2026-06-26 16:49,Teams / video meetings,P2 High,Phone,Agent B,2.8,1.7,8,0,0,5
+INC1820,2026-06-26 16:21,Wi-Fi / network,P3 Medium,Phone,Agent A,6.0,2.82,24,0,0,5
+INC1821,2026-06-26 15:15,Password reset / account lockout,P4 Low,Portal,Agent D,14.0,1.08,48,0,0,5
+INC1822,2026-06-26 14:26,Password reset / account lockout,P4 Low,Email,Agent B,5.1,0.38,48,0,0,5
+INC1823,2026-06-26 15:27,Software install / licence,P1 Critical,Phone,Agent B,5.5,1.68,4,0,0,4
+INC1824,2026-06-26 14:32,Email / Outlook,P1 Critical,Email,Agent D,6.5,1.72,4,0,0,5
+INC1825,2026-06-26 11:30,Software install / licence,P3 Medium,Email,Agent A,20.8,1.61,24,0,0,5
+INC1826,2026-06-26 11:46,VPN / remote access,P4 Low,Phone,Agent D,8.2,3.79,48,0,0,5
+INC1827,2026-06-26 13:26,VPN / remote access,P3 Medium,Phone,Agent E,5.7,8.07,24,0,0,4
+INC1828,2026-06-26 15:46,Password reset / account lockout,P2 High,Portal,Agent D,5.9,0.58,8,0,0,4
+INC1829,2026-06-26 09:55,Software install / licence,P3 Medium,Phone,Agent D,1.9,4.66,24,0,0,5
+INC1830,2026-06-29 14:51,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,5.0,13.62,48,0,0,5
+INC1831,2026-06-29 14:30,Password reset / account lockout,P3 Medium,Phone,Agent A,4.6,0.65,24,0,0,4
+INC1832,2026-06-29 13:38,Password reset / account lockout,P3 Medium,Email,Agent B,20.9,0.4,24,0,0,4
+INC1833,2026-06-29 16:35,Software install / licence,P3 Medium,Phone,Agent B,4.7,1.86,24,0,0,5
+INC1834,2026-06-29 12:41,Teams / video meetings,P3 Medium,Portal,Agent E,17.0,4.48,24,0,1,4
+INC1835,2026-06-29 16:39,Password reset / account lockout,P2 High,Portal,Agent C,2.6,0.58,8,0,0,5
+INC1836,2026-06-29 11:49,Wi-Fi / network,P3 Medium,Email,Agent E,11.4,4.15,24,0,0,4
+INC1837,2026-06-29 09:27,Software install / licence,P3 Medium,Portal,Agent A,8.5,2.81,24,0,0,4
+INC1838,2026-06-29 11:42,Email / Outlook,P3 Medium,Email,Agent B,8.8,2.18,24,0,1,4
+INC1839,2026-06-29 11:16,Software install / licence,P1 Critical,Phone,Agent C,4.7,2.06,4,0,0,5
+INC1840,2026-06-29 08:45,New starter / leaver setup,P4 Low,Email,Agent D,13.9,2.66,48,0,0,4
+INC1841,2026-06-29 14:45,Teams / video meetings,P4 Low,Phone,Agent D,8.2,4.35,48,0,0,5
+INC1842,2026-06-29 15:17,Business application error,P2 High,Email,Agent A,8.6,5.25,8,0,1,3
+INC1843,2026-06-29 14:03,Password reset / account lockout,P4 Low,Email,Agent C,7.5,0.52,48,0,0,4
+INC1844,2026-06-29 09:47,VPN / remote access,P4 Low,Email,Agent E,12.6,5.65,48,0,0,4
+INC1845,2026-06-29 09:46,Password reset / account lockout,P3 Medium,Email,Agent A,6.3,1.68,24,0,0,4
+INC1846,2026-06-29 14:15,Email / Outlook,P3 Medium,Walk-up,Agent B,7.3,6.1,24,0,0,4
+INC1847,2026-06-29 11:53,Password reset / account lockout,P4 Low,Phone,Agent C,5.2,0.7,48,0,0,5
+INC1848,2026-06-29 15:33,Wi-Fi / network,P3 Medium,Portal,Agent A,4.4,9.46,24,0,0,3
+INC1849,2026-06-29 14:18,Password reset / account lockout,P3 Medium,Email,Agent C,12.2,0.43,24,0,0,5
+INC1850,2026-06-29 13:23,Software install / licence,P3 Medium,Walk-up,Agent C,8.8,5.51,24,0,0,5
+INC1851,2026-06-29 10:29,Software install / licence,P4 Low,Email,Agent E,8.9,5.45,48,0,0,5
+INC1852,2026-06-29 10:23,Software install / licence,P3 Medium,Email,Agent A,9.0,2.58,24,0,0,5
+INC1853,2026-06-29 17:33,Password reset / account lockout,P4 Low,Portal,Agent B,14.2,1.99,48,0,0,4
+INC1854,2026-06-30 14:12,VPN / remote access,P3 Medium,Phone,Agent B,13.1,6.37,24,0,0,5
+INC1855,2026-06-30 15:00,Wi-Fi / network,P3 Medium,Email,Agent D,24.4,9.75,24,0,1,5
+INC1856,2026-06-30 09:49,Email / Outlook,P3 Medium,Portal,Agent D,6.2,2.89,24,0,0,5
+INC1857,2026-06-30 08:56,Software install / licence,P4 Low,Email,Agent C,11.8,5.29,48,0,0,5
+INC1858,2026-06-30 08:19,Wi-Fi / network,P3 Medium,Portal,Agent D,14.1,2.36,24,0,0,5
+INC1859,2026-06-30 16:11,Password reset / account lockout,P3 Medium,Portal,Agent D,20.0,0.89,24,0,0,5
+INC1860,2026-06-30 09:32,Wi-Fi / network,P3 Medium,Email,Agent D,7.4,3.52,24,0,1,3
+INC1861,2026-06-30 15:58,Wi-Fi / network,P3 Medium,Email,Agent C,7.2,2.82,24,0,0,4
+INC1862,2026-06-30 16:45,Software install / licence,P2 High,Portal,Agent D,5.7,2.54,8,0,0,4
+INC1863,2026-06-30 11:27,Email / Outlook,P3 Medium,Portal,Agent E,8.5,2.29,24,0,0,5
+INC1864,2026-06-30 14:34,Teams / video meetings,P3 Medium,Phone,Agent A,9.4,1.13,24,0,0,4
+INC1865,2026-06-30 11:39,Email / Outlook,P4 Low,Portal,Agent E,8.3,5.35,48,0,0,4
+INC1866,2026-07-01 09:32,Business application error,P2 High,Walk-up,Agent C,11.2,10.21,8,1,0,4
+INC1867,2026-07-01 11:07,Teams / video meetings,P3 Medium,Walk-up,Agent E,2.7,2.74,24,0,0,4
+INC1868,2026-07-01 11:48,New starter / leaver setup,P3 Medium,Portal,Agent B,32.9,3.16,24,0,0,4
+INC1869,2026-07-01 08:26,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,13.1,5.39,24,0,0,5
+INC1870,2026-07-01 14:38,VPN / remote access,P3 Medium,Email,Agent C,10.9,4.15,24,0,0,5
+INC1871,2026-07-01 15:31,Password reset / account lockout,P3 Medium,Portal,Agent C,10.8,0.5,24,0,0,4
+INC1872,2026-07-01 17:05,Password reset / account lockout,P4 Low,Email,Agent C,9.6,1.63,48,0,0,4
+INC1873,2026-07-02 11:48,Password reset / account lockout,P4 Low,Email,Agent D,10.6,1.91,48,0,0,5
+INC1874,2026-07-02 09:07,Software install / licence,P2 High,Phone,Agent D,2.2,3.07,8,0,0,5
+INC1875,2026-07-02 14:43,Business application error,P4 Low,Email,Agent E,6.6,20.81,48,0,0,5
+INC1876,2026-07-02 15:25,Email / Outlook,P3 Medium,Email,Agent D,3.7,3.78,24,0,0,4
+INC1877,2026-07-02 11:12,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent E,11.3,10.03,24,0,1,3
+INC1878,2026-07-02 13:43,Password reset / account lockout,P3 Medium,Portal,Agent D,15.3,0.82,24,0,0,4
+INC1879,2026-07-02 15:11,Wi-Fi / network,P4 Low,Phone,Agent B,5.1,3.83,48,0,0,5
+INC1880,2026-07-02 12:07,Teams / video meetings,P4 Low,Portal,Agent B,13.7,1.35,48,0,0,3
+INC1881,2026-07-02 11:24,Password reset / account lockout,P3 Medium,Phone,Agent E,3.9,1.01,24,0,0,4
+INC1882,2026-07-02 15:49,Password reset / account lockout,P3 Medium,Walk-up,Agent D,6.1,0.53,24,0,0,5
+INC1883,2026-07-03 09:26,"Hardware fault (laptop, printer)",P2 High,Phone,Agent D,7.0,5.61,8,0,0,4
+INC1884,2026-07-03 12:15,Teams / video meetings,P3 Medium,Portal,Agent C,11.9,5.42,24,0,0,5
+INC1885,2026-07-03 09:23,Software install / licence,P4 Low,Email,Agent B,19.5,5.26,48,0,0,5
+INC1886,2026-07-03 15:08,Password reset / account lockout,P3 Medium,Email,Agent B,4.1,0.38,24,0,0,5
+INC1887,2026-07-03 13:10,Business application error,P3 Medium,Email,Agent E,20.7,9.45,24,0,1,4
+INC1888,2026-07-03 12:11,Wi-Fi / network,P3 Medium,Portal,Agent A,6.7,2.74,24,0,0,5
+INC1889,2026-07-03 10:29,Software install / licence,P3 Medium,Phone,Agent E,10.1,3.28,24,0,0,3
+INC1890,2026-07-03 15:34,VPN / remote access,P4 Low,Phone,Agent E,14.5,7.2,48,0,0,5
+INC1891,2026-07-03 14:11,Password reset / account lockout,P3 Medium,Email,Agent A,5.8,1.21,24,0,0,4
+INC1892,2026-07-03 10:48,Software install / licence,P3 Medium,Email,Agent A,7.0,1.6,24,0,0,5
+INC1893,2026-07-03 09:31,Email / Outlook,P1 Critical,Email,Agent A,8.6,1.54,4,0,0,5
+INC1894,2026-07-03 14:00,Email / Outlook,P3 Medium,Phone,Agent B,5.3,1.83,24,0,0,4
+INC1895,2026-07-03 14:32,Email / Outlook,P3 Medium,Walk-up,Agent B,25.1,2.46,24,0,0,4
+INC1896,2026-07-06 10:59,VPN / remote access,P3 Medium,Portal,Agent B,6.7,2.53,24,0,0,5
+INC1897,2026-07-06 14:30,Password reset / account lockout,P3 Medium,Email,Agent E,5.9,0.95,24,0,0,5
+INC1898,2026-07-06 10:33,Business application error,P3 Medium,Portal,Agent C,8.2,7.77,24,0,0,5
+INC1899,2026-07-06 15:20,Wi-Fi / network,P3 Medium,Email,Agent D,11.9,1.87,24,0,0,4
+INC1900,2026-07-06 09:42,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,12.5,7.88,24,0,0,5
+INC1901,2026-07-06 13:28,VPN / remote access,P2 High,Phone,Agent C,7.9,23.97,8,1,0,3
+INC1902,2026-07-06 08:21,Email / Outlook,P3 Medium,Walk-up,Agent A,38.9,1.7,24,0,0,4
+INC1903,2026-07-06 13:36,Password reset / account lockout,P2 High,Phone,Agent E,8.2,0.85,8,0,0,5
+INC1904,2026-07-06 15:44,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent D,7.9,10.23,24,0,0,5
+INC1905,2026-07-06 09:45,Email / Outlook,P3 Medium,Walk-up,Agent B,8.1,1.36,24,0,1,2
+INC1906,2026-07-06 12:01,Software install / licence,P4 Low,Walk-up,Agent C,12.3,9.05,48,0,0,4
+INC1907,2026-07-06 13:35,Teams / video meetings,P3 Medium,Portal,Agent A,12.1,1.94,24,0,0,4
+INC1908,2026-07-06 11:56,VPN / remote access,P4 Low,Portal,Agent A,8.0,2.35,48,0,0,3
+INC1909,2026-07-06 16:56,Password reset / account lockout,P3 Medium,Phone,Agent D,4.2,0.52,24,0,0,3
+INC1910,2026-07-06 14:36,New starter / leaver setup,P4 Low,Portal,Agent E,24.8,8.55,48,0,0,5
+INC1911,2026-07-06 10:14,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent C,4.4,13.42,24,0,0,5
+INC1912,2026-07-06 09:11,Software install / licence,P3 Medium,Email,Agent B,9.7,3.95,24,0,0,3
+INC1913,2026-07-06 10:12,Password reset / account lockout,P2 High,Email,Agent D,5.7,0.44,8,0,0,3
+INC1914,2026-07-06 10:19,VPN / remote access,P3 Medium,Portal,Agent C,22.5,1.64,24,0,0,5
+INC1915,2026-07-06 08:17,Teams / video meetings,P4 Low,Phone,Agent B,9.7,3.27,48,0,0,5
+INC1916,2026-07-07 10:39,Wi-Fi / network,P2 High,Phone,Agent E,3.0,7.15,8,0,0,3
+INC1917,2026-07-07 10:20,Password reset / account lockout,P1 Critical,Phone,Agent D,6.2,0.21,4,0,1,3
+INC1918,2026-07-07 16:05,Wi-Fi / network,P2 High,Walk-up,Agent D,8.0,3.96,8,0,0,3
+INC1919,2026-07-07 09:42,Software install / licence,P4 Low,Portal,Agent A,15.7,3.75,48,0,0,5
+INC1920,2026-07-07 09:09,Email / Outlook,P2 High,Phone,Agent D,4.2,1.39,8,0,0,4
+INC1921,2026-07-07 11:37,Software install / licence,P3 Medium,Portal,Agent B,2.5,2.31,24,0,0,5
+INC1922,2026-07-07 14:51,Wi-Fi / network,P2 High,Phone,Agent B,5.4,6.06,8,0,0,5
+INC1923,2026-07-07 15:36,Wi-Fi / network,P4 Low,Email,Agent C,3.7,7.39,48,0,0,4
+INC1924,2026-07-07 10:57,Password reset / account lockout,P3 Medium,Portal,Agent E,3.3,0.72,24,0,0,5
+INC1925,2026-07-07 09:29,VPN / remote access,P2 High,Portal,Agent B,6.0,5.82,8,0,0,5
+INC1926,2026-07-07 17:12,Password reset / account lockout,P3 Medium,Portal,Agent B,11.3,0.84,24,0,0,3
+INC1927,2026-07-07 10:14,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent B,14.3,8.14,48,0,0,4
+INC1928,2026-07-07 14:09,Software install / licence,P4 Low,Email,Agent B,21.4,8.76,48,0,0,4
+INC1929,2026-07-07 10:35,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent E,40.8,9.06,24,0,0,4
+INC1930,2026-07-07 16:15,Wi-Fi / network,P2 High,Email,Agent E,3.4,4.25,8,0,1,3
+INC1931,2026-07-07 14:19,VPN / remote access,P3 Medium,Email,Agent B,3.3,6.3,24,0,1,3
+INC1932,2026-07-07 11:37,Password reset / account lockout,P4 Low,Portal,Agent D,13.0,1.25,48,0,0,5
+INC1933,2026-07-08 15:27,Wi-Fi / network,P3 Medium,Portal,Agent C,31.8,14.71,24,0,0,4
+INC1934,2026-07-08 10:00,Password reset / account lockout,P4 Low,Phone,Agent D,19.2,0.57,48,0,0,4
+INC1935,2026-07-08 13:38,Software install / licence,P4 Low,Email,Agent E,5.3,6.97,48,0,0,3
+INC1936,2026-07-08 14:02,Email / Outlook,P4 Low,Portal,Agent E,15.5,3.06,48,0,0,4
+INC1937,2026-07-08 09:11,Password reset / account lockout,P4 Low,Phone,Agent D,16.1,2.61,48,0,0,3
+INC1938,2026-07-08 10:28,Teams / video meetings,P3 Medium,Portal,Agent C,15.5,2.98,24,0,0,5
+INC1939,2026-07-08 14:48,Email / Outlook,P4 Low,Portal,Agent A,45.0,2.26,48,0,0,5
+INC1940,2026-07-08 14:40,Wi-Fi / network,P3 Medium,Email,Agent D,9.0,3.72,24,0,0,4
+INC1941,2026-07-08 09:01,Password reset / account lockout,P3 Medium,Walk-up,Agent E,4.2,0.48,24,0,0,5
+INC1942,2026-07-09 16:42,Wi-Fi / network,P3 Medium,Portal,Agent E,4.7,4.26,24,0,0,5
+INC1943,2026-07-09 13:05,Email / Outlook,P3 Medium,Portal,Agent B,6.3,2.86,24,0,0,4
+INC1944,2026-07-09 17:15,VPN / remote access,P3 Medium,Portal,Agent B,11.3,6.03,24,0,0,5
+INC1945,2026-07-09 13:56,New starter / leaver setup,P3 Medium,Phone,Agent C,2.6,9.74,24,0,0,4
+INC1946,2026-07-09 10:22,Password reset / account lockout,P3 Medium,Email,Agent B,10.4,1.16,24,0,0,4
+INC1947,2026-07-09 14:35,VPN / remote access,P3 Medium,Phone,Agent A,11.0,2.78,24,0,0,5
+INC1948,2026-07-09 08:28,Software install / licence,P2 High,Email,Agent B,11.4,1.59,8,0,0,5
+INC1949,2026-07-09 13:27,"Hardware fault (laptop, printer)",P4 Low,Walk-up,Agent B,13.4,15.97,48,0,0,4
+INC1950,2026-07-09 15:32,New starter / leaver setup,P2 High,Email,Agent E,5.1,10.74,8,1,0,3
+INC1951,2026-07-09 14:46,Password reset / account lockout,P4 Low,Portal,Agent B,7.2,0.81,48,0,0,4
+INC1952,2026-07-09 15:24,"Hardware fault (laptop, printer)",P2 High,Email,Agent A,5.4,5.48,8,0,1,4
+INC1953,2026-07-09 10:41,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent E,12.3,3.92,24,0,1,4
+INC1954,2026-07-09 17:00,Password reset / account lockout,P3 Medium,Phone,Agent E,11.6,1.15,24,0,0,4
+INC1955,2026-07-09 16:38,Wi-Fi / network,P2 High,Email,Agent B,5.2,4.15,8,0,0,5
+INC1956,2026-07-09 16:50,New starter / leaver setup,P4 Low,Email,Agent C,11.1,3.29,48,0,0,5
+INC1957,2026-07-10 13:21,New starter / leaver setup,P4 Low,Email,Agent D,7.4,10.81,48,0,0,3
+INC1958,2026-07-10 08:03,New starter / leaver setup,P4 Low,Portal,Agent E,12.8,5.45,48,0,0,4
+INC1959,2026-07-10 13:34,Software install / licence,P4 Low,Email,Agent C,8.7,3.88,48,0,0,5
+INC1960,2026-07-10 12:39,Wi-Fi / network,P3 Medium,Portal,Agent C,10.3,10.28,24,0,0,4
+INC1961,2026-07-10 10:37,Teams / video meetings,P3 Medium,Phone,Agent C,5.1,3.57,24,0,0,5
+INC1962,2026-07-10 15:55,Wi-Fi / network,P3 Medium,Portal,Agent E,12.6,3.33,24,0,0,4
+INC1963,2026-07-10 09:40,"Hardware fault (laptop, printer)",P2 High,Email,Agent A,2.7,1.83,8,0,1,4
+INC1964,2026-07-10 14:56,New starter / leaver setup,P3 Medium,Portal,Agent C,13.9,8.97,24,0,0,5
+INC1965,2026-07-10 10:57,Password reset / account lockout,P4 Low,Phone,Agent A,14.4,0.99,48,0,0,5
+INC1966,2026-07-10 09:57,Teams / video meetings,P2 High,Email,Agent B,4.8,3.51,8,0,0,5
+INC1967,2026-07-10 13:06,Teams / video meetings,P3 Medium,Portal,Agent B,10.0,5.19,24,0,0,4
+INC1968,2026-07-10 09:53,Wi-Fi / network,P2 High,Portal,Agent A,5.6,1.8,8,0,0,4
+INC1969,2026-07-10 08:59,Software install / licence,P4 Low,Portal,Agent C,6.7,3.97,48,0,1,3
+INC1970,2026-07-10 12:14,Password reset / account lockout,P2 High,Portal,Agent D,14.5,0.26,8,0,0,5
+INC1971,2026-07-13 10:07,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,8.2,21.25,24,0,0,5
+INC1972,2026-07-13 14:00,Wi-Fi / network,P3 Medium,Portal,Agent E,13.5,3.15,24,0,1,3
+INC1973,2026-07-13 16:41,Wi-Fi / network,P3 Medium,Email,Agent B,5.6,6.24,24,0,0,3
+INC1974,2026-07-13 12:23,Email / Outlook,P3 Medium,Portal,Agent D,14.4,2.09,24,0,0,4
+INC1975,2026-07-13 09:25,Password reset / account lockout,P3 Medium,Phone,Agent D,15.4,0.5,24,0,0,4
+INC1976,2026-07-13 10:20,"Hardware fault (laptop, printer)",P2 High,Email,Agent B,9.2,5.75,8,0,0,3
+INC1977,2026-07-13 11:41,Email / Outlook,P3 Medium,Email,Agent E,11.4,3.84,24,0,0,4
+INC1978,2026-07-13 12:10,"Hardware fault (laptop, printer)",P4 Low,Email,Agent D,21.6,13.13,48,0,0,5
+INC1979,2026-07-13 10:15,VPN / remote access,P2 High,Walk-up,Agent C,6.5,5.98,8,0,1,3
+INC1980,2026-07-13 09:04,Password reset / account lockout,P1 Critical,Portal,Agent A,11.9,0.21,4,0,0,5
+INC1981,2026-07-13 08:39,New starter / leaver setup,P3 Medium,Portal,Agent D,3.6,4.74,24,0,0,4
+INC1982,2026-07-13 16:10,Wi-Fi / network,P3 Medium,Email,Agent B,13.3,4.68,24,0,0,4
+INC1983,2026-07-13 16:58,Wi-Fi / network,P4 Low,Phone,Agent D,19.4,5.79,48,0,0,5
+INC1984,2026-07-13 10:28,Software install / licence,P2 High,Portal,Agent D,3.5,7.54,8,0,0,5
+INC1985,2026-07-13 15:42,Password reset / account lockout,P3 Medium,Phone,Agent A,8.3,0.5,24,0,0,5
+INC1986,2026-07-13 17:57,New starter / leaver setup,P3 Medium,Walk-up,Agent A,7.9,8.17,24,0,0,4
+INC1987,2026-07-13 10:02,Password reset / account lockout,P4 Low,Email,Agent E,19.5,0.58,48,0,0,4
+INC1988,2026-07-13 14:44,Wi-Fi / network,P3 Medium,Email,Agent D,11.1,3.33,24,0,0,5
+INC1989,2026-07-13 09:42,New starter / leaver setup,P4 Low,Portal,Agent A,40.6,7.09,48,0,0,4
+INC1990,2026-07-14 15:55,New starter / leaver setup,P2 High,Email,Agent D,9.3,6.86,8,0,0,4
+INC1991,2026-07-14 09:58,Teams / video meetings,P2 High,Phone,Agent A,6.3,0.95,8,0,0,5
+INC1992,2026-07-14 09:18,Teams / video meetings,P3 Medium,Portal,Agent D,4.5,1.3,24,0,0,4
+INC1993,2026-07-14 14:44,Teams / video meetings,P2 High,Portal,Agent B,7.6,0.84,8,0,0,4
+INC1994,2026-07-14 15:47,Email / Outlook,P1 Critical,Portal,Agent C,2.5,1.08,4,0,0,5
+INC1995,2026-07-14 08:48,VPN / remote access,P2 High,Portal,Agent D,11.7,1.29,8,0,0,4
+INC1996,2026-07-14 10:53,Email / Outlook,P3 Medium,Portal,Agent C,4.6,2.75,24,0,1,4
+INC1997,2026-07-14 10:29,VPN / remote access,P3 Medium,Portal,Agent D,9.4,2.37,24,0,0,4
+INC1998,2026-07-14 09:20,Wi-Fi / network,P4 Low,Phone,Agent C,11.2,8.47,48,0,1,4
+INC1999,2026-07-14 11:09,Email / Outlook,P2 High,Email,Agent B,5.7,2.66,8,0,0,5
+INC2000,2026-07-14 17:03,Email / Outlook,P2 High,Walk-up,Agent D,6.2,2.67,8,0,0,4
+INC2001,2026-07-14 12:19,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,5.9,9.27,24,0,0,5
+INC2002,2026-07-14 11:30,Password reset / account lockout,P3 Medium,Email,Agent B,9.6,2.17,24,0,0,3
+INC2003,2026-07-15 16:20,Teams / video meetings,P3 Medium,Walk-up,Agent E,5.5,4.35,24,0,0,3
+INC2004,2026-07-15 10:56,Password reset / account lockout,P4 Low,Email,Agent A,12.8,0.86,48,0,0,5
+INC2005,2026-07-15 14:23,VPN / remote access,P2 High,Phone,Agent A,5.9,1.17,8,0,0,5
+INC2006,2026-07-15 10:20,Software install / licence,P3 Medium,Portal,Agent B,15.3,3.95,24,0,0,3
+INC2007,2026-07-15 08:16,Password reset / account lockout,P3 Medium,Phone,Agent D,13.3,0.27,24,0,0,5
+INC2008,2026-07-15 14:06,New starter / leaver setup,P3 Medium,Phone,Agent E,10.9,7.12,24,0,0,4
+INC2009,2026-07-15 13:41,Email / Outlook,P2 High,Email,Agent A,6.3,2.6,8,0,0,4
+INC2010,2026-07-15 12:59,Password reset / account lockout,P2 High,Email,Agent B,5.1,0.33,8,0,0,5
+INC2011,2026-07-15 08:26,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,7.2,11.64,24,0,0,5
+INC2012,2026-07-15 12:03,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent A,10.0,4.81,24,0,0,4
+INC2013,2026-07-15 14:31,Password reset / account lockout,P4 Low,Email,Agent A,11.4,0.42,48,0,0,4
+INC2014,2026-07-15 09:13,Password reset / account lockout,P1 Critical,Email,Agent E,6.1,0.24,4,0,0,4
+INC2015,2026-07-15 10:16,Wi-Fi / network,P3 Medium,Email,Agent D,10.2,5.03,24,0,0,4
+INC2016,2026-07-15 08:51,Password reset / account lockout,P4 Low,Phone,Agent E,12.8,1.65,48,0,0,4
+INC2017,2026-07-16 13:14,Software install / licence,P4 Low,Phone,Agent E,5.1,5.13,48,0,0,4
+INC2018,2026-07-16 15:15,Password reset / account lockout,P2 High,Phone,Agent A,4.3,1.12,8,0,0,5
+INC2019,2026-07-16 09:03,Wi-Fi / network,P3 Medium,Walk-up,Agent C,18.0,2.21,24,0,0,5
+INC2020,2026-07-16 15:13,Password reset / account lockout,P3 Medium,Walk-up,Agent A,15.3,0.36,24,0,0,4
+INC2021,2026-07-16 14:17,Email / Outlook,P4 Low,Email,Agent B,8.7,2.56,48,0,0,4
+INC2022,2026-07-16 08:57,Password reset / account lockout,P2 High,Portal,Agent C,3.9,1.34,8,0,0,4
+INC2023,2026-07-16 17:12,Email / Outlook,P3 Medium,Phone,Agent A,9.8,0.59,24,0,0,5
+INC2024,2026-07-16 13:29,VPN / remote access,P3 Medium,Email,Agent C,6.0,6.13,24,0,0,5
+INC2025,2026-07-16 13:23,Wi-Fi / network,P3 Medium,Phone,Agent D,7.4,5.03,24,0,0,4
+INC2026,2026-07-16 12:43,Password reset / account lockout,P2 High,Email,Agent B,9.0,0.73,8,0,0,4
+INC2027,2026-07-16 09:52,Teams / video meetings,P4 Low,Email,Agent D,11.1,3.31,48,0,0,5
+INC2028,2026-07-16 14:50,Email / Outlook,P2 High,Portal,Agent C,7.8,2.97,8,0,0,4
+INC2029,2026-07-16 14:44,Teams / video meetings,P2 High,Email,Agent D,15.0,0.66,8,0,0,5
+INC2030,2026-07-16 12:58,Password reset / account lockout,P4 Low,Phone,Agent D,7.7,0.72,48,0,0,4
+INC2031,2026-07-16 14:04,Email / Outlook,P4 Low,Email,Agent C,8.3,5.06,48,0,0,5
+INC2032,2026-07-16 13:43,Software install / licence,P1 Critical,Email,Agent A,20.7,0.82,4,0,0,4
+INC2033,2026-07-17 16:43,Software install / licence,P1 Critical,Phone,Agent D,4.5,1.86,4,0,0,5
+INC2034,2026-07-17 15:40,New starter / leaver setup,P3 Medium,Portal,Agent B,6.6,7.21,24,0,0,3
+INC2035,2026-07-17 09:43,Password reset / account lockout,P4 Low,Portal,Agent E,8.8,1.08,48,0,0,5
+INC2036,2026-07-17 16:41,Teams / video meetings,P3 Medium,Phone,Agent E,7.7,2.29,24,0,0,4
+INC2037,2026-07-17 09:53,Password reset / account lockout,P3 Medium,Phone,Agent D,5.9,2.19,24,0,0,5
+INC2038,2026-07-17 09:28,Teams / video meetings,P4 Low,Phone,Agent B,9.0,8.39,48,0,0,5
+INC2039,2026-07-17 14:40,Software install / licence,P3 Medium,Phone,Agent D,5.4,3.13,24,0,0,5
+INC2040,2026-07-17 10:25,Software install / licence,P3 Medium,Walk-up,Agent B,12.4,1.96,24,0,0,5
+INC2041,2026-07-17 10:04,Business application error,P3 Medium,Email,Agent A,6.6,9.15,24,0,0,4
+INC2042,2026-07-20 15:07,Software install / licence,P3 Medium,Email,Agent C,14.6,5.0,24,0,0,4
+INC2043,2026-07-20 11:06,Password reset / account lockout,P3 Medium,Email,Agent A,10.7,0.35,24,0,0,2
+INC2044,2026-07-20 13:15,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,7.4,13.47,24,0,0,4
+INC2045,2026-07-20 14:23,Wi-Fi / network,P3 Medium,Portal,Agent B,10.1,2.72,24,0,0,4
+INC2046,2026-07-20 12:31,Teams / video meetings,P3 Medium,Phone,Agent A,35.0,2.07,24,0,1,3
+INC2047,2026-07-20 10:17,Wi-Fi / network,P4 Low,Walk-up,Agent C,9.4,15.73,48,0,0,5
+INC2048,2026-07-20 12:43,Software install / licence,P3 Medium,Email,Agent D,11.3,1.73,24,0,0,4
+INC2049,2026-07-20 16:55,Email / Outlook,P3 Medium,Email,Agent C,8.0,6.67,24,0,0,4
+INC2050,2026-07-20 10:27,"Hardware fault (laptop, printer)",P2 High,Email,Agent B,2.2,19.97,8,1,0,3
+INC2051,2026-07-20 12:13,Teams / video meetings,P3 Medium,Phone,Agent C,4.0,2.59,24,0,0,4
+INC2052,2026-07-20 10:36,Wi-Fi / network,P3 Medium,Phone,Agent A,10.9,3.79,24,0,1,5
+INC2053,2026-07-20 11:31,Software install / licence,P3 Medium,Email,Agent A,4.2,1.73,24,0,0,5
+INC2054,2026-07-20 11:02,New starter / leaver setup,P3 Medium,Phone,Agent C,4.8,5.05,24,0,0,5
+INC2055,2026-07-20 16:22,VPN / remote access,P2 High,Email,Agent C,13.0,5.19,8,0,0,5
+INC2056,2026-07-20 13:39,Business application error,P3 Medium,Email,Agent A,5.1,5.68,24,0,0,4
+INC2057,2026-07-20 16:17,Password reset / account lockout,P3 Medium,Email,Agent E,18.3,0.7,24,0,0,5
+INC2058,2026-07-20 15:48,Wi-Fi / network,P3 Medium,Phone,Agent D,8.5,2.35,24,0,0,5
+INC2059,2026-07-20 11:28,Software install / licence,P3 Medium,Portal,Agent E,5.6,10.23,24,0,0,4
+INC2060,2026-07-21 14:57,Email / Outlook,P3 Medium,Email,Agent A,11.7,3.18,24,0,0,5
+INC2061,2026-07-21 10:01,Software install / licence,P4 Low,Walk-up,Agent A,7.4,3.73,48,0,0,5
+INC2062,2026-07-21 13:33,Software install / licence,P4 Low,Portal,Agent D,22.5,2.67,48,0,0,5
+INC2063,2026-07-21 16:14,Wi-Fi / network,P2 High,Phone,Agent A,4.0,4.44,8,0,0,4
+INC2064,2026-07-21 09:01,Teams / video meetings,P2 High,Portal,Agent A,11.2,2.42,8,0,0,4
+INC2065,2026-07-21 09:34,New starter / leaver setup,P3 Medium,Phone,Agent B,3.7,10.05,24,0,0,4
+INC2066,2026-07-21 09:03,Wi-Fi / network,P4 Low,Phone,Agent E,7.4,16.77,48,0,0,5
+INC2067,2026-07-21 13:48,Password reset / account lockout,P4 Low,Phone,Agent C,13.5,0.88,48,0,0,5
+INC2068,2026-07-21 11:33,Wi-Fi / network,P3 Medium,Email,Agent E,8.8,7.84,24,0,0,5
+INC2069,2026-07-21 09:02,Password reset / account lockout,P3 Medium,Email,Agent C,3.8,0.56,24,0,0,5
+INC2070,2026-07-21 09:49,"Hardware fault (laptop, printer)",P2 High,Portal,Agent B,3.6,9.79,8,1,0,3
+INC2071,2026-07-21 16:29,Password reset / account lockout,P4 Low,Phone,Agent B,9.4,0.78,48,0,0,5
+INC2072,2026-07-21 11:38,Email / Outlook,P4 Low,Email,Agent A,2.8,3.3,48,0,0,5
+INC2073,2026-07-21 12:01,Wi-Fi / network,P3 Medium,Email,Agent C,3.8,5.17,24,0,1,4
+INC2074,2026-07-22 14:02,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent E,13.4,19.28,24,0,0,5
+INC2075,2026-07-22 10:09,Teams / video meetings,P2 High,Email,Agent C,2.9,1.98,8,0,0,5
+INC2076,2026-07-22 12:16,Business application error,P3 Medium,Walk-up,Agent B,9.8,15.86,24,0,0,4
+INC2077,2026-07-22 17:59,"Hardware fault (laptop, printer)",P2 High,Portal,Agent C,3.6,5.25,8,0,0,4
+INC2078,2026-07-22 13:43,Email / Outlook,P3 Medium,Portal,Agent B,16.1,4.23,24,0,0,3
+INC2079,2026-07-22 15:35,Email / Outlook,P4 Low,Portal,Agent B,4.0,3.84,48,0,0,4
+INC2080,2026-07-22 10:05,Email / Outlook,P3 Medium,Walk-up,Agent A,8.9,1.05,24,0,0,4
+INC2081,2026-07-22 10:23,Password reset / account lockout,P3 Medium,Portal,Agent D,6.0,1.11,24,0,0,4
+INC2082,2026-07-22 10:38,Email / Outlook,P3 Medium,Phone,Agent A,27.1,1.19,24,0,0,5
+INC2083,2026-07-23 08:18,Business application error,P3 Medium,Portal,Agent C,6.1,13.06,24,0,1,4
+INC2084,2026-07-23 17:05,Business application error,P3 Medium,Portal,Agent B,7.1,18.22,24,0,0,5
+INC2085,2026-07-23 09:29,Software install / licence,P3 Medium,Email,Agent E,12.2,1.42,24,0,0,5
+INC2086,2026-07-23 14:44,Wi-Fi / network,P3 Medium,Walk-up,Agent C,5.9,2.27,24,0,0,5
+INC2087,2026-07-23 10:15,Wi-Fi / network,P4 Low,Phone,Agent A,4.8,5.97,48,0,1,4
+INC2088,2026-07-23 08:49,Email / Outlook,P3 Medium,Phone,Agent D,11.4,2.22,24,0,0,5
+INC2089,2026-07-23 08:10,Wi-Fi / network,P3 Medium,Phone,Agent C,3.2,2.52,24,0,0,5
+INC2090,2026-07-23 15:28,Password reset / account lockout,P3 Medium,Walk-up,Agent D,8.3,0.37,24,0,0,4
+INC2091,2026-07-23 10:12,Teams / video meetings,P3 Medium,Portal,Agent C,9.0,5.97,24,0,0,4
+INC2092,2026-07-23 09:21,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent C,12.2,18.33,48,0,0,5
+INC2093,2026-07-23 14:35,Email / Outlook,P4 Low,Email,Agent C,18.7,3.37,48,0,0,4
+INC2094,2026-07-23 16:59,Wi-Fi / network,P4 Low,Email,Agent C,15.1,10.57,48,0,0,5
+INC2095,2026-07-23 09:52,Wi-Fi / network,P3 Medium,Email,Agent A,20.4,5.04,24,0,0,4
+INC2096,2026-07-23 12:46,Teams / video meetings,P3 Medium,Email,Agent E,11.9,3.4,24,0,0,5
+INC2097,2026-07-23 16:24,Software install / licence,P3 Medium,Email,Agent B,7.9,1.34,24,0,0,3
+INC2098,2026-07-23 09:59,Teams / video meetings,P3 Medium,Portal,Agent C,6.9,0.94,24,0,0,5
+INC2099,2026-07-24 12:35,"Hardware fault (laptop, printer)",P2 High,Phone,Agent A,5.7,2.24,8,0,0,5
+INC2100,2026-07-24 09:42,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,5.9,8.68,48,0,0,4
+INC2101,2026-07-24 14:12,Wi-Fi / network,P4 Low,Email,Agent A,13.4,4.25,48,0,0,5
+INC2102,2026-07-24 09:40,Wi-Fi / network,P3 Medium,Portal,Agent B,9.4,7.28,24,0,0,4
+INC2103,2026-07-24 16:02,Wi-Fi / network,P1 Critical,Email,Agent C,14.3,2.8,4,0,0,5
+INC2104,2026-07-24 12:35,Teams / video meetings,P3 Medium,Email,Agent A,5.7,3.58,24,0,0,5
+INC2105,2026-07-24 08:06,Password reset / account lockout,P3 Medium,Walk-up,Agent B,21.5,1.64,24,0,0,4
+INC2106,2026-07-24 08:18,Email / Outlook,P4 Low,Portal,Agent E,8.5,9.62,48,0,0,4
+INC2107,2026-07-24 10:56,Password reset / account lockout,P3 Medium,Email,Agent A,21.8,0.36,24,0,0,5
+INC2108,2026-07-24 12:36,VPN / remote access,P3 Medium,Walk-up,Agent C,19.0,2.05,24,0,0,3
+INC2109,2026-07-24 09:21,Email / Outlook,P2 High,Phone,Agent E,10.3,2.83,8,0,0,5
+INC2110,2026-07-27 14:06,"Hardware fault (laptop, printer)",P1 Critical,Phone,Agent B,6.2,8.06,4,1,0,4
+INC2111,2026-07-27 12:03,Wi-Fi / network,P3 Medium,Email,Agent E,22.8,3.99,24,0,0,4
+INC2112,2026-07-27 10:39,VPN / remote access,P2 High,Email,Agent E,5.3,3.96,8,0,0,5
+INC2113,2026-07-27 13:07,Business application error,P3 Medium,Portal,Agent B,6.2,19.95,24,0,0,5
+INC2114,2026-07-27 13:41,Password reset / account lockout,P2 High,Portal,Agent D,1.6,0.36,8,0,0,5
+INC2115,2026-07-27 11:42,Software install / licence,P3 Medium,Portal,Agent B,13.8,1.96,24,0,0,4
+INC2116,2026-07-27 11:16,Password reset / account lockout,P3 Medium,Phone,Agent A,7.1,0.83,24,0,0,4
+INC2117,2026-07-27 14:30,Teams / video meetings,P3 Medium,Email,Agent C,6.3,1.73,24,0,0,5
+INC2118,2026-07-27 09:49,Email / Outlook,P3 Medium,Phone,Agent E,10.7,3.59,24,0,0,4
+INC2119,2026-07-27 14:01,Password reset / account lockout,P4 Low,Phone,Agent C,23.6,0.77,48,0,0,3
+INC2120,2026-07-27 16:40,Software install / licence,P3 Medium,Phone,Agent A,11.3,1.51,24,0,1,4
+INC2121,2026-07-27 10:48,Wi-Fi / network,P3 Medium,Phone,Agent B,29.7,5.78,24,0,0,5
+INC2122,2026-07-27 11:39,Password reset / account lockout,P3 Medium,Phone,Agent C,10.7,0.38,24,0,0,3
+INC2123,2026-07-27 09:57,Password reset / account lockout,P3 Medium,Phone,Agent D,7.2,1.27,24,0,0,4
+INC2124,2026-07-27 16:26,Password reset / account lockout,P3 Medium,Email,Agent D,5.7,1.6,24,0,0,4
+INC2125,2026-07-27 10:30,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent A,10.0,14.95,24,0,0,3
+INC2126,2026-07-27 08:44,Email / Outlook,P3 Medium,Email,Agent B,7.5,2.83,24,0,0,4
+INC2127,2026-07-27 09:13,Password reset / account lockout,P3 Medium,Phone,Agent D,4.4,0.42,24,0,0,3
+INC2128,2026-07-27 10:43,Wi-Fi / network,P3 Medium,Portal,Agent B,7.6,3.9,24,0,0,5
+INC2129,2026-07-27 14:13,Password reset / account lockout,P3 Medium,Email,Agent B,11.9,0.38,24,0,0,4
+INC2130,2026-07-27 16:57,Business application error,P3 Medium,Email,Agent D,22.5,10.21,24,0,0,5
+INC2131,2026-07-27 10:13,New starter / leaver setup,P4 Low,Portal,Agent B,16.5,8.33,48,0,0,4
+INC2132,2026-07-27 09:44,Password reset / account lockout,P2 High,Portal,Agent E,8.2,0.6,8,0,0,4
+INC2133,2026-07-27 10:08,Email / Outlook,P2 High,Portal,Agent E,6.5,5.04,8,0,0,4
+INC2134,2026-07-28 09:11,Password reset / account lockout,P3 Medium,Portal,Agent B,13.3,0.87,24,0,0,5
+INC2135,2026-07-28 08:46,"Hardware fault (laptop, printer)",P2 High,Portal,Agent D,20.7,4.91,8,0,0,4
+INC2136,2026-07-28 14:05,Email / Outlook,P4 Low,Portal,Agent E,5.5,4.56,48,0,0,3
+INC2137,2026-07-28 08:40,Teams / video meetings,P3 Medium,Portal,Agent C,18.4,1.28,24,0,0,4
+INC2138,2026-07-28 12:09,Software install / licence,P3 Medium,Email,Agent D,5.6,3.12,24,0,1,4
+INC2139,2026-07-28 11:02,Software install / licence,P3 Medium,Phone,Agent A,7.7,1.77,24,0,0,4
+INC2140,2026-07-28 13:15,Wi-Fi / network,P4 Low,Email,Agent C,7.9,6.19,48,0,0,4
+INC2141,2026-07-28 14:35,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,12.4,4.32,24,0,0,5
+INC2142,2026-07-28 15:54,New starter / leaver setup,P2 High,Phone,Agent C,7.8,10.47,8,1,0,3
+INC2143,2026-07-28 14:16,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent B,16.8,8.71,24,0,0,4
+INC2144,2026-07-28 13:25,Email / Outlook,P2 High,Phone,Agent D,2.7,2.79,8,0,0,4
+INC2145,2026-07-28 14:26,Email / Outlook,P1 Critical,Portal,Agent B,6.2,0.8,4,0,0,4
+INC2146,2026-07-29 15:52,Wi-Fi / network,P4 Low,Email,Agent B,4.5,3.7,48,0,0,4
+INC2147,2026-07-29 14:18,Password reset / account lockout,P4 Low,Portal,Agent A,13.9,0.78,48,0,0,4
+INC2148,2026-07-29 16:01,Teams / video meetings,P4 Low,Email,Agent E,15.9,5.89,48,0,0,5
+INC2149,2026-07-29 14:43,"Hardware fault (laptop, printer)",P1 Critical,Portal,Agent A,3.1,2.38,4,0,0,5
+INC2150,2026-07-29 16:07,Wi-Fi / network,P3 Medium,Phone,Agent A,7.4,3.14,24,0,0,4
+INC2151,2026-07-29 13:14,Password reset / account lockout,P3 Medium,Phone,Agent A,14.8,0.63,24,0,0,4
+INC2152,2026-07-29 11:32,VPN / remote access,P4 Low,Portal,Agent E,6.5,23.52,48,0,0,4
+INC2153,2026-07-29 10:38,Password reset / account lockout,P4 Low,Email,Agent A,7.5,2.52,48,0,0,4
+INC2154,2026-07-29 16:04,Email / Outlook,P2 High,Phone,Agent E,3.4,4.26,8,0,0,4
+INC2155,2026-07-29 08:08,Teams / video meetings,P3 Medium,Phone,Agent B,10.0,5.77,24,0,0,4
+INC2156,2026-07-29 10:26,Password reset / account lockout,P3 Medium,Phone,Agent C,8.7,0.31,24,0,0,5
+INC2157,2026-07-30 11:50,Teams / video meetings,P3 Medium,Phone,Agent B,18.5,1.27,24,0,0,3
+INC2158,2026-07-30 14:24,Password reset / account lockout,P3 Medium,Email,Agent B,4.4,0.38,24,0,0,4
+INC2159,2026-07-30 09:36,Password reset / account lockout,P3 Medium,Email,Agent E,5.3,0.88,24,0,0,4
+INC2160,2026-07-30 10:57,Software install / licence,P4 Low,Walk-up,Agent B,16.7,3.95,48,0,0,4
+INC2161,2026-07-30 09:41,Wi-Fi / network,P4 Low,Phone,Agent C,11.2,6.06,48,0,0,3
+INC2162,2026-07-30 15:18,Software install / licence,P4 Low,Portal,Agent D,17.5,1.25,48,0,0,4
+INC2163,2026-07-30 14:36,Teams / video meetings,P4 Low,Portal,Agent E,21.8,6.98,48,0,0,5
+INC2164,2026-07-30 12:09,Software install / licence,P3 Medium,Email,Agent E,10.0,2.63,24,0,0,4
+INC2165,2026-07-30 17:12,Business application error,P4 Low,Phone,Agent B,22.4,12.77,48,0,0,5
+INC2166,2026-07-30 14:35,Wi-Fi / network,P3 Medium,Phone,Agent D,16.1,3.05,24,0,0,4
+INC2167,2026-07-30 14:38,New starter / leaver setup,P3 Medium,Portal,Agent E,3.0,32.89,24,1,0,3
+INC2168,2026-07-30 15:09,Wi-Fi / network,P4 Low,Email,Agent B,16.0,5.88,48,0,0,5
+INC2169,2026-07-30 11:04,New starter / leaver setup,P3 Medium,Email,Agent D,16.0,8.7,24,0,0,3
+INC2170,2026-07-30 15:17,"Hardware fault (laptop, printer)",P2 High,Phone,Agent B,5.4,7.79,8,0,0,4
+INC2171,2026-07-30 08:03,Password reset / account lockout,P4 Low,Email,Agent B,10.7,1.5,48,0,0,4
+INC2172,2026-07-30 15:20,Password reset / account lockout,P3 Medium,Phone,Agent E,9.0,0.38,24,0,0,5
+INC2173,2026-07-30 14:14,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent D,3.0,7.05,24,0,0,5
+INC2174,2026-07-30 15:42,Password reset / account lockout,P2 High,Phone,Agent A,7.6,0.81,8,0,0,5
+INC2175,2026-07-30 08:10,Software install / licence,P4 Low,Phone,Agent C,9.5,6.6,48,0,0,5
+INC2176,2026-07-30 16:12,Email / Outlook,P4 Low,Phone,Agent E,8.5,10.61,48,0,0,4
+INC2177,2026-07-31 10:29,Software install / licence,P3 Medium,Email,Agent A,24.2,1.5,24,0,0,3
+INC2178,2026-07-31 13:46,Business application error,P4 Low,Email,Agent B,9.0,26.03,48,0,1,3
+INC2179,2026-07-31 15:25,Wi-Fi / network,P2 High,Phone,Agent D,7.0,5.99,8,0,1,4
+INC2180,2026-07-31 15:40,Password reset / account lockout,P3 Medium,Portal,Agent E,5.2,1.06,24,0,0,5
+INC2181,2026-07-31 14:31,Teams / video meetings,P3 Medium,Email,Agent D,15.5,2.98,24,0,0,5
+INC2182,2026-07-31 12:34,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,16.2,9.06,24,0,0,3
+INC2183,2026-07-31 11:59,Business application error,P3 Medium,Portal,Agent D,23.5,18.68,24,0,0,4
+INC2184,2026-07-31 15:00,Wi-Fi / network,P1 Critical,Email,Agent A,3.9,2.04,4,0,0,5
+INC2185,2026-07-31 15:23,Password reset / account lockout,P3 Medium,Walk-up,Agent A,3.6,0.69,24,0,0,5
+INC2186,2026-07-31 11:29,Teams / video meetings,P4 Low,Email,Agent E,8.3,5.69,48,0,0,4
+INC2187,2026-07-31 09:57,New starter / leaver setup,P4 Low,Portal,Agent E,18.6,15.18,48,0,0,4
+INC2188,2026-07-31 14:16,Software install / licence,P3 Medium,Phone,Agent E,10.3,2.1,24,0,0,4
+INC2189,2026-07-31 12:29,Business application error,P4 Low,Phone,Agent D,9.0,8.79,48,0,0,5
+INC2190,2026-07-31 17:11,Password reset / account lockout,P3 Medium,Phone,Agent A,8.7,0.5,24,0,0,5
+INC2191,2026-07-31 14:09,VPN / remote access,P2 High,Email,Agent B,11.3,3.42,8,0,0,4
+INC2192,2026-07-31 08:41,Password reset / account lockout,P3 Medium,Phone,Agent A,35.6,2.47,24,0,0,4
+INC2193,2026-08-03 10:29,Software install / licence,P1 Critical,Phone,Agent C,4.5,2.61,4,0,0,4
+INC2194,2026-08-03 09:52,VPN / remote access,P3 Medium,Email,Agent B,15.4,6.8,24,0,0,5
+INC2195,2026-08-03 12:57,New starter / leaver setup,P4 Low,Email,Agent B,16.9,4.69,48,0,0,4
+INC2196,2026-08-03 09:21,Wi-Fi / network,P4 Low,Phone,Agent E,6.6,3.39,48,0,0,3
+INC2197,2026-08-03 09:55,Business application error,P3 Medium,Email,Agent D,13.6,8.37,24,0,0,5
+INC2198,2026-08-03 08:20,Teams / video meetings,P4 Low,Phone,Agent C,11.6,2.55,48,0,0,4
+INC2199,2026-08-03 12:36,Password reset / account lockout,P4 Low,Walk-up,Agent E,10.8,1.18,48,0,0,4
+INC2200,2026-08-03 15:13,Wi-Fi / network,P2 High,Phone,Agent A,1.8,2.67,8,0,0,5
+INC2201,2026-08-03 11:54,Business application error,P2 High,Portal,Agent D,19.4,17.15,8,1,0,5
+INC2202,2026-08-03 15:02,Teams / video meetings,P2 High,Email,Agent E,2.9,2.95,8,0,0,5
+INC2203,2026-08-03 09:54,Software install / licence,P3 Medium,Portal,Agent D,4.0,1.97,24,0,0,4
+INC2204,2026-08-03 10:49,Software install / licence,P3 Medium,Portal,Agent E,5.1,3.47,24,0,0,5
+INC2205,2026-08-03 10:47,New starter / leaver setup,P3 Medium,Email,Agent E,16.3,6.68,24,0,0,4
+INC2206,2026-08-03 09:05,VPN / remote access,P3 Medium,Email,Agent B,20.7,2.11,24,0,1,5
+INC2207,2026-08-03 10:41,VPN / remote access,P4 Low,Portal,Agent C,13.6,3.04,48,0,0,5
+INC2208,2026-08-03 15:33,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent D,28.8,3.71,24,0,0,5
+INC2209,2026-08-03 11:47,Password reset / account lockout,P3 Medium,Email,Agent B,2.1,1.05,24,0,0,5
+INC2210,2026-08-03 09:53,Password reset / account lockout,P3 Medium,Phone,Agent A,22.8,0.7,24,0,0,4
+INC2211,2026-08-03 12:13,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,18.8,12.21,24,0,0,5
+INC2212,2026-08-03 11:16,Teams / video meetings,P3 Medium,Email,Agent D,10.8,1.27,24,0,0,5
+INC2213,2026-08-04 15:47,Wi-Fi / network,P4 Low,Email,Agent A,5.6,4.34,48,0,1,4
+INC2214,2026-08-04 11:04,Wi-Fi / network,P3 Medium,Email,Agent B,4.5,7.26,24,0,0,4
+INC2215,2026-08-04 16:06,Teams / video meetings,P4 Low,Portal,Agent E,10.6,2.25,48,0,0,4
+INC2216,2026-08-04 10:23,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,7.1,5.32,24,0,0,4
+INC2217,2026-08-04 16:14,Password reset / account lockout,P3 Medium,Phone,Agent A,2.6,0.56,24,0,0,3
+INC2218,2026-08-04 13:46,Password reset / account lockout,P4 Low,Email,Agent E,5.4,1.12,48,0,0,4
+INC2219,2026-08-04 12:07,Password reset / account lockout,P4 Low,Portal,Agent B,17.5,1.14,48,0,0,5
+INC2220,2026-08-04 15:48,Business application error,P2 High,Email,Agent A,10.2,8.98,8,1,0,2
+INC2221,2026-08-04 16:33,Software install / licence,P4 Low,Email,Agent B,32.2,9.25,48,0,0,3
+INC2222,2026-08-04 10:34,Wi-Fi / network,P2 High,Portal,Agent A,13.4,2.3,8,0,0,4
+INC2223,2026-08-04 08:53,VPN / remote access,P4 Low,Portal,Agent E,17.7,9.74,48,0,0,4
+INC2224,2026-08-04 08:19,Password reset / account lockout,P3 Medium,Portal,Agent E,8.5,0.36,24,0,0,4
+INC2225,2026-08-04 17:09,Wi-Fi / network,P3 Medium,Portal,Agent A,18.9,2.49,24,0,0,4
+INC2226,2026-08-04 11:42,Password reset / account lockout,P2 High,Portal,Agent A,3.2,0.28,8,0,0,4
+INC2227,2026-08-04 16:47,Teams / video meetings,P1 Critical,Email,Agent D,9.5,0.82,4,0,0,5
+INC2228,2026-08-04 12:09,Teams / video meetings,P3 Medium,Phone,Agent C,11.2,1.79,24,0,0,4
+INC2229,2026-08-04 08:52,Software install / licence,P4 Low,Email,Agent C,22.7,19.45,48,0,0,4
+INC2230,2026-08-05 09:44,Software install / licence,P4 Low,Portal,Agent B,8.0,3.32,48,0,0,4
+INC2231,2026-08-05 10:59,Password reset / account lockout,P4 Low,Phone,Agent A,8.4,1.65,48,0,0,4
+INC2232,2026-08-05 13:03,Wi-Fi / network,P4 Low,Phone,Agent D,5.2,4.53,48,0,0,4
+INC2233,2026-08-05 10:16,Business application error,P2 High,Portal,Agent A,4.5,3.43,8,0,1,3
+INC2234,2026-08-05 11:31,Software install / licence,P4 Low,Email,Agent D,4.5,7.79,48,0,0,3
+INC2235,2026-08-05 17:23,Email / Outlook,P4 Low,Walk-up,Agent C,15.8,4.31,48,0,0,5
+INC2236,2026-08-05 14:51,Teams / video meetings,P2 High,Phone,Agent D,3.9,2.01,8,0,0,5
+INC2237,2026-08-05 09:33,Password reset / account lockout,P1 Critical,Phone,Agent C,5.7,0.31,4,0,0,4
+INC2238,2026-08-05 11:14,Email / Outlook,P4 Low,Portal,Agent C,7.2,3.33,48,0,0,5
+INC2239,2026-08-05 09:45,Password reset / account lockout,P1 Critical,Email,Agent C,4.6,0.35,4,0,0,4
+INC2240,2026-08-06 09:00,Email / Outlook,P4 Low,Portal,Agent B,20.3,4.51,48,0,0,4
+INC2241,2026-08-06 10:08,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent C,7.5,7.5,24,0,0,5
+INC2242,2026-08-06 14:50,Password reset / account lockout,P3 Medium,Email,Agent D,12.1,0.35,24,0,0,5
+INC2243,2026-08-06 14:54,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,2.9,8.88,24,0,0,5
+INC2244,2026-08-06 16:25,Teams / video meetings,P3 Medium,Email,Agent B,13.4,2.38,24,0,0,4
+INC2245,2026-08-06 10:26,New starter / leaver setup,P4 Low,Phone,Agent D,9.7,7.38,48,0,0,5
+INC2246,2026-08-06 09:20,Wi-Fi / network,P3 Medium,Portal,Agent E,26.3,7.43,24,0,0,4
+INC2247,2026-08-06 14:58,Email / Outlook,P4 Low,Portal,Agent B,10.9,1.73,48,0,0,4
+INC2248,2026-08-06 09:05,Wi-Fi / network,P4 Low,Portal,Agent A,1.9,7.82,48,0,0,3
+INC2249,2026-08-06 09:23,"Hardware fault (laptop, printer)",P4 Low,Email,Agent E,24.0,29.3,48,0,0,4
+INC2250,2026-08-06 09:28,Business application error,P4 Low,Email,Agent E,7.9,20.86,48,0,0,3
+INC2251,2026-08-06 10:32,Teams / video meetings,P3 Medium,Walk-up,Agent E,10.4,0.43,24,0,1,4
+INC2252,2026-08-06 12:26,Wi-Fi / network,P3 Medium,Phone,Agent B,3.5,6.73,24,0,1,4
+INC2253,2026-08-07 09:57,Software install / licence,P4 Low,Phone,Agent B,14.6,5.65,48,0,0,4
+INC2254,2026-08-07 14:03,Email / Outlook,P3 Medium,Phone,Agent A,16.7,0.72,24,0,0,3
+INC2255,2026-08-07 08:57,Software install / licence,P3 Medium,Email,Agent E,8.7,4.07,24,0,0,3
+INC2256,2026-08-07 14:41,Wi-Fi / network,P3 Medium,Phone,Agent E,8.5,2.96,24,0,0,4
+INC2257,2026-08-07 13:01,Email / Outlook,P3 Medium,Phone,Agent D,46.3,4.8,24,0,0,4
+INC2258,2026-08-07 12:36,Business application error,P4 Low,Phone,Agent D,26.6,16.17,48,0,1,4
+INC2259,2026-08-07 10:30,Password reset / account lockout,P4 Low,Email,Agent E,11.4,1.36,48,0,0,5
+INC2260,2026-08-07 13:48,Business application error,P3 Medium,Portal,Agent E,15.1,14.64,24,0,0,5
+INC2261,2026-08-07 10:30,"Hardware fault (laptop, printer)",P4 Low,Email,Agent B,10.6,7.19,48,0,0,4
+INC2262,2026-08-07 09:58,Business application error,P4 Low,Email,Agent C,6.4,14.74,48,0,1,4
+INC2263,2026-08-07 13:25,VPN / remote access,P3 Medium,Portal,Agent A,5.8,3.99,24,0,0,4
+INC2264,2026-08-10 16:46,Password reset / account lockout,P3 Medium,Portal,Agent B,25.2,0.38,24,0,0,3
+INC2265,2026-08-10 12:39,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent E,4.1,7.73,24,0,0,3
+INC2266,2026-08-10 10:57,VPN / remote access,P3 Medium,Email,Agent C,11.3,2.56,24,0,0,5
+INC2267,2026-08-10 10:59,Wi-Fi / network,P3 Medium,Email,Agent A,13.5,3.26,24,0,0,2
+INC2268,2026-08-10 14:35,Teams / video meetings,P3 Medium,Email,Agent D,6.4,0.77,24,0,0,5
+INC2269,2026-08-10 13:36,Email / Outlook,P2 High,Email,Agent E,7.3,3.96,8,0,0,4
+INC2270,2026-08-10 10:27,Email / Outlook,P1 Critical,Portal,Agent C,5.9,0.38,4,0,0,5
+INC2271,2026-08-10 16:49,Email / Outlook,P3 Medium,Portal,Agent E,5.7,5.33,24,0,0,5
+INC2272,2026-08-10 08:25,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent A,6.3,4.18,24,0,0,4
+INC2273,2026-08-10 17:30,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,6.1,10.49,24,0,0,4
+INC2274,2026-08-10 09:23,New starter / leaver setup,P4 Low,Portal,Agent C,8.8,11.27,48,0,0,5
+INC2275,2026-08-10 11:33,Business application error,P3 Medium,Email,Agent E,22.6,5.83,24,0,0,4
+INC2276,2026-08-10 08:51,Email / Outlook,P2 High,Portal,Agent C,5.5,6.91,8,0,0,5
+INC2277,2026-08-11 10:47,Teams / video meetings,P3 Medium,Phone,Agent C,22.3,4.37,24,0,0,4
+INC2278,2026-08-11 09:16,New starter / leaver setup,P2 High,Phone,Agent E,4.7,9.53,8,1,0,5
+INC2279,2026-08-11 17:17,Password reset / account lockout,P3 Medium,Email,Agent C,8.8,0.81,24,0,0,5
+INC2280,2026-08-11 09:12,Password reset / account lockout,P4 Low,Email,Agent E,19.6,1.81,48,0,0,4
+INC2281,2026-08-11 11:49,Wi-Fi / network,P3 Medium,Portal,Agent B,23.3,3.96,24,0,0,5
+INC2282,2026-08-11 11:45,Password reset / account lockout,P3 Medium,Portal,Agent A,6.2,0.6,24,0,0,5
+INC2283,2026-08-11 13:50,Business application error,P3 Medium,Email,Agent B,8.1,8.13,24,0,0,4
+INC2284,2026-08-11 09:04,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,7.4,8.93,24,0,0,3
+INC2285,2026-08-11 10:16,Wi-Fi / network,P4 Low,Phone,Agent E,9.3,25.21,48,0,0,4
+INC2286,2026-08-11 13:41,Teams / video meetings,P4 Low,Portal,Agent B,25.8,3.74,48,0,0,4
+INC2287,2026-08-11 10:34,Teams / video meetings,P4 Low,Email,Agent D,9.3,5.66,48,0,0,5
+INC2288,2026-08-11 14:16,Wi-Fi / network,P1 Critical,Phone,Agent E,7.8,7.11,4,1,1,4
+INC2289,2026-08-11 09:35,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,6.7,2.44,24,0,0,4
+INC2290,2026-08-11 16:10,New starter / leaver setup,P3 Medium,Walk-up,Agent E,7.1,11.77,24,0,0,4
+INC2291,2026-08-12 09:00,Password reset / account lockout,P3 Medium,Email,Agent D,21.2,0.51,24,0,0,5
+INC2292,2026-08-12 14:45,Wi-Fi / network,P1 Critical,Phone,Agent C,4.4,1.37,4,0,0,5
+INC2293,2026-08-12 14:50,Wi-Fi / network,P3 Medium,Portal,Agent E,2.3,5.9,24,0,0,4
+INC2294,2026-08-12 15:50,Password reset / account lockout,P1 Critical,Portal,Agent A,9.4,0.22,4,0,0,4
+INC2295,2026-08-12 15:21,Password reset / account lockout,P3 Medium,Email,Agent D,18.4,0.53,24,0,0,4
+INC2296,2026-08-12 09:53,New starter / leaver setup,P4 Low,Walk-up,Agent A,3.4,15.38,48,0,0,3
+INC2297,2026-08-12 11:33,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,7.8,6.91,24,0,0,4
+INC2298,2026-08-12 13:39,Wi-Fi / network,P3 Medium,Email,Agent A,11.3,3.6,24,0,0,5
+INC2299,2026-08-12 14:41,Wi-Fi / network,P3 Medium,Email,Agent C,4.0,7.26,24,0,0,5
+INC2300,2026-08-12 16:01,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,26.4,10.03,24,0,0,5
+INC2301,2026-08-12 08:05,Software install / licence,P1 Critical,Walk-up,Agent E,2.6,1.62,4,0,0,4
+INC2302,2026-08-12 10:07,Wi-Fi / network,P3 Medium,Portal,Agent B,12.3,3.93,24,0,0,5
+INC2303,2026-08-12 14:25,New starter / leaver setup,P3 Medium,Phone,Agent B,10.1,7.23,24,0,0,5
+INC2304,2026-08-12 14:58,VPN / remote access,P4 Low,Email,Agent B,13.4,2.43,48,0,0,5
+INC2305,2026-08-13 12:00,VPN / remote access,P2 High,Portal,Agent C,20.7,3.84,8,0,1,3
+INC2306,2026-08-13 14:21,Wi-Fi / network,P4 Low,Email,Agent B,10.4,9.82,48,0,0,4
+INC2307,2026-08-13 16:56,Teams / video meetings,P1 Critical,Phone,Agent E,6.1,6.42,4,1,0,3
+INC2308,2026-08-13 17:04,Wi-Fi / network,P4 Low,Walk-up,Agent C,5.4,12.09,48,0,0,4
+INC2309,2026-08-13 17:42,Password reset / account lockout,P2 High,Phone,Agent A,2.1,0.69,8,0,0,5
+INC2310,2026-08-13 11:20,"Hardware fault (laptop, printer)",P1 Critical,Email,Agent A,3.1,7.84,4,1,0,4
+INC2311,2026-08-13 09:41,Password reset / account lockout,P3 Medium,Email,Agent E,17.5,0.8,24,0,0,4
+INC2312,2026-08-13 09:53,Teams / video meetings,P4 Low,Portal,Agent E,10.5,2.66,48,0,0,5
+INC2313,2026-08-13 15:02,Email / Outlook,P2 High,Email,Agent E,7.3,4.05,8,0,0,5
+INC2314,2026-08-13 15:23,Wi-Fi / network,P3 Medium,Portal,Agent B,7.7,3.69,24,0,0,5
+INC2315,2026-08-13 13:14,Business application error,P4 Low,Portal,Agent E,20.2,20.14,48,0,0,5
+INC2316,2026-08-13 13:54,Email / Outlook,P4 Low,Email,Agent C,9.2,3.32,48,0,1,3
+INC2317,2026-08-13 10:39,Email / Outlook,P2 High,Walk-up,Agent B,13.6,1.78,8,0,0,4
+INC2318,2026-08-14 09:31,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent E,9.2,6.12,24,0,0,4
+INC2319,2026-08-14 09:51,Email / Outlook,P4 Low,Portal,Agent A,12.6,4.21,48,0,0,4
+INC2320,2026-08-14 16:20,VPN / remote access,P4 Low,Portal,Agent A,24.3,14.49,48,0,1,4
+INC2321,2026-08-14 15:59,Password reset / account lockout,P4 Low,Walk-up,Agent E,11.3,0.65,48,0,0,5
+INC2322,2026-08-14 16:31,Password reset / account lockout,P3 Medium,Phone,Agent B,11.5,0.56,24,0,1,4
+INC2323,2026-08-14 08:00,Business application error,P3 Medium,Portal,Agent B,10.2,18.67,24,0,0,5
+INC2324,2026-08-14 08:34,Email / Outlook,P3 Medium,Phone,Agent B,29.9,5.02,24,0,0,4
+INC2325,2026-08-14 10:23,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent D,8.3,9.34,24,0,0,5
+INC2326,2026-08-14 15:03,Password reset / account lockout,P3 Medium,Email,Agent C,4.7,0.41,24,0,0,5
+INC2327,2026-08-14 13:18,Email / Outlook,P3 Medium,Walk-up,Agent B,8.4,1.19,24,0,0,4
+INC2328,2026-08-14 10:00,Password reset / account lockout,P3 Medium,Portal,Agent A,8.0,0.33,24,0,0,4
+INC2329,2026-08-14 10:37,Password reset / account lockout,P2 High,Walk-up,Agent B,4.9,0.43,8,0,1,5
+INC2330,2026-08-14 15:36,Password reset / account lockout,P4 Low,Email,Agent A,23.8,1.4,48,0,0,5
+INC2331,2026-08-14 09:25,Wi-Fi / network,P4 Low,Email,Agent A,8.3,2.87,48,0,0,5
+INC2332,2026-08-14 12:34,Wi-Fi / network,P4 Low,Portal,Agent A,15.0,1.67,48,0,0,5
+INC2333,2026-08-14 11:51,VPN / remote access,P4 Low,Portal,Agent B,6.5,5.26,48,0,0,5
+INC2334,2026-08-14 16:44,Software install / licence,P1 Critical,Email,Agent A,7.7,0.45,4,0,0,4
+INC2335,2026-08-17 08:58,New starter / leaver setup,P4 Low,Email,Agent D,11.2,17.83,48,0,0,4
+INC2336,2026-08-17 11:35,Software install / licence,P4 Low,Portal,Agent E,9.0,12.84,48,0,0,4
+INC2337,2026-08-17 12:02,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent B,42.3,11.75,48,0,1,5
+INC2338,2026-08-17 09:58,Software install / licence,P4 Low,Portal,Agent C,30.0,1.37,48,0,0,4
+INC2339,2026-08-17 09:46,Teams / video meetings,P2 High,Phone,Agent E,3.3,1.7,8,0,0,4
+INC2340,2026-08-17 16:55,Software install / licence,P2 High,Email,Agent C,11.3,4.25,8,0,0,3
+INC2341,2026-08-17 14:08,Password reset / account lockout,P3 Medium,Phone,Agent B,15.6,0.44,24,0,0,5
+INC2342,2026-08-17 10:45,Password reset / account lockout,P4 Low,Portal,Agent E,5.3,0.67,48,0,0,5
+INC2343,2026-08-17 14:52,Password reset / account lockout,P4 Low,Email,Agent D,10.4,0.86,48,0,0,5
+INC2344,2026-08-17 13:26,"Hardware fault (laptop, printer)",P4 Low,Walk-up,Agent A,22.2,10.39,48,0,0,4
+INC2345,2026-08-17 14:33,Password reset / account lockout,P4 Low,Phone,Agent B,8.7,3.35,48,0,0,5
+INC2346,2026-08-17 09:31,Password reset / account lockout,P2 High,Email,Agent C,13.3,1.41,8,0,0,4
+INC2347,2026-08-17 16:02,Wi-Fi / network,P4 Low,Walk-up,Agent A,8.6,7.63,48,0,0,5
+INC2348,2026-08-18 10:02,Wi-Fi / network,P3 Medium,Walk-up,Agent C,6.1,4.97,24,0,1,3
+INC2349,2026-08-18 11:08,VPN / remote access,P3 Medium,Email,Agent A,10.8,1.01,24,0,0,4
+INC2350,2026-08-18 09:32,VPN / remote access,P3 Medium,Walk-up,Agent E,3.3,5.81,24,0,0,4
+INC2351,2026-08-18 16:45,Password reset / account lockout,P3 Medium,Portal,Agent C,6.6,0.36,24,0,0,4
+INC2352,2026-08-18 16:42,Password reset / account lockout,P3 Medium,Phone,Agent C,10.0,0.45,24,0,0,4
+INC2353,2026-08-18 15:24,New starter / leaver setup,P3 Medium,Phone,Agent C,21.8,10.52,24,0,0,5
+INC2354,2026-08-18 14:57,New starter / leaver setup,P3 Medium,Phone,Agent B,6.5,5.23,24,0,0,3
+INC2355,2026-08-19 11:57,Email / Outlook,P2 High,Email,Agent C,14.9,1.37,8,0,0,3
+INC2356,2026-08-19 09:25,Software install / licence,P3 Medium,Walk-up,Agent E,9.4,3.19,24,0,0,4
+INC2357,2026-08-19 08:55,Business application error,P2 High,Email,Agent E,6.7,2.46,8,0,0,5
+INC2358,2026-08-19 10:20,VPN / remote access,P3 Medium,Portal,Agent D,14.3,3.6,24,0,0,4
+INC2359,2026-08-19 14:01,Password reset / account lockout,P3 Medium,Portal,Agent D,10.5,0.32,24,0,0,4
+INC2360,2026-08-19 10:42,Email / Outlook,P4 Low,Email,Agent E,27.5,7.31,48,0,0,5
+INC2361,2026-08-19 08:31,Password reset / account lockout,P4 Low,Portal,Agent A,5.3,1.11,48,0,0,5
+INC2362,2026-08-19 09:27,Wi-Fi / network,P3 Medium,Phone,Agent D,8.4,11.21,24,0,0,4
+INC2363,2026-08-19 12:01,New starter / leaver setup,P3 Medium,Email,Agent A,12.8,4.86,24,0,0,3
+INC2364,2026-08-19 09:27,Password reset / account lockout,P3 Medium,Walk-up,Agent A,5.8,0.71,24,0,0,5
+INC2365,2026-08-19 12:10,New starter / leaver setup,P2 High,Phone,Agent E,6.2,4.55,8,0,0,5
+INC2366,2026-08-19 13:40,VPN / remote access,P4 Low,Email,Agent C,32.7,12.15,48,0,0,5
+INC2367,2026-08-19 10:10,Password reset / account lockout,P3 Medium,Portal,Agent B,10.6,0.76,24,0,1,3
+INC2368,2026-08-19 14:57,Teams / video meetings,P3 Medium,Email,Agent B,13.0,1.28,24,0,0,5
+INC2369,2026-08-19 09:03,Software install / licence,P3 Medium,Email,Agent D,4.5,4.59,24,0,0,5
+INC2370,2026-08-19 09:31,Password reset / account lockout,P3 Medium,Email,Agent E,7.0,1.18,24,0,0,4
+INC2371,2026-08-20 11:45,Teams / video meetings,P3 Medium,Phone,Agent D,13.5,1.84,24,0,0,3
+INC2372,2026-08-20 17:13,Business application error,P4 Low,Phone,Agent B,17.5,35.8,48,0,0,5
+INC2373,2026-08-20 17:54,Teams / video meetings,P2 High,Portal,Agent B,14.2,1.73,8,0,0,4
+INC2374,2026-08-20 09:41,Password reset / account lockout,P3 Medium,Portal,Agent D,15.1,0.9,24,0,0,3
+INC2375,2026-08-20 10:52,Email / Outlook,P3 Medium,Email,Agent E,6.2,3.87,24,0,0,5
+INC2376,2026-08-20 08:50,Email / Outlook,P3 Medium,Email,Agent D,7.7,3.02,24,0,0,4
+INC2377,2026-08-20 08:11,New starter / leaver setup,P3 Medium,Email,Agent D,5.8,7.27,24,0,0,5
+INC2378,2026-08-20 13:24,Software install / licence,P3 Medium,Email,Agent E,12.0,3.69,24,0,0,4
+INC2379,2026-08-20 14:09,Email / Outlook,P4 Low,Email,Agent D,9.1,10.42,48,0,0,4
+INC2380,2026-08-20 08:33,Wi-Fi / network,P2 High,Email,Agent D,5.4,1.08,8,0,0,4
+INC2381,2026-08-21 13:33,Software install / licence,P3 Medium,Email,Agent C,4.4,1.67,24,0,0,5
+INC2382,2026-08-21 09:38,Password reset / account lockout,P4 Low,Email,Agent B,17.3,0.39,48,0,0,4
+INC2383,2026-08-21 10:09,Password reset / account lockout,P2 High,Phone,Agent A,6.7,0.84,8,0,0,3
+INC2384,2026-08-21 08:26,Business application error,P3 Medium,Email,Agent E,7.9,16.48,24,0,0,5
+INC2385,2026-08-21 16:56,New starter / leaver setup,P3 Medium,Phone,Agent C,7.8,4.69,24,0,0,4
+INC2386,2026-08-21 10:27,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,7.1,24.98,48,0,0,4
+INC2387,2026-08-21 10:03,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent B,10.5,6.96,24,0,0,4
+INC2388,2026-08-21 08:20,"Hardware fault (laptop, printer)",P4 Low,Email,Agent E,5.2,18.81,48,0,0,5
+INC2389,2026-08-21 17:48,Email / Outlook,P4 Low,Walk-up,Agent B,12.1,3.13,48,0,0,3
+INC2390,2026-08-21 10:45,New starter / leaver setup,P3 Medium,Email,Agent C,10.8,10.7,24,0,0,4
+INC2391,2026-08-21 12:09,Email / Outlook,P3 Medium,Email,Agent B,14.5,3.02,24,0,0,3
+INC2392,2026-08-21 10:15,Password reset / account lockout,P4 Low,Walk-up,Agent E,16.7,1.14,48,0,0,4
+INC2393,2026-08-21 15:22,Password reset / account lockout,P3 Medium,Portal,Agent C,6.2,0.31,24,0,0,4
+INC2394,2026-08-24 14:14,Software install / licence,P4 Low,Phone,Agent C,6.0,4.07,48,0,0,4
+INC2395,2026-08-24 14:30,Business application error,P3 Medium,Email,Agent A,18.5,23.6,24,0,0,5
+INC2396,2026-08-24 10:16,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,3.1,3.84,24,0,0,5
+INC2397,2026-08-24 09:42,Teams / video meetings,P1 Critical,Phone,Agent C,4.5,1.05,4,0,1,5
+INC2398,2026-08-24 10:28,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent D,5.2,13.54,24,0,0,5
+INC2399,2026-08-24 13:03,Password reset / account lockout,P4 Low,Phone,Agent D,9.6,0.84,48,0,0,4
+INC2400,2026-08-24 09:20,Password reset / account lockout,P3 Medium,Portal,Agent C,6.9,1.41,24,0,0,4
+INC2401,2026-08-24 14:48,Password reset / account lockout,P3 Medium,Email,Agent B,6.5,0.7,24,0,0,3
+INC2402,2026-08-24 17:13,Password reset / account lockout,P1 Critical,Phone,Agent B,8.1,0.19,4,0,0,4
+INC2403,2026-08-24 15:09,Teams / video meetings,P3 Medium,Email,Agent C,3.9,0.86,24,0,0,4
+INC2404,2026-08-24 08:57,Password reset / account lockout,P3 Medium,Email,Agent C,5.1,0.95,24,0,0,4
+INC2405,2026-08-24 12:29,Password reset / account lockout,P4 Low,Email,Agent A,19.4,0.66,48,0,0,4
+INC2406,2026-08-24 14:34,Wi-Fi / network,P4 Low,Phone,Agent D,7.8,9.39,48,0,1,4
+INC2407,2026-08-24 15:59,Email / Outlook,P3 Medium,Email,Agent B,3.3,3.87,24,0,0,3
+INC2408,2026-08-24 10:55,New starter / leaver setup,P2 High,Email,Agent A,8.2,10.15,8,1,0,3
+INC2409,2026-08-24 12:47,Password reset / account lockout,P3 Medium,Phone,Agent B,5.8,0.49,24,0,0,5
+INC2410,2026-08-24 09:03,Password reset / account lockout,P3 Medium,Email,Agent B,13.0,0.78,24,0,0,5
+INC2411,2026-08-25 15:55,VPN / remote access,P3 Medium,Phone,Agent B,12.6,4.04,24,0,0,4
+INC2412,2026-08-25 14:57,Teams / video meetings,P3 Medium,Phone,Agent B,10.7,2.73,24,0,1,5
+INC2413,2026-08-25 15:09,Password reset / account lockout,P3 Medium,Email,Agent C,18.8,0.84,24,0,0,5
+INC2414,2026-08-25 08:34,VPN / remote access,P3 Medium,Phone,Agent C,3.7,2.18,24,0,0,4
+INC2415,2026-08-25 12:37,New starter / leaver setup,P1 Critical,Email,Agent B,13.4,1.43,4,0,0,5
+INC2416,2026-08-25 10:50,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,11.6,6.14,24,0,0,5
+INC2417,2026-08-25 09:58,Software install / licence,P3 Medium,Phone,Agent C,4.9,3.52,24,0,0,5
+INC2418,2026-08-25 08:23,Software install / licence,P4 Low,Phone,Agent C,9.1,3.1,48,0,0,5
+INC2419,2026-08-25 10:42,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent D,12.0,17.72,24,0,0,4
+INC2420,2026-08-25 09:27,Wi-Fi / network,P3 Medium,Phone,Agent E,13.4,4.14,24,0,0,5
+INC2421,2026-08-25 15:02,Email / Outlook,P3 Medium,Portal,Agent B,11.4,1.74,24,0,0,4
+INC2422,2026-08-25 11:26,Software install / licence,P4 Low,Phone,Agent A,10.4,1.67,48,0,0,5
+INC2423,2026-08-26 14:53,VPN / remote access,P1 Critical,Portal,Agent B,13.3,2.0,4,0,0,5
+INC2424,2026-08-26 10:20,Software install / licence,P4 Low,Walk-up,Agent D,5.0,12.96,48,0,0,4
+INC2425,2026-08-26 13:45,New starter / leaver setup,P4 Low,Phone,Agent B,5.3,6.24,48,0,0,5
+INC2426,2026-08-26 12:50,Business application error,P3 Medium,Email,Agent E,7.3,31.1,24,1,0,2
+INC2427,2026-08-26 10:44,Software install / licence,P3 Medium,Email,Agent B,9.2,1.33,24,0,0,3
+INC2428,2026-08-26 09:00,Password reset / account lockout,P3 Medium,Phone,Agent B,4.3,0.63,24,0,1,3
+INC2429,2026-08-27 09:15,VPN / remote access,P4 Low,Email,Agent A,5.5,11.93,48,0,0,5
+INC2430,2026-08-27 14:03,Password reset / account lockout,P3 Medium,Portal,Agent B,4.7,2.09,24,0,0,5
+INC2431,2026-08-27 16:32,Software install / licence,P3 Medium,Portal,Agent B,8.2,1.78,24,0,0,3
+INC2432,2026-08-27 15:25,Password reset / account lockout,P3 Medium,Phone,Agent E,4.9,0.33,24,0,0,4
+INC2433,2026-08-27 16:45,Software install / licence,P2 High,Email,Agent E,12.8,4.97,8,0,0,5
+INC2434,2026-08-27 10:48,Teams / video meetings,P4 Low,Email,Agent D,37.2,3.02,48,0,0,4
+INC2435,2026-08-27 13:59,Software install / licence,P2 High,Portal,Agent C,2.3,2.55,8,0,0,5
+INC2436,2026-08-27 14:22,Business application error,P3 Medium,Portal,Agent B,12.2,10.57,24,0,0,5
+INC2437,2026-08-27 17:52,Teams / video meetings,P4 Low,Email,Agent D,11.9,3.48,48,0,0,5
+INC2438,2026-08-27 10:32,Software install / licence,P4 Low,Phone,Agent C,8.3,3.69,48,0,0,5
+INC2439,2026-08-27 14:56,Password reset / account lockout,P4 Low,Phone,Agent C,12.3,1.21,48,0,0,4
+INC2440,2026-08-28 13:25,Wi-Fi / network,P3 Medium,Email,Agent E,9.9,4.4,24,0,0,5
+INC2441,2026-08-28 10:32,Password reset / account lockout,P3 Medium,Email,Agent C,6.7,0.33,24,0,0,4
+INC2442,2026-08-28 10:25,Teams / video meetings,P3 Medium,Email,Agent D,5.0,1.19,24,0,1,3
+INC2443,2026-08-28 12:25,VPN / remote access,P3 Medium,Phone,Agent A,9.3,2.06,24,0,0,4
+INC2444,2026-08-28 13:03,Password reset / account lockout,P3 Medium,Phone,Agent C,5.2,0.57,24,0,0,3
+INC2445,2026-08-28 15:21,Wi-Fi / network,P3 Medium,Email,Agent B,5.2,6.13,24,0,1,3
+INC2446,2026-08-28 16:28,Teams / video meetings,P4 Low,Phone,Agent B,7.0,1.66,48,0,0,5
+INC2447,2026-08-28 10:13,Password reset / account lockout,P4 Low,Email,Agent C,14.7,0.63,48,0,0,4
+INC2448,2026-08-28 14:57,Business application error,P3 Medium,Email,Agent E,10.4,38.43,24,1,0,4
+INC2449,2026-08-28 13:13,Wi-Fi / network,P4 Low,Phone,Agent B,18.5,4.71,48,0,0,4
+INC2450,2026-08-28 16:25,Wi-Fi / network,P3 Medium,Walk-up,Agent E,20.7,9.42,24,0,0,5
+INC2451,2026-08-28 10:38,Wi-Fi / network,P3 Medium,Email,Agent D,15.1,5.18,24,0,1,4
+INC2452,2026-08-28 10:59,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent A,18.0,4.89,24,0,0,5
+INC2453,2026-08-28 09:27,Email / Outlook,P2 High,Portal,Agent B,5.9,2.62,8,0,0,4
+INC2454,2026-08-28 10:22,Password reset / account lockout,P2 High,Portal,Agent E,4.1,0.56,8,0,0,4
+INC2455,2026-08-28 09:49,Email / Outlook,P3 Medium,Portal,Agent E,14.9,2.52,24,0,0,4
+INC2456,2026-08-28 13:19,Password reset / account lockout,P4 Low,Phone,Agent C,12.4,1.06,48,0,0,5
+INC2457,2026-08-31 13:23,Email / Outlook,P2 High,Email,Agent C,5.0,2.07,8,0,0,4
+INC2458,2026-08-31 14:54,Teams / video meetings,P2 High,Portal,Agent D,5.7,0.81,8,0,0,5
+INC2459,2026-08-31 13:02,Email / Outlook,P3 Medium,Email,Agent B,5.2,1.36,24,0,1,4
+INC2460,2026-08-31 12:38,Business application error,P3 Medium,Phone,Agent D,20.6,10.0,24,0,0,5
+INC2461,2026-08-31 09:34,Wi-Fi / network,P1 Critical,Portal,Agent D,4.8,0.74,4,0,0,3
+INC2462,2026-08-31 09:20,Teams / video meetings,P3 Medium,Portal,Agent E,17.8,1.05,24,0,0,5
+INC2463,2026-08-31 09:17,VPN / remote access,P3 Medium,Portal,Agent D,2.2,3.84,24,0,1,3
+INC2464,2026-08-31 11:50,Wi-Fi / network,P4 Low,Email,Agent E,8.1,9.77,48,0,1,3
+INC2465,2026-08-31 16:53,New starter / leaver setup,P4 Low,Phone,Agent A,12.7,8.7,48,0,0,4
+INC2466,2026-08-31 16:49,Software install / licence,P3 Medium,Walk-up,Agent E,8.6,6.23,24,0,0,5
+INC2467,2026-08-31 15:56,Software install / licence,P3 Medium,Email,Agent E,3.7,1.8,24,0,0,5
+INC2468,2026-08-31 11:34,Software install / licence,P4 Low,Portal,Agent A,11.2,6.28,48,0,0,5
+INC2469,2026-08-31 11:05,Wi-Fi / network,P4 Low,Portal,Agent E,5.5,30.34,48,0,0,4
+INC2470,2026-08-31 12:05,Password reset / account lockout,P3 Medium,Phone,Agent E,15.0,0.76,24,0,0,4
+INC2471,2026-09-01 12:34,Password reset / account lockout,P4 Low,Email,Agent A,16.2,1.84,48,0,0,5
+INC2472,2026-09-01 11:36,Password reset / account lockout,P3 Medium,Email,Agent D,2.6,1.5,24,0,0,5
+INC2473,2026-09-01 12:48,Password reset / account lockout,P4 Low,Walk-up,Agent A,3.8,1.76,48,0,1,3
+INC2474,2026-09-01 14:07,Software install / licence,P4 Low,Phone,Agent B,5.7,12.11,48,0,0,5
+INC2475,2026-09-01 08:03,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent A,5.0,22.27,24,0,0,5
+INC2476,2026-09-01 10:45,Wi-Fi / network,P3 Medium,Walk-up,Agent E,3.0,4.97,24,0,1,3
+INC2477,2026-09-01 13:36,Email / Outlook,P3 Medium,Portal,Agent A,64.5,3.56,24,0,0,4
+INC2478,2026-09-01 15:27,Password reset / account lockout,P3 Medium,Phone,Agent B,8.3,0.33,24,0,0,4
+INC2479,2026-09-01 15:07,Password reset / account lockout,P3 Medium,Email,Agent E,9.7,0.76,24,0,0,4
+INC2480,2026-09-01 12:26,Business application error,P3 Medium,Email,Agent C,10.3,19.15,24,0,0,5
+INC2481,2026-09-01 11:02,New starter / leaver setup,P3 Medium,Portal,Agent C,12.2,7.74,24,0,0,5
+INC2482,2026-09-01 11:16,Password reset / account lockout,P3 Medium,Phone,Agent B,8.6,0.85,24,0,0,4
+INC2483,2026-09-01 13:43,Email / Outlook,P2 High,Portal,Agent B,16.8,3.81,8,0,0,4
+INC2484,2026-09-01 08:31,Wi-Fi / network,P3 Medium,Portal,Agent E,10.2,7.37,24,0,0,4
+INC2485,2026-09-01 10:20,Teams / video meetings,P3 Medium,Portal,Agent B,4.8,2.79,24,0,0,4
+INC2486,2026-09-01 16:01,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,10.1,7.93,24,0,1,3
+INC2487,2026-09-02 11:47,Email / Outlook,P3 Medium,Portal,Agent B,7.4,1.72,24,0,0,4
+INC2488,2026-09-02 13:07,New starter / leaver setup,P3 Medium,Email,Agent D,7.5,3.8,24,0,1,3
+INC2489,2026-09-02 10:41,VPN / remote access,P4 Low,Phone,Agent A,7.6,6.96,48,0,1,4
+INC2490,2026-09-02 08:44,Software install / licence,P3 Medium,Portal,Agent A,5.4,2.74,24,0,0,4
+INC2491,2026-09-02 13:03,"Hardware fault (laptop, printer)",P4 Low,Email,Agent B,17.0,8.05,48,0,0,4
+INC2492,2026-09-02 16:26,Password reset / account lockout,P2 High,Phone,Agent D,7.4,1.59,8,0,0,5
+INC2493,2026-09-02 12:39,Password reset / account lockout,P2 High,Email,Agent D,6.5,0.31,8,0,0,5
+INC2494,2026-09-02 15:02,Software install / licence,P4 Low,Phone,Agent D,7.8,5.71,48,0,0,5
+INC2495,2026-09-02 08:21,Wi-Fi / network,P3 Medium,Phone,Agent A,29.2,3.38,24,0,1,4
+INC2496,2026-09-02 11:12,Teams / video meetings,P1 Critical,Email,Agent B,12.6,0.62,4,0,0,4
+INC2497,2026-09-02 11:04,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent A,37.1,9.99,24,0,0,4
+INC2498,2026-09-02 12:36,Password reset / account lockout,P4 Low,Walk-up,Agent D,7.1,1.63,48,0,0,5
+INC2499,2026-09-02 09:14,Teams / video meetings,P3 Medium,Portal,Agent B,8.1,1.41,24,0,0,4
+INC2500,2026-09-02 14:59,"Hardware fault (laptop, printer)",P1 Critical,Phone,Agent D,2.5,6.49,4,1,0,3
+INC2501,2026-09-02 09:41,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent B,8.2,7.76,24,0,0,5
+INC2502,2026-09-02 09:22,VPN / remote access,P3 Medium,Email,Agent A,2.9,2.62,24,0,0,5
+INC2503,2026-09-03 15:10,Teams / video meetings,P3 Medium,Email,Agent C,17.0,6.67,24,0,0,4
+INC2504,2026-09-03 15:58,Business application error,P3 Medium,Phone,Agent D,7.7,8.42,24,0,0,5
+INC2505,2026-09-03 12:05,Business application error,P2 High,Phone,Agent C,3.3,14.28,8,1,1,4
+INC2506,2026-09-03 13:46,Teams / video meetings,P4 Low,Portal,Agent B,7.3,6.51,48,0,0,3
+INC2507,2026-09-03 12:07,Email / Outlook,P4 Low,Email,Agent C,15.5,4.08,48,0,0,5
+INC2508,2026-09-03 09:46,Software install / licence,P4 Low,Phone,Agent A,10.8,3.35,48,0,0,4
+INC2509,2026-09-03 11:37,Password reset / account lockout,P1 Critical,Email,Agent E,3.4,0.67,4,0,0,2
+INC2510,2026-09-03 08:37,Business application error,P4 Low,Email,Agent B,9.2,22.73,48,0,0,4
+INC2511,2026-09-03 15:46,Wi-Fi / network,P4 Low,Phone,Agent A,23.0,6.31,48,0,0,4
+INC2512,2026-09-03 10:15,Password reset / account lockout,P1 Critical,Email,Agent E,4.5,0.39,4,0,0,5
+INC2513,2026-09-03 08:06,Software install / licence,P2 High,Phone,Agent E,3.6,4.07,8,0,0,3
+INC2514,2026-09-03 17:19,Password reset / account lockout,P1 Critical,Email,Agent A,8.7,0.15,4,0,0,4
+INC2515,2026-09-03 13:38,Email / Outlook,P3 Medium,Portal,Agent D,33.1,2.2,24,0,0,5
+INC2516,2026-09-03 12:05,"Hardware fault (laptop, printer)",P2 High,Phone,Agent B,2.7,8.25,8,1,0,4
+INC2517,2026-09-03 10:08,Wi-Fi / network,P4 Low,Email,Agent B,19.6,5.8,48,0,0,5
+INC2518,2026-09-03 08:05,Password reset / account lockout,P2 High,Portal,Agent B,7.0,0.65,8,0,0,4
+INC2519,2026-09-03 17:22,Software install / licence,P3 Medium,Portal,Agent D,4.5,2.74,24,0,1,3
+INC2520,2026-09-03 09:35,Email / Outlook,P2 High,Phone,Agent A,12.8,4.87,8,0,0,5
+INC2521,2026-09-03 10:34,"Hardware fault (laptop, printer)",P1 Critical,Portal,Agent D,3.0,5.16,4,1,0,4
+INC2522,2026-09-03 10:11,New starter / leaver setup,P4 Low,Email,Agent B,12.0,15.43,48,0,1,3
+INC2523,2026-09-04 13:13,Business application error,P3 Medium,Portal,Agent C,8.5,6.24,24,0,0,5
+INC2524,2026-09-04 14:47,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent B,14.0,13.56,48,0,0,5
+INC2525,2026-09-04 14:25,Business application error,P4 Low,Phone,Agent A,16.5,24.67,48,0,0,3
+INC2526,2026-09-04 14:37,Password reset / account lockout,P3 Medium,Phone,Agent D,9.7,0.58,24,0,0,5
+INC2527,2026-09-04 10:55,Email / Outlook,P3 Medium,Phone,Agent D,5.8,5.59,24,0,0,5
+INC2528,2026-09-04 14:10,Email / Outlook,P3 Medium,Phone,Agent D,2.9,2.93,24,0,0,4
+INC2529,2026-09-04 09:45,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,7.0,11.49,48,0,0,5
+INC2530,2026-09-04 15:51,Password reset / account lockout,P2 High,Email,Agent E,14.0,1.39,8,0,0,4
+INC2531,2026-09-04 08:54,Password reset / account lockout,P2 High,Phone,Agent A,1.9,0.3,8,0,0,5
+INC2532,2026-09-04 11:19,"Hardware fault (laptop, printer)",P4 Low,Email,Agent B,12.5,12.76,48,0,0,4
+INC2533,2026-09-04 15:39,Software install / licence,P4 Low,Phone,Agent C,16.6,7.79,48,0,0,5
+INC2534,2026-09-04 12:02,Teams / video meetings,P2 High,Email,Agent D,13.0,2.92,8,0,0,3
+INC2535,2026-09-04 17:03,Teams / video meetings,P3 Medium,Email,Agent C,16.3,5.39,24,0,0,5
+INC2536,2026-09-04 09:28,Email / Outlook,P3 Medium,Phone,Agent A,20.6,2.52,24,0,1,4
+INC2537,2026-09-04 09:29,Software install / licence,P2 High,Phone,Agent A,21.0,0.98,8,0,0,3
+INC2538,2026-09-04 10:31,Teams / video meetings,P3 Medium,Email,Agent B,16.6,2.13,24,0,0,3
+INC2539,2026-09-07 12:50,Email / Outlook,P4 Low,Email,Agent A,16.0,2.24,48,0,0,5
+INC2540,2026-09-07 09:25,Business application error,P2 High,Portal,Agent D,4.2,13.91,8,1,0,3
+INC2541,2026-09-07 11:30,Password reset / account lockout,P4 Low,Portal,Agent C,3.9,0.36,48,0,0,5
+INC2542,2026-09-07 16:44,Teams / video meetings,P4 Low,Phone,Agent C,9.8,3.1,48,0,0,5
+INC2543,2026-09-07 15:33,Teams / video meetings,P4 Low,Phone,Agent B,25.0,5.99,48,0,0,5
+INC2544,2026-09-07 10:54,Email / Outlook,P2 High,Phone,Agent C,9.6,4.53,8,0,0,5
+INC2545,2026-09-07 08:30,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent D,14.8,16.65,48,0,0,5
+INC2546,2026-09-07 13:21,Email / Outlook,P3 Medium,Phone,Agent C,4.9,1.99,24,0,0,5
+INC2547,2026-09-07 09:30,Email / Outlook,P3 Medium,Portal,Agent A,6.5,1.78,24,0,0,3
+INC2548,2026-09-07 12:21,Wi-Fi / network,P2 High,Portal,Agent A,5.7,12.7,8,1,0,4
+INC2549,2026-09-07 11:47,VPN / remote access,P3 Medium,Phone,Agent D,9.6,3.22,24,0,0,5
+INC2550,2026-09-07 09:24,Teams / video meetings,P4 Low,Email,Agent B,5.6,3.0,48,0,0,4
+INC2551,2026-09-07 09:28,Email / Outlook,P2 High,Email,Agent C,5.2,4.97,8,0,0,5
+INC2552,2026-09-07 10:48,Wi-Fi / network,P3 Medium,Walk-up,Agent D,8.0,2.06,24,0,0,4
+INC2553,2026-09-07 13:24,"Hardware fault (laptop, printer)",P2 High,Walk-up,Agent B,11.2,13.56,8,1,0,4
+INC2554,2026-09-07 14:22,Software install / licence,P3 Medium,Email,Agent E,7.4,8.41,24,0,1,4
+INC2555,2026-09-07 12:25,Software install / licence,P3 Medium,Phone,Agent C,6.8,10.82,24,0,1,5
+INC2556,2026-09-07 12:53,Software install / licence,P2 High,Phone,Agent D,5.4,0.94,8,0,1,4
+INC2557,2026-09-07 10:28,Password reset / account lockout,P3 Medium,Email,Agent D,6.4,0.57,24,0,0,5
+INC2558,2026-09-07 14:01,Email / Outlook,P4 Low,Phone,Agent B,13.4,3.42,48,0,0,5
+INC2559,2026-09-07 09:41,Password reset / account lockout,P2 High,Portal,Agent D,5.8,1.39,8,0,0,5
+INC2560,2026-09-07 09:10,Password reset / account lockout,P3 Medium,Email,Agent E,17.9,0.63,24,0,0,5
+INC2561,2026-09-07 09:27,Business application error,P1 Critical,Email,Agent B,4.9,7.86,4,1,1,3
+INC2562,2026-09-07 11:01,VPN / remote access,P3 Medium,Portal,Agent A,35.5,2.36,24,0,0,4
+INC2563,2026-09-07 09:53,Wi-Fi / network,P3 Medium,Phone,Agent E,14.6,3.73,24,0,0,5
+INC2564,2026-09-07 11:15,New starter / leaver setup,P1 Critical,Phone,Agent E,10.9,1.8,4,0,0,4
+INC2565,2026-09-07 15:35,Email / Outlook,P3 Medium,Phone,Agent E,4.4,1.93,24,0,0,5
+INC2566,2026-09-07 09:41,Password reset / account lockout,P4 Low,Email,Agent D,23.4,1.33,48,0,0,5
+INC2567,2026-09-08 10:13,Software install / licence,P3 Medium,Portal,Agent E,6.9,3.02,24,0,0,4
+INC2568,2026-09-08 11:55,Password reset / account lockout,P2 High,Phone,Agent A,2.8,0.75,8,0,0,4
+INC2569,2026-09-08 15:39,Password reset / account lockout,P3 Medium,Email,Agent A,7.3,0.56,24,0,0,4
+INC2570,2026-09-08 09:23,New starter / leaver setup,P4 Low,Email,Agent A,5.3,5.52,48,0,0,5
+INC2571,2026-09-08 09:25,Software install / licence,P4 Low,Portal,Agent C,2.4,6.66,48,0,0,5
+INC2572,2026-09-08 11:10,Software install / licence,P2 High,Portal,Agent A,6.7,1.44,8,0,0,5
+INC2573,2026-09-08 15:50,Email / Outlook,P3 Medium,Phone,Agent E,29.4,4.62,24,0,0,5
+INC2574,2026-09-08 10:31,Wi-Fi / network,P2 High,Email,Agent E,11.8,4.33,8,0,0,4
+INC2575,2026-09-08 15:41,Password reset / account lockout,P3 Medium,Email,Agent E,5.7,0.42,24,0,0,4
+INC2576,2026-09-08 16:54,Business application error,P3 Medium,Phone,Agent E,3.1,15.32,24,0,1,5
+INC2577,2026-09-08 08:39,Wi-Fi / network,P3 Medium,Portal,Agent A,18.3,11.87,24,0,1,4
+INC2578,2026-09-08 09:22,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,13.6,8.67,48,0,0,5
+INC2579,2026-09-08 10:42,VPN / remote access,P3 Medium,Email,Agent E,2.6,4.19,24,0,0,4
+INC2580,2026-09-08 09:05,Software install / licence,P3 Medium,Portal,Agent C,6.1,4.98,24,0,0,3
+INC2581,2026-09-08 08:49,Software install / licence,P3 Medium,Email,Agent D,6.7,4.2,24,0,0,4
+INC2582,2026-09-08 10:22,VPN / remote access,P4 Low,Phone,Agent D,19.2,9.8,48,0,0,4
+INC2583,2026-09-08 10:32,Teams / video meetings,P3 Medium,Email,Agent B,20.4,3.94,24,0,0,5
+INC2584,2026-09-08 15:01,Teams / video meetings,P3 Medium,Email,Agent E,12.3,3.78,24,0,0,4
+INC2585,2026-09-08 15:25,Password reset / account lockout,P2 High,Phone,Agent C,9.5,0.22,8,0,0,5
+INC2586,2026-09-08 09:26,Password reset / account lockout,P4 Low,Portal,Agent A,7.2,1.18,48,0,0,4
+INC2587,2026-09-09 13:41,Wi-Fi / network,P2 High,Portal,Agent A,1.4,1.92,8,0,0,4
+INC2588,2026-09-09 15:37,Wi-Fi / network,P2 High,Phone,Agent C,4.4,5.07,8,0,0,5
+INC2589,2026-09-09 11:12,Software install / licence,P2 High,Phone,Agent D,5.3,3.91,8,0,0,5
+INC2590,2026-09-09 10:07,New starter / leaver setup,P4 Low,Portal,Agent A,5.9,7.81,48,0,0,4
+INC2591,2026-09-09 08:20,Email / Outlook,P2 High,Phone,Agent A,3.7,1.94,8,0,0,4
+INC2592,2026-09-09 17:56,Password reset / account lockout,P3 Medium,Phone,Agent E,19.8,0.34,24,0,0,4
+INC2593,2026-09-09 10:52,Email / Outlook,P4 Low,Phone,Agent B,8.3,3.62,48,0,0,4
+INC2594,2026-09-09 16:48,Password reset / account lockout,P4 Low,Phone,Agent C,8.2,1.19,48,0,0,4
+INC2595,2026-09-09 09:54,Software install / licence,P3 Medium,Phone,Agent C,4.6,4.01,24,0,0,4
+INC2596,2026-09-09 10:17,Password reset / account lockout,P3 Medium,Phone,Agent C,11.4,0.6,24,0,0,5
+INC2597,2026-09-10 10:34,Wi-Fi / network,P3 Medium,Portal,Agent B,6.5,3.34,24,0,0,3
+INC2598,2026-09-10 08:00,Business application error,P1 Critical,Email,Agent E,2.8,16.07,4,1,0,4
+INC2599,2026-09-10 09:46,Email / Outlook,P3 Medium,Email,Agent A,4.0,3.53,24,0,0,4
+INC2600,2026-09-10 09:32,Business application error,P3 Medium,Phone,Agent D,15.5,7.47,24,0,0,5
+INC2601,2026-09-10 16:50,Password reset / account lockout,P3 Medium,Portal,Agent A,18.0,0.56,24,0,0,5
+INC2602,2026-09-10 14:36,VPN / remote access,P1 Critical,Email,Agent C,13.3,0.87,4,0,1,4
+INC2603,2026-09-10 17:23,Wi-Fi / network,P4 Low,Phone,Agent A,6.6,3.87,48,0,0,5
+INC2604,2026-09-10 13:42,Password reset / account lockout,P4 Low,Email,Agent A,15.1,0.86,48,0,0,5
+INC2605,2026-09-10 11:36,"Hardware fault (laptop, printer)",P4 Low,Email,Agent E,9.1,14.08,48,0,0,4
+INC2606,2026-09-10 08:30,Teams / video meetings,P3 Medium,Phone,Agent B,21.4,3.66,24,0,0,3
+INC2607,2026-09-10 11:47,VPN / remote access,P4 Low,Email,Agent A,10.9,11.63,48,0,1,3
+INC2608,2026-09-10 15:27,Teams / video meetings,P4 Low,Email,Agent D,8.8,4.14,48,0,0,5
+INC2609,2026-09-10 14:25,Teams / video meetings,P3 Medium,Walk-up,Agent A,11.0,1.11,24,0,0,5
+INC2610,2026-09-10 17:52,Software install / licence,P2 High,Phone,Agent B,9.8,2.68,8,0,0,4
+INC2611,2026-09-10 11:29,Teams / video meetings,P4 Low,Email,Agent C,11.1,3.99,48,0,0,4
+INC2612,2026-09-10 16:15,Business application error,P2 High,Portal,Agent C,2.2,12.13,8,1,0,3
+INC2613,2026-09-11 11:11,Password reset / account lockout,P3 Medium,Email,Agent B,3.4,0.68,24,0,0,4
+INC2614,2026-09-11 14:50,VPN / remote access,P3 Medium,Portal,Agent D,8.1,4.22,24,0,1,3
+INC2615,2026-09-11 10:14,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent E,51.9,12.09,24,0,0,3
+INC2616,2026-09-11 09:00,Password reset / account lockout,P3 Medium,Phone,Agent D,3.8,0.2,24,0,0,5
+INC2617,2026-09-11 12:34,Password reset / account lockout,P3 Medium,Portal,Agent A,10.7,0.47,24,0,0,4
+INC2618,2026-09-11 09:55,Teams / video meetings,P4 Low,Portal,Agent C,10.5,6.48,48,0,0,5
+INC2619,2026-09-11 13:40,Email / Outlook,P2 High,Email,Agent D,10.1,2.1,8,0,0,4
+INC2620,2026-09-11 12:33,Password reset / account lockout,P1 Critical,Email,Agent D,3.8,0.21,4,0,0,5
+INC2621,2026-09-11 17:43,VPN / remote access,P3 Medium,Phone,Agent B,16.3,2.34,24,0,0,5
+INC2622,2026-09-11 13:59,Password reset / account lockout,P3 Medium,Email,Agent A,30.0,0.57,24,0,0,4
+INC2623,2026-09-11 08:58,Teams / video meetings,P3 Medium,Email,Agent C,14.2,1.13,24,0,0,5
+INC2624,2026-09-11 08:34,VPN / remote access,P4 Low,Portal,Agent C,5.8,6.23,48,0,0,4
+INC2625,2026-09-11 10:45,Wi-Fi / network,P2 High,Phone,Agent B,4.8,3.37,8,0,1,4
+INC2626,2026-09-11 13:36,VPN / remote access,P4 Low,Portal,Agent B,8.7,3.13,48,0,0,4
+INC2627,2026-09-11 11:04,Business application error,P4 Low,Email,Agent D,29.3,18.12,48,0,0,4
+INC2628,2026-09-14 14:47,Wi-Fi / network,P4 Low,Email,Agent D,9.0,8.72,48,0,0,4
+INC2629,2026-09-14 12:03,Software install / licence,P4 Low,Phone,Agent E,5.2,8.32,48,0,0,4
+INC2630,2026-09-14 17:25,Password reset / account lockout,P1 Critical,Phone,Agent C,7.9,0.14,4,0,0,4
+INC2631,2026-09-14 14:42,Email / Outlook,P1 Critical,Phone,Agent E,6.7,0.88,4,0,0,5
+INC2632,2026-09-14 08:39,Software install / licence,P3 Medium,Portal,Agent D,17.6,1.36,24,0,0,4
+INC2633,2026-09-14 08:39,Business application error,P3 Medium,Phone,Agent B,28.0,22.57,24,0,0,5
+INC2634,2026-09-14 16:52,Teams / video meetings,P4 Low,Walk-up,Agent A,8.9,7.29,48,0,1,5
+INC2635,2026-09-14 11:23,Email / Outlook,P4 Low,Email,Agent D,9.0,0.98,48,0,0,4
+INC2636,2026-09-14 14:49,Email / Outlook,P4 Low,Email,Agent C,6.4,4.36,48,0,1,3
+INC2637,2026-09-14 09:42,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent A,11.7,10.8,48,0,0,4
+INC2638,2026-09-14 09:36,Teams / video meetings,P2 High,Phone,Agent C,8.2,7.52,8,0,0,5
+INC2639,2026-09-14 12:12,Password reset / account lockout,P2 High,Phone,Agent B,3.4,0.19,8,0,0,4
+INC2640,2026-09-14 14:34,Wi-Fi / network,P2 High,Phone,Agent A,2.6,4.79,8,0,0,4
+INC2641,2026-09-14 15:40,Password reset / account lockout,P4 Low,Email,Agent C,6.8,1.12,48,0,0,5
+INC2642,2026-09-14 12:22,Software install / licence,P3 Medium,Email,Agent A,3.3,7.84,24,0,0,5
+INC2643,2026-09-14 14:39,Wi-Fi / network,P3 Medium,Email,Agent A,2.2,3.35,24,0,1,3
+INC2644,2026-09-14 09:17,Business application error,P4 Low,Phone,Agent E,11.6,22.49,48,0,1,5
+INC2645,2026-09-15 10:23,New starter / leaver setup,P3 Medium,Email,Agent C,4.1,9.8,24,0,0,4
+INC2646,2026-09-15 09:20,Password reset / account lockout,P3 Medium,Phone,Agent D,21.7,0.4,24,0,0,4
+INC2647,2026-09-15 09:59,Password reset / account lockout,P4 Low,Phone,Agent A,9.3,0.82,48,0,0,5
+INC2648,2026-09-15 13:30,Business application error,P2 High,Phone,Agent A,7.0,10.85,8,1,0,4
+INC2649,2026-09-15 09:05,Password reset / account lockout,P4 Low,Phone,Agent D,10.9,0.8,48,0,0,4
+INC2650,2026-09-15 10:51,Wi-Fi / network,P2 High,Phone,Agent E,7.4,5.82,8,0,1,4
+INC2651,2026-09-15 14:30,Wi-Fi / network,P3 Medium,Portal,Agent C,17.7,4.14,24,0,1,5
+INC2652,2026-09-15 13:12,Password reset / account lockout,P4 Low,Phone,Agent A,17.4,1.66,48,0,0,5
+INC2653,2026-09-15 17:08,VPN / remote access,P2 High,Email,Agent E,6.2,5.64,8,0,0,3
+INC2654,2026-09-15 15:58,Wi-Fi / network,P3 Medium,Email,Agent D,8.7,2.18,24,0,0,4
+INC2655,2026-09-15 12:41,Password reset / account lockout,P3 Medium,Phone,Agent A,8.6,0.68,24,0,0,5
+INC2656,2026-09-15 09:12,Teams / video meetings,P3 Medium,Email,Agent D,23.7,2.54,24,0,0,5
+INC2657,2026-09-15 13:34,Wi-Fi / network,P2 High,Walk-up,Agent C,3.1,3.21,8,0,0,4
+INC2658,2026-09-15 13:44,Email / Outlook,P3 Medium,Email,Agent A,4.2,2.46,24,0,0,4
+INC2659,2026-09-15 10:53,VPN / remote access,P4 Low,Email,Agent D,16.1,3.61,48,0,1,3
+INC2660,2026-09-15 13:03,Email / Outlook,P3 Medium,Phone,Agent D,4.4,1.24,24,0,1,5
+INC2661,2026-09-15 13:48,Wi-Fi / network,P4 Low,Phone,Agent B,12.2,5.24,48,0,0,4
+INC2662,2026-09-15 14:05,Wi-Fi / network,P4 Low,Email,Agent A,7.6,4.2,48,0,0,4
+INC2663,2026-09-15 10:45,Wi-Fi / network,P3 Medium,Portal,Agent B,13.0,3.87,24,0,0,5
+INC2664,2026-09-15 08:41,New starter / leaver setup,P3 Medium,Email,Agent D,6.4,9.89,24,0,0,4
+INC2665,2026-09-15 10:38,Software install / licence,P3 Medium,Email,Agent D,12.2,2.98,24,0,0,4
+INC2666,2026-09-16 11:30,Teams / video meetings,P2 High,Phone,Agent A,4.5,2.34,8,0,0,5
+INC2667,2026-09-16 15:09,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent B,4.8,7.09,24,0,0,4
+INC2668,2026-09-16 11:51,New starter / leaver setup,P3 Medium,Email,Agent E,4.6,9.11,24,0,0,5
+INC2669,2026-09-16 14:14,Teams / video meetings,P4 Low,Portal,Agent A,9.0,0.91,48,0,0,5
+INC2670,2026-09-16 09:19,Software install / licence,P2 High,Email,Agent B,4.9,3.83,8,0,0,5
+INC2671,2026-09-16 14:08,New starter / leaver setup,P2 High,Walk-up,Agent C,7.0,5.44,8,0,0,4
+INC2672,2026-09-16 15:50,Email / Outlook,P3 Medium,Portal,Agent B,17.9,3.94,24,0,0,4
+INC2673,2026-09-16 12:29,Wi-Fi / network,P3 Medium,Phone,Agent E,2.3,6.08,24,0,0,5
+INC2674,2026-09-16 08:35,Wi-Fi / network,P3 Medium,Portal,Agent C,10.0,5.01,24,0,0,5
+INC2675,2026-09-16 09:52,Password reset / account lockout,P3 Medium,Portal,Agent A,7.3,0.26,24,0,0,5
+INC2676,2026-09-16 09:36,New starter / leaver setup,P4 Low,Email,Agent B,16.1,12.22,48,0,0,5
+INC2677,2026-09-16 15:25,VPN / remote access,P4 Low,Walk-up,Agent A,6.9,3.28,48,0,0,5
+INC2678,2026-09-16 17:44,Teams / video meetings,P3 Medium,Portal,Agent E,11.1,8.67,24,0,0,5
+INC2679,2026-09-16 14:27,Password reset / account lockout,P4 Low,Portal,Agent C,5.3,1.86,48,0,0,4
+INC2680,2026-09-16 14:37,Email / Outlook,P3 Medium,Phone,Agent B,26.0,4.11,24,0,0,5
+INC2681,2026-09-16 14:58,Password reset / account lockout,P3 Medium,Email,Agent C,8.2,0.83,24,0,0,5
+INC2682,2026-09-17 09:37,Business application error,P4 Low,Email,Agent D,8.2,5.12,48,0,0,3
+INC2683,2026-09-17 15:33,Password reset / account lockout,P4 Low,Phone,Agent E,19.8,1.76,48,0,0,4
+INC2684,2026-09-17 08:44,Password reset / account lockout,P4 Low,Portal,Agent C,4.5,1.18,48,0,0,3
+INC2685,2026-09-17 10:01,Teams / video meetings,P3 Medium,Email,Agent D,14.6,2.49,24,0,0,4
+INC2686,2026-09-17 10:00,VPN / remote access,P4 Low,Email,Agent B,19.5,5.0,48,0,0,5
+INC2687,2026-09-17 10:57,Email / Outlook,P3 Medium,Email,Agent C,10.4,1.71,24,0,0,5
+INC2688,2026-09-17 14:56,Software install / licence,P2 High,Walk-up,Agent C,2.6,3.17,8,0,0,3
+INC2689,2026-09-17 15:54,Password reset / account lockout,P3 Medium,Email,Agent D,6.1,0.49,24,0,0,4
+INC2690,2026-09-17 10:04,Teams / video meetings,P3 Medium,Email,Agent C,8.1,3.26,24,0,0,4
+INC2691,2026-09-17 10:30,VPN / remote access,P4 Low,Email,Agent B,19.3,5.11,48,0,0,4
+INC2692,2026-09-17 16:32,"Hardware fault (laptop, printer)",P2 High,Phone,Agent C,8.2,14.15,8,1,0,4
+INC2693,2026-09-17 08:17,"Hardware fault (laptop, printer)",P1 Critical,Portal,Agent A,5.4,6.09,4,1,0,3
+INC2694,2026-09-17 13:31,Password reset / account lockout,P3 Medium,Walk-up,Agent E,8.5,0.57,24,0,1,4
+INC2695,2026-09-17 09:48,Teams / video meetings,P4 Low,Email,Agent E,29.8,2.51,48,0,0,5
+INC2696,2026-09-18 13:35,Password reset / account lockout,P3 Medium,Email,Agent B,21.1,0.79,24,0,0,4
+INC2697,2026-09-18 17:08,Email / Outlook,P3 Medium,Portal,Agent A,6.3,1.76,24,0,0,4
+INC2698,2026-09-18 10:27,Wi-Fi / network,P3 Medium,Walk-up,Agent A,13.3,3.98,24,0,0,5
+INC2699,2026-09-18 14:08,VPN / remote access,P3 Medium,Email,Agent D,5.8,8.64,24,0,0,4
+INC2700,2026-09-18 17:27,Password reset / account lockout,P3 Medium,Portal,Agent D,5.5,1.32,24,0,0,4
+INC2701,2026-09-18 16:13,Password reset / account lockout,P4 Low,Phone,Agent A,13.1,0.71,48,0,0,4
+INC2702,2026-09-18 17:33,New starter / leaver setup,P4 Low,Phone,Agent E,5.5,12.01,48,0,0,4
+INC2703,2026-09-18 10:19,Wi-Fi / network,P3 Medium,Portal,Agent D,9.5,6.44,24,0,0,5
+INC2704,2026-09-18 16:01,Business application error,P4 Low,Phone,Agent E,19.6,15.76,48,0,0,5
+INC2705,2026-09-18 08:56,Software install / licence,P4 Low,Walk-up,Agent E,12.6,4.79,48,0,0,4
+INC2706,2026-09-18 08:52,VPN / remote access,P3 Medium,Email,Agent A,9.6,10.8,24,0,0,5
+INC2707,2026-09-18 10:38,Password reset / account lockout,P3 Medium,Email,Agent E,6.7,1.46,24,0,0,4
+INC2708,2026-09-18 15:01,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent E,3.4,8.99,24,0,0,5
+INC2709,2026-09-18 08:54,Email / Outlook,P2 High,Portal,Agent E,15.8,4.23,8,0,0,5
+INC2710,2026-09-18 15:01,"Hardware fault (laptop, printer)",P3 Medium,Walk-up,Agent D,21.7,29.39,24,1,1,4
+INC2711,2026-09-18 13:14,Wi-Fi / network,P2 High,Email,Agent D,7.1,6.09,8,0,0,4
+INC2712,2026-09-18 16:15,"Hardware fault (laptop, printer)",P2 High,Email,Agent D,6.4,7.74,8,0,0,5
+INC2713,2026-09-18 17:21,Email / Outlook,P3 Medium,Portal,Agent D,16.9,1.8,24,0,0,4
+INC2714,2026-09-18 15:20,Wi-Fi / network,P4 Low,Email,Agent A,19.9,5.78,48,0,0,5
+INC2715,2026-09-18 14:17,Email / Outlook,P3 Medium,Walk-up,Agent E,9.8,2.42,24,0,0,5
+INC2716,2026-09-21 09:41,Teams / video meetings,P4 Low,Phone,Agent E,26.0,4.88,48,0,0,5
+INC2717,2026-09-21 16:28,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent B,7.4,17.29,24,0,0,5
+INC2718,2026-09-21 17:36,VPN / remote access,P1 Critical,Portal,Agent B,4.3,2.95,4,0,0,5
+INC2719,2026-09-21 14:55,Password reset / account lockout,P3 Medium,Email,Agent D,12.4,0.72,24,0,0,5
+INC2720,2026-09-21 17:49,Teams / video meetings,P4 Low,Phone,Agent A,13.5,2.11,48,0,0,5
+INC2721,2026-09-21 10:24,VPN / remote access,P4 Low,Phone,Agent C,6.3,7.23,48,0,0,4
+INC2722,2026-09-21 16:58,Password reset / account lockout,P3 Medium,Email,Agent D,14.3,0.79,24,0,0,4
+INC2723,2026-09-21 08:40,Wi-Fi / network,P4 Low,Walk-up,Agent E,10.1,5.46,48,0,0,5
+INC2724,2026-09-21 08:53,New starter / leaver setup,P4 Low,Phone,Agent C,3.5,27.55,48,0,0,4
+INC2725,2026-09-21 14:51,Wi-Fi / network,P1 Critical,Walk-up,Agent E,7.2,2.62,4,0,0,5
+INC2726,2026-09-21 16:51,Password reset / account lockout,P4 Low,Email,Agent A,5.2,1.0,48,0,0,5
+INC2727,2026-09-21 11:07,Software install / licence,P3 Medium,Email,Agent D,3.0,4.9,24,0,0,4
+INC2728,2026-09-21 10:37,Software install / licence,P2 High,Walk-up,Agent D,6.8,5.86,8,0,0,4
+INC2729,2026-09-21 09:19,Email / Outlook,P3 Medium,Phone,Agent A,15.5,2.44,24,0,0,4
+INC2730,2026-09-21 15:58,Wi-Fi / network,P4 Low,Phone,Agent D,7.9,8.48,48,0,1,4
+INC2731,2026-09-21 15:22,Teams / video meetings,P3 Medium,Portal,Agent C,13.2,1.26,24,0,0,5
+INC2732,2026-09-21 15:16,VPN / remote access,P3 Medium,Phone,Agent B,16.0,8.39,24,0,0,5
+INC2733,2026-09-21 15:17,Teams / video meetings,P4 Low,Phone,Agent E,10.7,3.58,48,0,0,4
+INC2734,2026-09-21 10:48,Email / Outlook,P3 Medium,Phone,Agent C,13.8,1.25,24,0,0,4
+INC2735,2026-09-21 10:07,Email / Outlook,P4 Low,Email,Agent E,7.1,4.18,48,0,0,4
+INC2736,2026-09-21 10:37,Email / Outlook,P3 Medium,Email,Agent D,3.8,2.05,24,0,0,5
+INC2737,2026-09-21 14:30,Business application error,P2 High,Phone,Agent A,6.2,5.61,8,0,1,4
+INC2738,2026-09-22 12:35,Wi-Fi / network,P2 High,Portal,Agent E,4.3,3.92,8,0,1,3
+INC2739,2026-09-22 13:41,VPN / remote access,P2 High,Email,Agent E,5.4,5.32,8,0,0,5
+INC2740,2026-09-22 08:20,New starter / leaver setup,P2 High,Phone,Agent A,3.0,2.4,8,0,0,4
+INC2741,2026-09-22 14:36,Password reset / account lockout,P2 High,Portal,Agent D,8.0,0.91,8,0,0,5
+INC2742,2026-09-22 17:14,VPN / remote access,P3 Medium,Phone,Agent B,11.9,1.76,24,0,0,5
+INC2743,2026-09-22 13:02,VPN / remote access,P2 High,Phone,Agent E,3.5,3.46,8,0,0,5
+INC2744,2026-09-22 17:50,Password reset / account lockout,P3 Medium,Email,Agent C,7.7,1.12,24,0,0,5
+INC2745,2026-09-22 12:19,Teams / video meetings,P3 Medium,Email,Agent A,9.1,0.81,24,0,0,5
+INC2746,2026-09-22 16:15,Wi-Fi / network,P3 Medium,Portal,Agent B,12.4,2.44,24,0,0,5
+INC2747,2026-09-22 15:22,Wi-Fi / network,P4 Low,Email,Agent B,10.7,3.94,48,0,0,5
+INC2748,2026-09-22 11:15,VPN / remote access,P3 Medium,Email,Agent D,6.1,3.04,24,0,0,3
+INC2749,2026-09-22 11:18,VPN / remote access,P4 Low,Walk-up,Agent D,7.1,4.86,48,0,0,4
+INC2750,2026-09-22 09:40,VPN / remote access,P3 Medium,Portal,Agent B,2.2,2.32,24,0,0,3
+INC2751,2026-09-22 09:30,Password reset / account lockout,P3 Medium,Portal,Agent D,6.1,0.6,24,0,0,3
+INC2752,2026-09-22 08:50,Password reset / account lockout,P4 Low,Phone,Agent E,16.1,1.11,48,0,0,5
+INC2753,2026-09-22 15:04,Wi-Fi / network,P3 Medium,Phone,Agent E,23.2,2.61,24,0,0,5
+INC2754,2026-09-22 12:13,Wi-Fi / network,P3 Medium,Email,Agent B,18.7,12.56,24,0,0,5
+INC2755,2026-09-23 16:01,Software install / licence,P2 High,Portal,Agent E,3.5,2.73,8,0,0,3
+INC2756,2026-09-23 13:19,Teams / video meetings,P3 Medium,Phone,Agent C,6.8,7.83,24,0,0,3
+INC2757,2026-09-23 09:06,Wi-Fi / network,P4 Low,Email,Agent E,2.0,9.54,48,0,1,5
+INC2758,2026-09-23 14:11,"Hardware fault (laptop, printer)",P4 Low,Email,Agent C,10.7,15.09,48,0,0,5
+INC2759,2026-09-23 11:10,Email / Outlook,P4 Low,Phone,Agent D,14.7,5.37,48,0,1,4
+INC2760,2026-09-23 14:12,Email / Outlook,P3 Medium,Phone,Agent D,9.1,4.68,24,0,0,4
+INC2761,2026-09-23 10:52,Software install / licence,P4 Low,Phone,Agent A,5.6,4.05,48,0,0,5
+INC2762,2026-09-23 09:00,Business application error,P3 Medium,Portal,Agent A,20.8,4.0,24,0,0,5
+INC2763,2026-09-23 16:38,Password reset / account lockout,P3 Medium,Phone,Agent B,7.5,1.08,24,0,0,5
+INC2764,2026-09-23 10:04,Wi-Fi / network,P3 Medium,Email,Agent A,11.2,2.72,24,0,0,5
+INC2765,2026-09-23 12:54,"Hardware fault (laptop, printer)",P2 High,Email,Agent B,7.1,6.19,8,0,0,5
+INC2766,2026-09-23 09:53,Software install / licence,P4 Low,Phone,Agent B,17.6,2.97,48,0,0,5
+INC2767,2026-09-23 08:35,Teams / video meetings,P2 High,Walk-up,Agent D,2.3,2.41,8,0,0,4
+INC2768,2026-09-23 10:03,Password reset / account lockout,P3 Medium,Walk-up,Agent B,13.0,0.46,24,0,0,5
+INC2769,2026-09-23 13:47,Email / Outlook,P2 High,Phone,Agent C,7.4,1.32,8,0,0,4
+INC2770,2026-09-23 12:58,New starter / leaver setup,P3 Medium,Email,Agent E,7.2,27.95,24,1,0,3
+INC2771,2026-09-23 10:42,New starter / leaver setup,P3 Medium,Email,Agent E,24.9,5.99,24,0,0,4
+INC2772,2026-09-23 11:24,Wi-Fi / network,P4 Low,Email,Agent C,5.1,3.41,48,0,0,5
+INC2773,2026-09-23 09:52,Wi-Fi / network,P3 Medium,Walk-up,Agent B,10.5,1.38,24,0,1,4
+INC2774,2026-09-24 17:26,Wi-Fi / network,P3 Medium,Portal,Agent A,4.2,3.3,24,0,0,4
+INC2775,2026-09-24 14:07,Email / Outlook,P4 Low,Phone,Agent B,6.7,2.69,48,0,1,4
+INC2776,2026-09-24 09:12,Email / Outlook,P3 Medium,Email,Agent A,7.8,3.43,24,0,0,5
+INC2777,2026-09-24 16:06,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,16.7,8.41,48,0,0,4
+INC2778,2026-09-24 09:52,Password reset / account lockout,P4 Low,Phone,Agent C,10.2,2.79,48,0,0,4
+INC2779,2026-09-24 08:04,Password reset / account lockout,P3 Medium,Email,Agent C,4.9,0.51,24,0,0,3
+INC2780,2026-09-24 16:16,Email / Outlook,P3 Medium,Portal,Agent C,10.6,4.97,24,0,0,4
+INC2781,2026-09-24 14:59,"Hardware fault (laptop, printer)",P1 Critical,Phone,Agent C,7.5,4.29,4,1,0,4
+INC2782,2026-09-24 09:52,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent C,11.2,23.41,48,0,0,3
+INC2783,2026-09-24 10:22,New starter / leaver setup,P4 Low,Email,Agent C,10.7,14.27,48,0,0,5
+INC2784,2026-09-24 15:27,Password reset / account lockout,P2 High,Phone,Agent C,5.6,0.6,8,0,0,4
+INC2785,2026-09-24 08:25,Email / Outlook,P3 Medium,Phone,Agent B,4.9,2.1,24,0,0,4
+INC2786,2026-09-24 14:39,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent C,19.8,5.88,24,0,0,4
+INC2787,2026-09-24 10:09,New starter / leaver setup,P2 High,Email,Agent A,5.7,7.21,8,0,0,4
+INC2788,2026-09-24 15:38,Password reset / account lockout,P3 Medium,Email,Agent C,9.9,1.45,24,0,1,4
+INC2789,2026-09-24 10:23,Wi-Fi / network,P3 Medium,Portal,Agent B,6.6,5.91,24,0,0,5
+INC2790,2026-09-24 10:34,New starter / leaver setup,P2 High,Email,Agent A,6.8,2.79,8,0,0,4
+INC2791,2026-09-24 12:10,Software install / licence,P4 Low,Phone,Agent A,8.2,3.37,48,0,0,4
+INC2792,2026-09-24 11:53,Password reset / account lockout,P3 Medium,Phone,Agent C,16.8,0.41,24,0,0,5
+INC2793,2026-09-24 09:02,Wi-Fi / network,P3 Medium,Phone,Agent E,8.4,3.61,24,0,0,5
+INC2794,2026-09-24 08:01,Password reset / account lockout,P3 Medium,Email,Agent A,5.6,0.44,24,0,0,5
+INC2795,2026-09-24 14:04,Software install / licence,P3 Medium,Walk-up,Agent C,14.9,5.04,24,0,0,5
+INC2796,2026-09-24 13:29,New starter / leaver setup,P3 Medium,Phone,Agent C,7.5,5.36,24,0,1,4
+INC2797,2026-09-24 14:39,Email / Outlook,P4 Low,Phone,Agent E,4.5,6.17,48,0,0,5
+INC2798,2026-09-24 10:22,Password reset / account lockout,P3 Medium,Portal,Agent D,25.5,0.67,24,0,0,4
+INC2799,2026-09-24 08:42,Password reset / account lockout,P4 Low,Phone,Agent B,7.4,0.46,48,0,0,4
+INC2800,2026-09-25 15:40,Wi-Fi / network,P3 Medium,Phone,Agent B,8.4,4.88,24,0,0,4
+INC2801,2026-09-25 14:41,Software install / licence,P3 Medium,Walk-up,Agent A,2.1,2.89,24,0,0,5
+INC2802,2026-09-25 10:48,Software install / licence,P4 Low,Phone,Agent B,5.2,5.9,48,0,0,3
+INC2803,2026-09-25 11:13,Password reset / account lockout,P3 Medium,Walk-up,Agent C,3.8,0.22,24,0,0,3
+INC2804,2026-09-25 13:56,Business application error,P4 Low,Walk-up,Agent B,6.9,9.19,48,0,0,5
+INC2805,2026-09-25 11:51,Password reset / account lockout,P2 High,Phone,Agent C,4.8,0.17,8,0,0,3
+INC2806,2026-09-25 11:30,Business application error,P3 Medium,Email,Agent C,3.2,12.15,24,0,0,4
+INC2807,2026-09-25 10:40,Password reset / account lockout,P1 Critical,Email,Agent B,1.1,0.64,4,0,0,5
+INC2808,2026-09-25 09:43,Password reset / account lockout,P3 Medium,Phone,Agent D,13.2,1.22,24,0,0,4
+INC2809,2026-09-25 09:08,Software install / licence,P3 Medium,Portal,Agent C,15.2,5.25,24,0,0,4
+INC2810,2026-09-25 12:54,"Hardware fault (laptop, printer)",P4 Low,Portal,Agent A,9.8,8.0,48,0,0,5
+INC2811,2026-09-25 12:44,"Hardware fault (laptop, printer)",P3 Medium,Phone,Agent E,8.6,10.31,24,0,0,5
+INC2812,2026-09-25 17:09,Teams / video meetings,P2 High,Email,Agent B,5.7,2.59,8,0,0,4
+INC2813,2026-09-25 09:08,VPN / remote access,P4 Low,Portal,Agent D,34.2,3.87,48,0,0,5
+INC2814,2026-09-25 16:08,Wi-Fi / network,P3 Medium,Walk-up,Agent E,25.5,6.54,24,0,0,4
+INC2815,2026-09-25 12:47,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent C,26.3,10.5,24,0,1,3
+INC2816,2026-09-25 17:58,Wi-Fi / network,P3 Medium,Portal,Agent A,16.9,5.1,24,0,1,3
+INC2817,2026-09-28 08:41,Business application error,P4 Low,Phone,Agent C,2.0,14.11,48,0,0,5
+INC2818,2026-09-28 12:03,Password reset / account lockout,P3 Medium,Email,Agent A,6.6,0.29,24,0,0,4
+INC2819,2026-09-28 12:04,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent A,9.6,5.97,48,0,0,5
+INC2820,2026-09-28 13:06,New starter / leaver setup,P3 Medium,Email,Agent C,20.5,5.99,24,0,1,4
+INC2821,2026-09-28 17:38,Password reset / account lockout,P4 Low,Portal,Agent A,17.5,0.65,48,0,0,4
+INC2822,2026-09-28 09:33,New starter / leaver setup,P3 Medium,Portal,Agent D,8.3,2.44,24,0,0,4
+INC2823,2026-09-28 13:45,Software install / licence,P3 Medium,Phone,Agent A,8.3,2.49,24,0,0,4
+INC2824,2026-09-28 10:41,Software install / licence,P3 Medium,Email,Agent D,14.9,4.37,24,0,0,4
+INC2825,2026-09-28 09:25,"Hardware fault (laptop, printer)",P2 High,Walk-up,Agent D,9.0,6.46,8,0,0,4
+INC2826,2026-09-28 13:13,Password reset / account lockout,P4 Low,Phone,Agent B,2.6,1.45,48,0,0,5
+INC2827,2026-09-28 12:41,Email / Outlook,P3 Medium,Email,Agent A,13.8,1.48,24,0,0,4
+INC2828,2026-09-28 12:52,Password reset / account lockout,P4 Low,Email,Agent E,12.2,0.95,48,0,0,4
+INC2829,2026-09-28 12:30,Wi-Fi / network,P4 Low,Walk-up,Agent A,14.6,4.08,48,0,0,4
+INC2830,2026-09-28 13:00,Wi-Fi / network,P2 High,Phone,Agent B,2.3,5.31,8,0,0,4
+INC2831,2026-09-28 16:03,Email / Outlook,P3 Medium,Portal,Agent D,14.6,11.28,24,0,0,4
+INC2832,2026-09-28 09:23,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent D,14.8,11.67,24,0,0,4
+INC2833,2026-09-28 10:17,Password reset / account lockout,P3 Medium,Email,Agent B,5.6,0.4,24,0,0,4
+INC2834,2026-09-28 09:04,Teams / video meetings,P3 Medium,Email,Agent A,5.1,1.6,24,0,0,4
+INC2835,2026-09-28 14:21,Software install / licence,P3 Medium,Phone,Agent C,14.9,1.62,24,0,1,3
+INC2836,2026-09-29 10:36,"Hardware fault (laptop, printer)",P3 Medium,Portal,Agent C,17.1,17.31,24,0,0,3
+INC2837,2026-09-29 10:57,Password reset / account lockout,P2 High,Phone,Agent D,4.3,0.55,8,0,0,4
+INC2838,2026-09-29 12:26,Business application error,P3 Medium,Phone,Agent B,5.3,16.58,24,0,1,3
+INC2839,2026-09-29 15:37,New starter / leaver setup,P4 Low,Email,Agent B,12.3,7.81,48,0,0,5
+INC2840,2026-09-29 14:05,Email / Outlook,P4 Low,Portal,Agent C,19.3,6.23,48,0,0,5
+INC2841,2026-09-29 08:41,"Hardware fault (laptop, printer)",P2 High,Phone,Agent D,9.2,5.15,8,0,1,4
+INC2842,2026-09-29 16:03,Teams / video meetings,P3 Medium,Email,Agent E,9.3,2.73,24,0,1,5
+INC2843,2026-09-29 12:02,Password reset / account lockout,P3 Medium,Walk-up,Agent C,2.4,0.86,24,0,0,4
+INC2844,2026-09-29 09:43,Password reset / account lockout,P4 Low,Phone,Agent C,9.1,1.8,48,0,0,4
+INC2845,2026-09-29 13:32,Teams / video meetings,P2 High,Walk-up,Agent D,4.1,1.96,8,0,0,5
+INC2846,2026-09-29 10:29,VPN / remote access,P4 Low,Walk-up,Agent B,2.6,4.08,48,0,0,5
+INC2847,2026-09-29 16:38,Wi-Fi / network,P3 Medium,Walk-up,Agent A,9.0,4.46,24,0,0,4
+INC2848,2026-09-29 14:22,"Hardware fault (laptop, printer)",P4 Low,Phone,Agent D,4.4,9.74,48,0,0,5
+INC2849,2026-09-29 12:13,Wi-Fi / network,P3 Medium,Email,Agent C,13.0,2.85,24,0,0,4
+INC2850,2026-09-29 13:11,Wi-Fi / network,P3 Medium,Email,Agent E,4.9,2.23,24,0,0,5
+INC2851,2026-09-29 13:43,New starter / leaver setup,P3 Medium,Email,Agent D,20.7,3.55,24,0,0,5
+INC2852,2026-09-30 12:09,Wi-Fi / network,P4 Low,Portal,Agent D,4.8,3.97,48,0,0,5
+INC2853,2026-09-30 12:20,Password reset / account lockout,P2 High,Portal,Agent C,4.0,0.35,8,0,0,5
+INC2854,2026-09-30 13:55,Email / Outlook,P3 Medium,Portal,Agent E,10.3,3.23,24,0,0,5
+INC2855,2026-09-30 10:02,Password reset / account lockout,P3 Medium,Phone,Agent E,28.5,0.95,24,0,0,4
+INC2856,2026-09-30 08:14,"Hardware fault (laptop, printer)",P4 Low,Email,Agent A,4.0,4.42,48,0,0,5
+INC2857,2026-09-30 08:17,Password reset / account lockout,P4 Low,Phone,Agent E,4.1,1.08,48,0,0,4
+INC2858,2026-09-30 16:40,Password reset / account lockout,P4 Low,Portal,Agent B,9.0,2.87,48,0,0,4
+INC2859,2026-09-30 11:15,Wi-Fi / network,P4 Low,Email,Agent A,35.8,7.17,48,0,0,4
+INC2860,2026-09-30 16:38,Wi-Fi / network,P3 Medium,Portal,Agent D,10.9,1.67,24,0,0,4
+INC2861,2026-09-30 13:16,New starter / leaver setup,P3 Medium,Email,Agent A,13.3,2.8,24,0,0,3
+INC2862,2026-09-30 15:32,Password reset / account lockout,P3 Medium,Portal,Agent B,15.4,1.4,24,0,0,4
+INC2863,2026-09-30 15:33,Email / Outlook,P2 High,Portal,Agent D,6.9,2.25,8,0,0,4
+INC2864,2026-09-30 13:13,"Hardware fault (laptop, printer)",P3 Medium,Email,Agent D,6.0,3.04,24,0,0,3
