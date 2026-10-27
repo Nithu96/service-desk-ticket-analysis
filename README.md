@@ -29,6 +29,8 @@ charts), an interactive HTML dashboard (`dashboard/`), and a Power BI build guid
 
 A web version of the dashboard (filters for priority, channel and category) is in `dashboard/service-desk-dashboard.html`. Download it and open it in any browser. It is built as an HTML page, not in Power BI.
 
+A Tableau Public version (also simulated data) is live here: [IT Service Desk Dashboard on Tableau Public](https://public.tableau.com/app/profile/niwarthana.liyanage/viz/ITServiceDeskDashboardsimulateddata/ITServiceDeskDashboardsimulateddata)
+
 ## Key findings (simulated data)
 1. **Password and account lockouts are the biggest driver: 21.7% of all tickets**, but resolve in under an hour
    on average. A self-service password reset tool would remove a fifth of the queue.
