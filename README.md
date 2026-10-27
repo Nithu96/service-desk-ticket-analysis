@@ -1,4 +1,4 @@
-# IT Service Desk Ticket Analysis (SQL + Power BI)
+# IT Service Desk Ticket Analysis (SQL + Python + Dashboard)
 
 A small portfolio project that analyses IT service desk tickets to answer the questions a service desk
 manager asks every week: *What are people contacting us about? Are we meeting our SLAs? When are we busiest?
@@ -10,7 +10,7 @@ Where can we reduce volume?*
 
 ## Tools
 SQL (SQLite syntax, includes aggregates, CASE, a subquery and a window function), Python (data generation,
-charts), Power BI (dashboard from the same CSV, see `powerbi/`).
+charts), an interactive HTML dashboard (`dashboard/`), and a Power BI build guide (`powerbi/`) for anyone with Power BI Desktop. The dashboard in this repo was not built in Power BI.
 
 ## Dataset (`data/tickets_simulated.csv`)
 | Column | Meaning |
@@ -23,6 +23,11 @@ charts), Power BI (dashboard from the same CSV, see `powerbi/`).
 
 ## Dashboard
 ![Dashboard](charts/dashboard.png)
+
+## Interactive dashboard
+![Interactive dashboard](charts/dashboard-interactive.png)
+
+A web version of the dashboard (filters for priority, channel and category) is in `dashboard/service-desk-dashboard.html`. Download it and open it in any browser. It is built as an HTML page, not in Power BI.
 
 ## Key findings (simulated data)
 1. **Password and account lockouts are the biggest driver: 21.7% of all tickets**, but resolve in under an hour
